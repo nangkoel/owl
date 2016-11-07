@@ -1,0 +1,52 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=13 align=center>
+			LAPORAN PENERIMAAN TBS INTERNAL PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=13  align=center>
+			Tanggal	&nbsp &nbsp: 28-05-2013<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Unit/Estate</b></td>
+			<td align=center><b>Divisi</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0001234//05/2013</td>
+		<td>A059799</td>
+		<td>SENE</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG4860FB</td>
+		<td align=center>17:10:31</td>
+		<td align=center>18:56:09</td	>
+		<td align=center></td>
+		<td>300</td>
+		<td>16000</td>
+		<td>6000</td>
+		<td>10000</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>300</td>
+			<td>16000</td>
+			<td>6000</td>
+			<td>10000</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:28-05-2013 19:42:14</font>

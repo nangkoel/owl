@@ -1,0 +1,57 @@
+<html><body>
+<img src="help/images/logo owl.jpg" width="7%">
+  <center><p><strong>ADMINISTRASI GUDANG<br>OWL-Plantation System V2.0</strong></p></center>
+<ol>
+  <strong><li>DIAGRAM</li></strong>
+  	<p><img src="help/images/administrasi_gudang1.jpg" width="62%"></p>
+    <p>1 = Penerimaan barang dari Supplier,  dapat diterima disetiap gudang<br>
+       2 = Mutasi antar gudang, dapat  dilakukan antar gudang kebun maupun dari gudang kebun ke gudang Afdeling kebun lain<br>
+       3 = Mutasi barang dari gudang kebun ke  afdeling<br>
+       4 = Pengembalian ke Supplier<br>
+       5 = Pengeluaran barang normal dari  gudang<br>
+       6 = Pemakaian bahan dari BKM<br>
+       7 = Retur barang ke gudang dari lapangan</p>
+  <strong><li>TUGAS-TUGAS PELAKSANA GUDANG:</li></strong>
+  <strong><li type="I" value="1"><em>Petugas Gudang Sentral:</em></li></strong>
+  <ol>
+    <li type='a'>Melakukan penerimaan barang dari Supplier</li>
+    <li type='a'>Melakukan pengeluaran barang khusus  untuk barang yang dipakai langsung, seperti ke kendaraan/alat berat, kantor  dll.</li>
+    <li type='a'>Khusus untuk barang <strong>Agrochemical dan Pupuk</strong>, transaksi yang  dilakukan adalah <strong>Mutasi barang ke Gudang kebun</strong>
+    atau gudang divisi kebun yang akan memakai barang, tidak lagi  dilakukan dari menu pengeluaran barang, namun dari mutasi.</li>
+    <li type='a'>Melakukan retur ke supplier jika ada,  retur ke supplier hanya dapat dilakukan oleh gudang yang menerima barang.  
+    Misalnya barang diterima oleh gudang SSRO, kemudian barang dimutasikan ke  gudang SKNE. 
+    Kemudian ditemui bahwa barang tidak sesuai, maka hal yang  dilakukan adalah:</li>
+  	<ol>
+      <li type="i">Petugas  gudang SKNE memutasi barang dari gudang SKNE ke gudang SSRO</li>
+      <li type="i">Petugas  Gudang SSRO menerimakan mutasi dari gudang SKNE</li>
+      <li type="i">Petugas  Gudang SSRO melakukan retur ke supplier</li>
+    </ol>
+    <li type='a'>Posting harian semua transaksi gudang  sentral (hanya untuk gudang yang ada kata &lsquo;SENTRAL&rsquo; nya)</li>
+    <li type='a'>Melakukan  Proses tutup buku fisik khusus untuk gudang yang ada kata &lsquo;SENTRAL&rsquo; NYA pada akhir bulan 
+    sebelum unit kebun tutup buku pembukuan </li>
+  </ol>
+</ol>
+<ol>
+  <strong><li type="I" value="2"><em>Petugas Gudang Kebun:</em></li></strong>
+  <ol>
+    <li type='a'>Melakukan penerimaan barang mutasi  dari Gudang Sentral(Jika ada)</li>
+    <li type='a'>Melakukan penerimaan barang dari Supplier  jika barang dikirim langsung ke gudang kebun.</li>
+    <li type='a'>Melakukan pengeluaran barang dari  gudang jika barang bukan material pada BKM</li>
+    <li type='a'>Melakukan <strong>mutasi barang dari gudang kebun ke gudang afdeling</strong> kebunnya.</li>
+    <li type='a'>Melakukan retur ke supplier atau  Gudang Sentral jika ada</li>
+    <li type='a'>Melakukan  posting harian gudang jika ada penerimaan atau pengeluaran/mutasi/retur langsung dari gudang Kebun atau Gudang Afdeling di unitnya. 
+    <strong>Khusus untuk pemakaian barang dari BKM  otomatis akan terposting</strong> pada saat posting kegiatan kebun (LC,TBM,TM).
+    <strong> Posting kegiatan kebun (BKM) akan sangat  bergantung ke stok pada afdelingnya</strong>. Jika ada penggunaan bahan pada BKM dan stok pada 
+    gudang afdelingnya tidak ada, maka BKM tidak dapat di posting.</li>
+    <li type='a'>Melakukan proses tutup buku fisik  setelah semua transaksi barang diselesaikan dalam bulan bersangkutan dan sebelum tutup buku pembukuan.</li>
+  </ol>
+</ol>
+<ol>
+  <strong><li type="I" value="3"><em>Petugas Administrasi Input BKM(Admin Tanaman/Bibitan)</em></li></strong>
+  <ol>
+    <li type='a'><strong>Memilih Gudang sumber material dengan benar</strong>   untuk barang yang dipakai pada BKM.</li>
+  </ol>
+</ol>
+<ol>
+</ol>
+</body></html>

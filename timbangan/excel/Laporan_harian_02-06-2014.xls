@@ -1,0 +1,132 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=14 align=center>
+			LAPORAN PENERIMAAN Janjang Kosong PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=14  align=center>
+			Tanggal	&nbsp &nbsp: 02-06-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Suppllier</b></td>
+			<td align=center><b>Afd</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+                                                            <td align=center><b>Potongan</b></td>
+                                                            <td align=center><b>Normal</b></td>
+			<td align=center><b>BJR</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B002115</td>
+		<td></td>
+		<td align=center></td>
+		<td>HAMSA</td>
+		<td>DT47H</td>
+		<td align=center>07:11:18</td>
+		<td align=center>08:19:50</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>7570</td>
+		<td>13830</td>
+		<td>6260</td>
+                                        <td>0</td>
+                                         <td>6260</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B002124</td>
+		<td></td>
+		<td align=center></td>
+		<td>FREDY</td>
+		<td>DT14H</td>
+		<td align=center>08:00:47</td>
+		<td align=center>08:22:09</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>3530</td>
+		<td>7590</td>
+		<td>4060</td>
+                                        <td>0</td>
+                                         <td>4060</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B002179</td>
+		<td></td>
+		<td align=center></td>
+		<td>RUDIN</td>
+		<td>DT41H</td>
+		<td align=center>14:28:28</td>
+		<td align=center>14:38:56</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>7020</td>
+		<td>12860</td>
+		<td>5840</td>
+                                        <td>0</td>
+                                         <td>5840</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B002218</td>
+		<td></td>
+		<td align=center></td>
+		<td>SLAMET</td>
+		<td>DT58H</td>
+		<td align=center>17:22:59</td>
+		<td align=center>17:30:15</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>7050</td>
+		<td>12960</td>
+		<td>5910</td>
+                                        <td>0</td>
+                                         <td>5910</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B002220</td>
+		<td></td>
+		<td align=center></td>
+		<td>SARMIN</td>
+		<td>DT45H</td>
+		<td align=center>17:32:11</td>
+		<td align=center>17:39:20</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>7110</td>
+		<td>13500</td>
+		<td>6390</td>
+                                        <td>0</td>
+                                         <td>6390</td><td bgcolor=red>0</td>		
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>0</td>
+			<td>32280</td>
+			<td>60740</td>
+			<td>28460</td>
+                                                            <td>0</td>
+                                                            <td>28460</td>    
+			<td>0.00</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:02-06-2014 16:40:02</font>

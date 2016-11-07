@@ -1,0 +1,799 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=16 align=center>
+			LAPORAN PENERIMAAN TBS EKSTERNAL PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=16  align=center>
+			Tanggal	&nbsp &nbsp: 28-12-2010<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Pengirim</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam I</b></td>
+			<td align=center><b>Tahun Tanam II</b></td>
+			<td align=center><b>Tahun Tanam III</b></td>
+			<td align=center><b>Jml.JJG I</b></td>
+			<td align=center><b>Jml.JJG II</b></td>
+			<td align=center><b>Jml.JJG III</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000674</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>DERWAN</td>
+		<td>BG8081MJ</td>
+		<td align=center>07:47:53</td>
+		<td align=center>08:12:52</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1000</td>
+		<td></td>
+		<td></td>
+		<td>10850</td>
+		<td>3270</td>
+		<td>7580</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000676</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>SUTIO</td>
+		<td>BG8171W</td>
+		<td align=center>07:50:59</td>
+		<td align=center>08:18:00</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>756</td>
+		<td></td>
+		<td></td>
+		<td>11310</td>
+		<td>3190</td>
+		<td>8120</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000678</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>ANAS</td>
+		<td>BG8100AI</td>
+		<td align=center>07:53:17</td>
+		<td align=center>08:19:40</td	>
+		<td align=center>1991</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td>11130</td>
+		<td>3390</td>
+		<td>7740</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000675</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>TUMINO</td>
+		<td>BG4816FB</td>
+		<td align=center>07:49:52</td>
+		<td align=center>09:03:10</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1478</td>
+		<td></td>
+		<td></td>
+		<td>12990</td>
+		<td>3420</td>
+		<td>9570</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000691</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>BUSRONI</td>
+		<td>BG4985FB</td>
+		<td align=center>09:48:15</td>
+		<td align=center>10:17:36</td	>
+		<td align=center>1991</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>10260</td>
+		<td>3380</td>
+		<td>6880</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000692</td>
+		<td>PT.S W A</td>
+		<td>SUPENO</td>
+		<td>BG8749UB</td>
+		<td align=center>10:11:53</td>
+		<td align=center>10:21:02</td	>
+		<td align=center>1997</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>345</td>
+		<td></td>
+		<td></td>
+		<td>9720</td>
+		<td>3890</td>
+		<td>5830</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000694</td>
+		<td>PT.S W A</td>
+		<td>GUNANTO</td>
+		<td>BG8642UB</td>
+		<td align=center>10:14:57</td>
+		<td align=center>10:25:49</td	>
+		<td align=center>1997</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>540</td>
+		<td></td>
+		<td></td>
+		<td>9330</td>
+		<td>3750</td>
+		<td>5580</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000697</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>TONO</td>
+		<td>BE9688WA</td>
+		<td align=center>10:32:27</td>
+		<td align=center>10:52:01</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>670</td>
+		<td></td>
+		<td></td>
+		<td>11590</td>
+		<td>3600</td>
+		<td>7990</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000699</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>ANAS</td>
+		<td>BG8100AI</td>
+		<td align=center>10:35:42</td>
+		<td align=center>10:53:52</td	>
+		<td align=center>1990</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>265</td>
+		<td></td>
+		<td></td>
+		<td>8670</td>
+		<td>3430</td>
+		<td>5240</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000698</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>LIKIN</td>
+		<td>BE4192AV</td>
+		<td align=center>10:33:48</td>
+		<td align=center>11:04:58</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1049</td>
+		<td></td>
+		<td></td>
+		<td>11600</td>
+		<td>3300</td>
+		<td>8300</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000696</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>EDI</td>
+		<td>BE4637BE</td>
+		<td align=center>10:30:58</td>
+		<td align=center>11:06:37</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1312</td>
+		<td></td>
+		<td></td>
+		<td>11810</td>
+		<td>3580</td>
+		<td>8230</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000703</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td>deni</td>
+		<td>BG8895MI</td>
+		<td align=center>11:18:29</td>
+		<td align=center>11:33:42</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1018</td>
+		<td></td>
+		<td></td>
+		<td>10350</td>
+		<td>3790</td>
+		<td>6560</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000708</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>AJIS</td>
+		<td>BG4604FB</td>
+		<td align=center>11:25:57</td>
+		<td align=center>11:58:39</td	>
+		<td align=center>1990</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>382</td>
+		<td></td>
+		<td></td>
+		<td>10240</td>
+		<td>3470</td>
+		<td>6770</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000726</td>
+		<td>PT.S W A</td>
+		<td>PONIMIN</td>
+		<td>BG8644UB</td>
+		<td align=center>12:41:30</td>
+		<td align=center>13:13:30</td	>
+		<td align=center>1997</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>330</td>
+		<td></td>
+		<td></td>
+		<td>9040</td>
+		<td>3790</td>
+		<td>5250</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000729</td>
+		<td>PT. R. 6. B</td>
+		<td>mulhaki</td>
+		<td>BG8394UB</td>
+		<td align=center>12:47:50</td>
+		<td align=center>13:20:11</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>696</td>
+		<td></td>
+		<td></td>
+		<td>10280</td>
+		<td>3130</td>
+		<td>7150</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000728</td>
+		<td>PT. R. 6. B</td>
+		<td>marizan</td>
+		<td>BG8774MO</td>
+		<td align=center>12:46:36</td>
+		<td align=center>13:21:49</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>632</td>
+		<td></td>
+		<td></td>
+		<td>10290</td>
+		<td>3400</td>
+		<td>6890</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000727</td>
+		<td>PT. R. 6. B</td>
+		<td>JOKO</td>
+		<td>BG4708DB</td>
+		<td align=center>12:42:56</td>
+		<td align=center>13:26:13</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>689</td>
+		<td></td>
+		<td></td>
+		<td>13570</td>
+		<td>3610</td>
+		<td>9960</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000744</td>
+		<td>H.SOFYAN</td>
+		<td>GIMIN</td>
+		<td>BG4868FB</td>
+		<td align=center>13:44:03</td>
+		<td align=center>14:19:16</td	>
+		<td align=center>1991</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>236</td>
+		<td></td>
+		<td></td>
+		<td>8840</td>
+		<td>3720</td>
+		<td>5120</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000745</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td>SELAMAT</td>
+		<td>BG8709F</td>
+		<td align=center>13:45:38</td>
+		<td align=center>14:30:40</td	>
+		<td align=center>1993</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>290</td>
+		<td></td>
+		<td></td>
+		<td>9430</td>
+		<td>3500</td>
+		<td>5930</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000759</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>anas</td>
+		<td>BG8100AI</td>
+		<td align=center>14:17:50</td>
+		<td align=center>14:40:30</td	>
+		<td align=center>1990</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>410</td>
+		<td></td>
+		<td></td>
+		<td>10580</td>
+		<td>3430</td>
+		<td>7150</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000764</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td>KIRUN</td>
+		<td>BG9011FL</td>
+		<td align=center>14:52:58</td>
+		<td align=center>15:12:02</td	>
+		<td align=center>1993</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>290</td>
+		<td></td>
+		<td></td>
+		<td>9370</td>
+		<td>3220</td>
+		<td>6150</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000766</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>MUSTOMI</td>
+		<td>BG4326MK</td>
+		<td align=center>14:55:09</td>
+		<td align=center>15:24:15</td	>
+		<td align=center>1990</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>533</td>
+		<td></td>
+		<td></td>
+		<td>12200</td>
+		<td>3500</td>
+		<td>8700</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000770</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td>BADRI</td>
+		<td>BG4003FD</td>
+		<td align=center>15:00:02</td>
+		<td align=center>15:31:39</td	>
+		<td align=center>1993</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>333</td>
+		<td></td>
+		<td></td>
+		<td>9990</td>
+		<td>3340</td>
+		<td>6650</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000776</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>jayamin</td>
+		<td>BG4367EB</td>
+		<td align=center>15:40:58</td>
+		<td align=center>16:25:49</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1211</td>
+		<td></td>
+		<td></td>
+		<td>11210</td>
+		<td>3240</td>
+		<td>7970</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000793</td>
+		<td>GM.SELAMET</td>
+		<td>limi</td>
+		<td>BG4342MB</td>
+		<td align=center>16:06:52</td>
+		<td align=center>16:42:33</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>339</td>
+		<td></td>
+		<td></td>
+		<td>9180</td>
+		<td>3610</td>
+		<td>5570</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000788</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>supria</td>
+		<td>BE9816BR</td>
+		<td align=center>16:01:10</td>
+		<td align=center>16:47:06</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1283</td>
+		<td></td>
+		<td></td>
+		<td>11570</td>
+		<td>3600</td>
+		<td>7970</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000787</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>supri</td>
+		<td>BE9702WA</td>
+		<td align=center>15:59:56</td>
+		<td align=center>16:48:38</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>974</td>
+		<td></td>
+		<td></td>
+		<td>12110</td>
+		<td>3640</td>
+		<td>8470</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000799</td>
+		<td>IS.EFENDI HARAHAP</td>
+		<td>mustaman</td>
+		<td>BG4985FB</td>
+		<td align=center>17:07:31</td>
+		<td align=center>18:01:18</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>574</td>
+		<td></td>
+		<td></td>
+		<td>12050</td>
+		<td>3350</td>
+		<td>8700</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>98</td>
+		<td>A000800</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td>maidi</td>
+		<td>BG9632C</td>
+		<td align=center>17:08:43</td>
+		<td align=center>18:02:54</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>567</td>
+		<td></td>
+		<td></td>
+		<td>13470</td>
+		<td>3250</td>
+		<td>10220</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000814</td>
+		<td>GM.SELAMET</td>
+		<td>rino</td>
+		<td>BG4604FB</td>
+		<td align=center>17:28:09</td>
+		<td align=center>18:06:14</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>399</td>
+		<td></td>
+		<td></td>
+		<td>10040</td>
+		<td>3460</td>
+		<td>6580</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3279</td>
+		<td>A000801</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>fazilin</td>
+		<td>BG8546F</td>
+		<td align=center>17:11:29</td>
+		<td align=center>18:09:30</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1599</td>
+		<td></td>
+		<td></td>
+		<td>11980</td>
+		<td>3450</td>
+		<td>8530</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>387</td>
+		<td>A000819</td>
+		<td>KUD MITRA WALL</td>
+		<td>jali</td>
+		<td>BE4351NB</td>
+		<td align=center>17:33:59</td>
+		<td align=center>18:12:39</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td>9610</td>
+		<td>3230</td>
+		<td>6380</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000821</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td>uus</td>
+		<td>BG4856MH</td>
+		<td align=center>17:36:29</td>
+		<td align=center>18:18:44</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>437</td>
+		<td></td>
+		<td></td>
+		<td>11410</td>
+		<td>3290</td>
+		<td>8120</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000806</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>mili</td>
+		<td>BG8101Y</td>
+		<td align=center>17:17:34</td>
+		<td align=center>18:20:19</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>446</td>
+		<td></td>
+		<td></td>
+		<td>11330</td>
+		<td>3640</td>
+		<td>7690</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000808</td>
+		<td>MUSTOPA KAMAL</td>
+		<td>bidin</td>
+		<td>BG8729YA</td>
+		<td align=center>17:19:56</td>
+		<td align=center>18:21:56</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>433</td>
+		<td></td>
+		<td></td>
+		<td>10690</td>
+		<td>4020</td>
+		<td>6670</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>328</td>
+		<td>A000844</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>rizal</td>
+		<td>BG8635F</td>
+		<td align=center>19:48:10</td>
+		<td align=center>20:17:32</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>810</td>
+		<td></td>
+		<td></td>
+		<td>12030</td>
+		<td>3520</td>
+		<td>8510</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3285</td>
+		<td>A000845</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>robet</td>
+		<td>BG8636F</td>
+		<td align=center>19:50:17</td>
+		<td align=center>20:22:22</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1250</td>
+		<td></td>
+		<td></td>
+		<td>11570</td>
+		<td>3570</td>
+		<td>8000</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3283</td>
+		<td>A000846</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>mulani</td>
+		<td>BE9533WA</td>
+		<td align=center>19:51:54</td>
+		<td align=center>20:25:59</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>828</td>
+		<td></td>
+		<td></td>
+		<td>12180</td>
+		<td>3550</td>
+		<td>8630</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000847</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>asep</td>
+		<td>BG9127Y</td>
+		<td align=center>19:53:15</td>
+		<td align=center>20:28:53</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>755</td>
+		<td></td>
+		<td></td>
+		<td>12070</td>
+		<td>3320</td>
+		<td>8750</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000843</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td>davii</td>
+		<td>BE9689WA</td>
+		<td align=center>19:45:51</td>
+		<td align=center>20:31:03</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1325</td>
+		<td></td>
+		<td></td>
+		<td>12710</td>
+		<td>3700</td>
+		<td>9010</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=13 align=right><b>TOTAL:</b></td>
+			<!--<td>26934</td>-->
+			<td>438650</td>
+			<td>139540</td>
+			<td>299110</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:05-01-2011 10:44:37</font>

@@ -1,0 +1,830 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=8 align=center>
+			LAPORAN TOTAL PENGELUARAN BARANG PER TANGGAL (Inti Sawit(PK) ke Komaligon)
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=8  align=center>
+			Tanggal	&nbsp &nbsp: 23-09-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>BUYER</b></td>
+			<td align=center><b>CTRNO</b></td>			
+			<td align=center><b>DO</b></td>
+			<td align=center><b>TRANSPORTER</b></td>			
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014118</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUJIONO</td>		
+		<td>ANTON</td>
+		<td>DN8691F</td>
+		<td align=center>06:57:48</td>
+		<td align=center>07:25:28</td	>
+		<td>3300</td>
+		<td>10580</td>
+		<td>7280</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014117</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY B. SAERANG</td>		
+		<td>JEFRY</td>
+		<td>DN8609FY</td>
+		<td align=center>06:57:05</td>
+		<td align=center>07:36:01</td	>
+		<td>2940</td>
+		<td>9110</td>
+		<td>6170</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014120</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ASPIA OLEH</td>		
+		<td>HASAN</td>
+		<td>DN8623VB</td>
+		<td align=center>07:19:09</td>
+		<td align=center>07:51:12</td	>
+		<td>3540</td>
+		<td>12190</td>
+		<td>8650</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014121</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>NIRMA</td>		
+		<td>ANDI</td>
+		<td>DN8829F</td>
+		<td align=center>07:19:44</td>
+		<td align=center>07:54:43</td	>
+		<td>3440</td>
+		<td>10300</td>
+		<td>6860</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014122</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JAMALUDIN</td>		
+		<td>DEFRY</td>
+		<td>DB8258AP</td>
+		<td align=center>07:20:24</td>
+		<td align=center>08:08:24</td	>
+		<td>3660</td>
+		<td>11680</td>
+		<td>8020</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014124</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DJAMALUDIN IS.BOUTI</td>		
+		<td>JAMALUDIN</td>
+		<td>DN8611FA</td>
+		<td align=center>07:22:52</td>
+		<td align=center>08:13:52</td	>
+		<td>3370</td>
+		<td>11070</td>
+		<td>7700</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014123</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SALMAN U.MANTO</td>		
+		<td>MANG</td>
+		<td>DN8653DB</td>
+		<td align=center>07:20:59</td>
+		<td align=center>08:25:47</td	>
+		<td>3180</td>
+		<td>9530</td>
+		<td>6350</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014129</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>H.SURIANI</td>		
+		<td>AMIR</td>
+		<td>DN8695F</td>
+		<td align=center>07:57:47</td>
+		<td align=center>08:44:15</td	>
+		<td>3590</td>
+		<td>11340</td>
+		<td>7750</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014131</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DIKSON WAROUW</td>		
+		<td>DIKSON</td>
+		<td>DB8315AY</td>
+		<td align=center>08:00:20</td>
+		<td align=center>08:48:40</td	>
+		<td>3060</td>
+		<td>9090</td>
+		<td>6030</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014139</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>PATNUR</td>		
+		<td>HAMSAH</td>
+		<td>DN8816A</td>
+		<td align=center>08:20:44</td>
+		<td align=center>08:58:34</td	>
+		<td>3240</td>
+		<td>9630</td>
+		<td>6390</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014138</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>HARSONO</td>		
+		<td>RAJAK</td>
+		<td>DN8659F</td>
+		<td align=center>08:20:04</td>
+		<td align=center>09:00:23</td	>
+		<td>3050</td>
+		<td>9130</td>
+		<td>6080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014145</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY B. SAERANG</td>		
+		<td>JEFRY</td>
+		<td>DM8130E</td>
+		<td align=center>08:46:37</td>
+		<td align=center>09:22:40</td	>
+		<td>3220</td>
+		<td>10300</td>
+		<td>7080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014143</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>Drs. IBRAHIM S. GURUGALA</td>		
+		<td>STEVEN</td>
+		<td>DN8701F</td>
+		<td align=center>08:43:11</td>
+		<td align=center>09:30:39</td	>
+		<td>3350</td>
+		<td>11590</td>
+		<td>8240</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014154</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SAHID U.MANTO</td>		
+		<td>SAHID</td>
+		<td>DN8649CC</td>
+		<td align=center>09:07:26</td>
+		<td align=center>09:41:30</td	>
+		<td>3430</td>
+		<td>10530</td>
+		<td>7100</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014146</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>AGUSTINUS</td>		
+		<td>PALAR MANGGE</td>
+		<td>DN8659AH</td>
+		<td align=center>08:47:10</td>
+		<td align=center>10:01:36</td	>
+		<td>3180</td>
+		<td>9610</td>
+		<td>6430</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014147</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SYAMSIA AS ACHMAD</td>		
+		<td>IYONG</td>
+		<td>DN8614DE</td>
+		<td align=center>08:47:45</td>
+		<td align=center>10:03:15</td	>
+		<td>3480</td>
+		<td>11600</td>
+		<td>8120</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014148</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>I WAYAN SUDADNYA</td>		
+		<td>WAYAN</td>
+		<td>DN8689F</td>
+		<td align=center>08:53:22</td>
+		<td align=center>10:33:26</td	>
+		<td>3580</td>
+		<td>13250</td>
+		<td>9670</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014149</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ELKI SUTENO</td>		
+		<td>ELKI</td>
+		<td>DN8858AL</td>
+		<td align=center>08:55:11</td>
+		<td align=center>10:35:23</td	>
+		<td>3440</td>
+		<td>12740</td>
+		<td>9300</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014156</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY</td>		
+		<td>SUKRI</td>
+		<td>DB8218AT</td>
+		<td align=center>09:13:47</td>
+		<td align=center>10:53:51</td	>
+		<td>3270</td>
+		<td>10370</td>
+		<td>7100</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014153</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>RATNA M.GANI</td>		
+		<td>ARFAN</td>
+		<td>DN8616F</td>
+		<td align=center>09:07:02</td>
+		<td align=center>11:11:51</td	>
+		<td>3040</td>
+		<td>9500</td>
+		<td>6460</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014157</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SABRAN  AM.APD</td>		
+		<td>SABRAN</td>
+		<td>DN8641ED</td>
+		<td align=center>09:18:08</td>
+		<td align=center>12:00:44</td	>
+		<td>3460</td>
+		<td>13110</td>
+		<td>9650</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014162</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SENDY LIMAWAN</td>		
+		<td>SAMSU</td>
+		<td>DB8936AY</td>
+		<td align=center>09:29:07</td>
+		<td align=center>12:23:21</td	>
+		<td>3130</td>
+		<td>9700</td>
+		<td>6570</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014161</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SADRI PATAHUDIN</td>		
+		<td>SADRI</td>
+		<td>DD9454AJ</td>
+		<td align=center>09:24:49</td>
+		<td align=center>12:38:36</td	>
+		<td>3320</td>
+		<td>11750</td>
+		<td>8430</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014167</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>RUSTAM</td>		
+		<td>RAMLI</td>
+		<td>DN8675F</td>
+		<td align=center>09:51:10</td>
+		<td align=center>13:00:23</td	>
+		<td>3740</td>
+		<td>12430</td>
+		<td>8690</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014179</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUJIONO</td>		
+		<td>ANTON</td>
+		<td>DN8691F</td>
+		<td align=center>10:30:25</td>
+		<td align=center>13:16:18</td	>
+		<td>3290</td>
+		<td>10830</td>
+		<td>7540</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014184</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>IDRUS ABU BAKAR</td>		
+		<td>ZEIN</td>
+		<td>DN8480VF</td>
+		<td align=center>10:48:55</td>
+		<td align=center>13:38:33</td	>
+		<td>3340</td>
+		<td>10250</td>
+		<td>6910</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014186</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SANDY KATILI</td>		
+		<td>SANDY</td>
+		<td>DN8679F</td>
+		<td align=center>10:51:06</td>
+		<td align=center>14:00:08</td	>
+		<td>3110</td>
+		<td>10160</td>
+		<td>7050</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014189</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>NURBUBA A LATIF</td>		
+		<td>ANDING</td>
+		<td>DB8685KY</td>
+		<td align=center>11:02:07</td>
+		<td align=center>14:18:03</td	>
+		<td>3660</td>
+		<td>11180</td>
+		<td>7520</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014190</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY B. SAERANG</td>		
+		<td>JEFRY</td>
+		<td>DN8609FY</td>
+		<td align=center>11:02:43</td>
+		<td align=center>14:22:06</td	>
+		<td>2920</td>
+		<td>9210</td>
+		<td>6290</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014215</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>NIRMA</td>		
+		<td>ANDI</td>
+		<td>DN8829F</td>
+		<td align=center>13:14:41</td>
+		<td align=center>14:47:39</td	>
+		<td>3470</td>
+		<td>10380</td>
+		<td>6910</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014191</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ASPIA OLEH</td>		
+		<td>HASAN</td>
+		<td>DN8623VB</td>
+		<td align=center>11:06:55</td>
+		<td align=center>15:09:54</td	>
+		<td>3550</td>
+		<td>13130</td>
+		<td>9580</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014228</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JAMALUDIN</td>		
+		<td>DEFRY</td>
+		<td>DB8258AP</td>
+		<td align=center>13:48:14</td>
+		<td align=center>15:11:41</td	>
+		<td>3680</td>
+		<td>11760</td>
+		<td>8080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014238</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DJAMALUDIN IS.BOUTI</td>		
+		<td>DJAMALUDIN</td>
+		<td>DN8611FA</td>
+		<td align=center>14:31:10</td>
+		<td align=center>15:31:47</td	>
+		<td>3390</td>
+		<td>11120</td>
+		<td>7730</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014239</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SALMAN U.MANTO</td>		
+		<td>MANG</td>
+		<td>DN8653DB</td>
+		<td align=center>14:32:09</td>
+		<td align=center>15:51:00</td	>
+		<td>3200</td>
+		<td>9820</td>
+		<td>6620</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014246</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>H.SURIANI</td>		
+		<td>AMIR</td>
+		<td>DN8695F</td>
+		<td align=center>14:52:13</td>
+		<td align=center>16:14:39</td	>
+		<td>3640</td>
+		<td>11690</td>
+		<td>8050</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014250</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>PATNUR</td>		
+		<td>HAMSA</td>
+		<td>DN8816A</td>
+		<td align=center>15:17:01</td>
+		<td align=center>16:34:48</td	>
+		<td>3230</td>
+		<td>9670</td>
+		<td>6440</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014251</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DIKSON WAROUW</td>		
+		<td>DIKSON</td>
+		<td>DB8315AY</td>
+		<td align=center>15:18:04</td>
+		<td align=center>16:54:23</td	>
+		<td>3030</td>
+		<td>8860</td>
+		<td>5830</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014259</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY B. SAERANG</td>		
+		<td>JEFRY</td>
+		<td>DM8130E</td>
+		<td align=center>15:38:59</td>
+		<td align=center>17:18:56</td	>
+		<td>3260</td>
+		<td>9940</td>
+		<td>6680</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014307</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>IBRAHIM S GURUGALA</td>		
+		<td>STEVEN</td>
+		<td>DN8701F</td>
+		<td align=center>18:23:25</td>
+		<td align=center>19:14:49</td	>
+		<td>3380</td>
+		<td>11610</td>
+		<td>8230</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014258</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SAHID U.MANTO</td>		
+		<td>SAID</td>
+		<td>DN8649CC</td>
+		<td align=center>15:38:17</td>
+		<td align=center>19:31:32</td	>
+		<td>3440</td>
+		<td>10390</td>
+		<td>6950</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014260</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SYAMSIA AS ACHMAD</td>		
+		<td>IYONG</td>
+		<td>DN8614DE</td>
+		<td align=center>15:44:06</td>
+		<td align=center>19:52:51</td	>
+		<td>3520</td>
+		<td>11520</td>
+		<td>8000</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014261</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>AGUSTINUS</td>		
+		<td>PALAR MANGGE</td>
+		<td>DN8659AH</td>
+		<td align=center>15:45:54</td>
+		<td align=center>20:14:58</td	>
+		<td>3200</td>
+		<td>9460</td>
+		<td>6260</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014282</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ELKI SUTENO</td>		
+		<td>ELKI</td>
+		<td>DN8858AL</td>
+		<td align=center>16:43:11</td>
+		<td align=center>20:26:19</td	>
+		<td>3440</td>
+		<td>12810</td>
+		<td>9370</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014313</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY</td>		
+		<td>SUKRI</td>
+		<td>DB8218AT</td>
+		<td align=center>18:49:29</td>
+		<td align=center>20:43:42</td	>
+		<td>3300</td>
+		<td>10540</td>
+		<td>7240</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014300</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>RATNA M.GANI</td>		
+		<td>ARFAN</td>
+		<td>DN8616F</td>
+		<td align=center>17:55:49</td>
+		<td align=center>20:46:35</td	>
+		<td>3120</td>
+		<td>9550</td>
+		<td>6430</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014314</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUJIONO</td>		
+		<td>MUJIONO</td>
+		<td>DN8694F</td>
+		<td align=center>19:19:21</td>
+		<td align=center>21:23:16</td	>
+		<td>3350</td>
+		<td>10440</td>
+		<td>7090</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014316</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SENDY LIMAWAN</td>		
+		<td>SAMSU</td>
+		<td>DB8936AY</td>
+		<td align=center>19:56:34</td>
+		<td align=center>21:44:11</td	>
+		<td>3120</td>
+		<td>9290</td>
+		<td>6170</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014315</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUSLIM AKASE</td>		
+		<td>SIGIT</td>
+		<td>DN8838F</td>
+		<td align=center>19:37:17</td>
+		<td align=center>21:54:49</td	>
+		<td>3170</td>
+		<td>9610</td>
+		<td>6440</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014319</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUJIONO</td>		
+		<td>ANTON</td>
+		<td>DN8691F</td>
+		<td align=center>20:30:41</td>
+		<td align=center>22:33:03</td	>
+		<td>3350</td>
+		<td>8000</td>
+		<td>4650</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014317</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SADRI PATAHUDIN</td>		
+		<td>SADRI</td>
+		<td>DD9454AJ</td>
+		<td align=center>20:20:09</td>
+		<td align=center>22:34:52</td	>
+		<td>3310</td>
+		<td>10150</td>
+		<td>6840</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014321</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>RUSTAM</td>		
+		<td>RAMLI</td>
+		<td>DN8675F</td>
+		<td align=center>20:49:02</td>
+		<td align=center>23:24:51</td	>
+		<td>3730</td>
+		<td>10410</td>
+		<td>6680</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014322</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>IDRUS ABU BAKAR</td>		
+		<td>ZEIN</td>
+		<td>DN8480VF</td>
+		<td align=center>20:50:05</td>
+		<td align=center>23:36:45</td	>
+		<td>3360</td>
+		<td>10350</td>
+		<td>6990</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B014323</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SANDY KATILI</td>		
+		<td>SANDY</td>
+		<td>DN8679F</td>
+		<td align=center>21:27:22</td>
+		<td align=center>23:46:47</td	>
+		<td>3110</td>
+		<td>9510</td>
+		<td>6400</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<!--<td>0</td>-->
+			<td>176680</td>
+			<td>561770</td>
+			<td>385090</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:01-10-2014 13:04:20</font>

@@ -1,0 +1,575 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=8 align=center>
+			LAPORAN TOTAL PENGELUARAN BARANG PER TANGGAL (CPO Ke Bulking Station Modo)
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=8  align=center>
+			Tanggal	&nbsp &nbsp: 23-06-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>BUYER</b></td>
+			<td align=center><b>CTRNO</b></td>			
+			<td align=center><b>DO</b></td>
+			<td align=center><b>TRANSPORTER</b></td>			
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005112</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ARIANTO</td>
+		<td>TT34H</td>
+		<td align=center>07:06:00</td>
+		<td align=center>07:17:30</td	>
+		<td>3550</td>
+		<td>8420</td>
+		<td>4870</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005113</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>RASID</td>
+		<td>TT31H</td>
+		<td align=center>07:06:38</td>
+		<td align=center>07:22:52</td	>
+		<td>3570</td>
+		<td>9050</td>
+		<td>5480</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005114</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>SAPRIN</td>
+		<td>TT32H</td>
+		<td align=center>07:07:10</td>
+		<td align=center>07:27:18</td	>
+		<td>3650</td>
+		<td>9130</td>
+		<td>5480</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005115</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Amanah</td>		
+		<td>ANDING</td>
+		<td>KA01</td>
+		<td align=center>07:07:41</td>
+		<td align=center>07:30:52</td	>
+		<td>3490</td>
+		<td>8850</td>
+		<td>5360</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005116</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>KOPTAN BUKIT PIONOTO</td>		
+		<td>ANTO</td>
+		<td>DM8599A</td>
+		<td align=center>07:08:09</td>
+		<td align=center>07:36:19</td	>
+		<td>3460</td>
+		<td>8660</td>
+		<td>5200</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005117</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>VERY ALBAKIR</td>
+		<td>TT22H</td>
+		<td align=center>07:08:47</td>
+		<td align=center>07:37:26</td	>
+		<td>3050</td>
+		<td>7120</td>
+		<td>4070</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005118</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>JOHAN</td>
+		<td>TT37H</td>
+		<td align=center>07:09:57</td>
+		<td align=center>07:41:44</td	>
+		<td>3380</td>
+		<td>8680</td>
+		<td>5300</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005119</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>M AYUB</td>
+		<td>TT30H</td>
+		<td align=center>07:12:56</td>
+		<td align=center>07:43:13</td	>
+		<td>3640</td>
+		<td>8340</td>
+		<td>4700</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005121</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Plaza</td>		
+		<td>SAMSU</td>
+		<td>KP02</td>
+		<td align=center>07:19:00</td>
+		<td align=center>07:49:16</td	>
+		<td>3250</td>
+		<td>8330</td>
+		<td>5080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005122</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Plaza</td>		
+		<td>AMIR</td>
+		<td>KP03</td>
+		<td align=center>07:19:53</td>
+		<td align=center>07:52:17</td	>
+		<td>3550</td>
+		<td>8970</td>
+		<td>5420</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005127</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>RONY</td>
+		<td>TT36H</td>
+		<td align=center>07:40:58</td>
+		<td align=center>07:58:43</td	>
+		<td>3380</td>
+		<td>8640</td>
+		<td>5260</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005129</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>MARSUDI</td>
+		<td>TT19H</td>
+		<td align=center>07:50:32</td>
+		<td align=center>08:02:23</td	>
+		<td>3010</td>
+		<td>7430</td>
+		<td>4420</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005128</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ARMIN</td>
+		<td>TT26H</td>
+		<td align=center>07:47:37</td>
+		<td align=center>08:06:27</td	>
+		<td>3260</td>
+		<td>8540</td>
+		<td>5280</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005133</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>YAMADINUS YADI</td>
+		<td>TT23H</td>
+		<td align=center>08:01:11</td>
+		<td align=center>08:25:44</td	>
+		<td>3160</td>
+		<td>6790</td>
+		<td>3630</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005140</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ZAENAL</td>
+		<td>TT25H</td>
+		<td align=center>08:44:09</td>
+		<td align=center>08:55:27</td	>
+		<td>3260</td>
+		<td>8010</td>
+		<td>4750</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005171</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ARIANTO</td>
+		<td>TT34H</td>
+		<td align=center>11:06:50</td>
+		<td align=center>11:15:06</td	>
+		<td>3570</td>
+		<td>8530</td>
+		<td>4960</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005176</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Amanah</td>		
+		<td>ANDING</td>
+		<td>KA01</td>
+		<td align=center>11:17:28</td>
+		<td align=center>11:27:10</td	>
+		<td>3460</td>
+		<td>8790</td>
+		<td>5330</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005180</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>SAPRIN</td>
+		<td>TT32H</td>
+		<td align=center>11:24:02</td>
+		<td align=center>11:33:59</td	>
+		<td>3720</td>
+		<td>9190</td>
+		<td>5470</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005182</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>JOHAN</td>
+		<td>TT37H</td>
+		<td align=center>11:25:33</td>
+		<td align=center>11:38:37</td	>
+		<td>3410</td>
+		<td>8700</td>
+		<td>5290</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005184</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Plaza</td>		
+		<td>AMIR</td>
+		<td>KP03</td>
+		<td align=center>11:29:45</td>
+		<td align=center>11:44:59</td	>
+		<td>3530</td>
+		<td>8970</td>
+		<td>5440</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005183</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>MARSUDI</td>
+		<td>TT19H</td>
+		<td align=center>11:29:11</td>
+		<td align=center>11:49:39</td	>
+		<td>3050</td>
+		<td>7410</td>
+		<td>4360</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005185</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>KOPTAN BUKIT PIONOTO</td>		
+		<td>ANTO</td>
+		<td>DM8599A</td>
+		<td align=center>11:30:14</td>
+		<td align=center>11:52:56</td	>
+		<td>3450</td>
+		<td>8700</td>
+		<td>5250</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005192</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>RASID</td>
+		<td>TT31H</td>
+		<td align=center>11:43:13</td>
+		<td align=center>11:55:29</td	>
+		<td>3550</td>
+		<td>8960</td>
+		<td>5410</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005195</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>NAWIR</td>
+		<td>TT33H</td>
+		<td align=center>11:54:37</td>
+		<td align=center>12:01:59</td	>
+		<td>3680</td>
+		<td>9160</td>
+		<td>5480</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005202</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ARMIN</td>
+		<td>TT26H</td>
+		<td align=center>12:20:09</td>
+		<td align=center>12:29:26</td	>
+		<td>3270</td>
+		<td>8600</td>
+		<td>5330</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005188</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>VERY ALBAKIR</td>
+		<td>TT22H</td>
+		<td align=center>11:36:07</td>
+		<td align=center>12:34:10</td	>
+		<td>3050</td>
+		<td>6950</td>
+		<td>3900</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005203</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>YAMADINUS YADI</td>
+		<td>TT23H</td>
+		<td align=center>12:27:50</td>
+		<td align=center>12:46:40</td	>
+		<td>3140</td>
+		<td>6880</td>
+		<td>3740</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005208</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>DASWAR</td>
+		<td>TT28H</td>
+		<td align=center>12:48:02</td>
+		<td align=center>12:57:16</td	>
+		<td>3490</td>
+		<td>8590</td>
+		<td>5100</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005215</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>RONY</td>
+		<td>TT36H</td>
+		<td align=center>13:27:21</td>
+		<td align=center>13:37:03</td	>
+		<td>3390</td>
+		<td>8510</td>
+		<td>5120</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005228</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>M AYUB</td>
+		<td>TT30H</td>
+		<td align=center>14:14:17</td>
+		<td align=center>14:22:42</td	>
+		<td>3650</td>
+		<td>8130</td>
+		<td>4480</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005231</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>ARIANTO</td>
+		<td>TT34H</td>
+		<td align=center>14:23:57</td>
+		<td align=center>14:35:29</td	>
+		<td>3600</td>
+		<td>8580</td>
+		<td>4980</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005244</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>TRUK TANKI HIP</td>		
+		<td>RASID</td>
+		<td>TT31H</td>
+		<td align=center>15:09:22</td>
+		<td align=center>15:28:06</td	>
+		<td>3530</td>
+		<td>9070</td>
+		<td>5540</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005260</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Plaza</td>		
+		<td>SAMSU</td>
+		<td>KP02</td>
+		<td align=center>15:55:56</td>
+		<td align=center>16:10:59</td	>
+		<td>3250</td>
+		<td>8330</td>
+		<td>5080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005257</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>KOPTAN BUKIT PIONOTO</td>		
+		<td>ANTO</td>
+		<td>DM8599A</td>
+		<td align=center>15:49:42</td>
+		<td align=center>16:11:57</td	>
+		<td>3430</td>
+		<td>8750</td>
+		<td>5320</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005261</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Amanah</td>		
+		<td>ANDING</td>
+		<td>KA01</td>
+		<td align=center>15:56:24</td>
+		<td align=center>16:12:59</td	>
+		<td>3440</td>
+		<td>8800</td>
+		<td>5360</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B005265</td>
+		<td>TRUK TANGKI HIP</td>
+		<td>MUTASI_CPO_HIP</td>
+		<td>SIPB_MUTASI_CPO_HIP</td>	
+		<td>Koperasi Plasma Plaza</td>		
+		<td>AMIR</td>
+		<td>KP03</td>
+		<td align=center>15:59:12</td>
+		<td align=center>16:18:27</td	>
+		<td>3550</td>
+		<td>8990</td>
+		<td>5440</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<!--<td>0</td>-->
+			<td>122870</td>
+			<td>303550</td>
+			<td>180680</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:24-06-2014 17:02:04</font>

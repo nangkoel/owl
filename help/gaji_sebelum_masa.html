@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<p><strong>PEMBAYARAN GAJI SEBELUM MASA PENGGAJIAN</strong></p>
+<p>Tanya :</p>
+<p>Saya mau menanyakan perihal input data di OWL atas pembayaran gaji karyawan sebelum masa penggajian (remise 2).</br>
+Misalnya : Gaji atas nama "XXX" per tgl 22 April 2013 :</br>
+            HK = Rp. 700.600 + Premi = Rp. 40.000,-</br>
+            Jumlah dibayarkan via KAS (by. Kasir) = Rp. 740.600,-</br>
+Opsi saya :</br>
+1. a. - untuk JURNAL KAS (by KASIR):</br>
+             Debet (Gaji YMHD) = 740.600,-</br>
+                  Kredit ( KAS )            = 740.600,-</br>
+                       ===== A T A U ====</br>
+                            Debet (Pinjaman Karyawan / Piutang Non Staf) = 740.600,-</br>
+                     Kredit  ( KAS )                                   = 740.600,-</br>
+</br>
+2. b. - untuk INPUT Payroll di OWL  (by. Payroll) pada Menu SDM -> Transaksi -> Administrasi Personalia</br>
+         --> Potongan HK = 700.600</br>
+         --> Potongan Premi Sudah Dibayar = 40.000</br>
+</br>
+                  === ATAU ====</br>
+</br>
+       - Potongan Karyawan = 740.600,-</br>
+</br>
+Demikian pak. Mohon saran petunjuknya atas opsi tersebut diatas atau jika ada opsi lain. </p>
+<p>Jawab :</p>
+<p>Gunakan(Keuangan):</br>
+</br>
+       Debet (Pinjaman Karyawan / Piutang Non Staf)     = 740.600,-</br>
+       Kredit  ( KAS )                               = 740.600,-</br>
+</br>
+dan di SDM owl gunakan</br>
+        - Potongan Karyawan = 740.600,-</br>
+</br>
+ ========================================================================================</br>
+Mengapa..? Karena, jika</br>
+</br>
+            Debet (Gaji YMHD) = 740.600,-</br>
+                 Kredit ( KAS )            = 740.600,-</br>
+</br>
+Maka  Gaji YMHD sebesar 740.600 itu tidak teralokasi ke tanaman</br>
+</br>
+dan di SDM Gaji</br>
+</br>
+        --> Potongan HK = 700.600</br>
+        --> Potongan Premi Sudah Dibayar = 40.000</br>
+</br>
+akan dianggap absen tidak dibayar sebesar 700.600 (mangkir)</p>
+</body>
+
+<body>
+
+
+
+</html>

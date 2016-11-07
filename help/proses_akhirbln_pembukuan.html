@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<p><strong>PROSES AKHIR BULAN PEMBUKUAN</strong></p>
+<p>Langkah-langkah untuk mengalokasikan gaji bagian sipil ke  transit perumahan :</p>
+<p>Masuk ke menu, berikut tampilannya :</p>
+<p><img src="help/images/proses_akhir_bln.jpg" width=50%/></p>
+<p>Keterangan:</p>
+<ol>
+  <li>Gudang: Fungsinya untuk menarik transaksi gudang  ke pembukuan. Data yang ditarik adalah semua transaksi penerimaan dan  pengeluaran barang dengan ketentuan sbb:</li>
+  <ol>
+    <li>Barang akan dialokasikan ke pekerjaan yang  dipilih pada transaksi pengeluaran atau ke kendaraan yang dipilih pada  transaksi pengeluaran.</li>
+    <li>Jika pengguna barang bukan unit pemilik barang,  maka system akan membuatkan jurnal hutang/piutang afiliasi sehingga kedua unit  tidak perlu membuat jurnal lagi.</li>
+    <li><strong>Pengecualian  pada pengeluaran barang</strong>: jika barang yang dikeluarkan dari gudang adalah  aktiva(dengan kode yang diawali 9xxxx), maka barang tidak di biayakan.</li>
+    <li>Penerimaan barang akan diakui sebagai hutang  supplier.</li>
+    <li><strong>Pengecualian  pada penerimaan barang</strong>: jika barang yang diterima adalah barang aktiva  (9xxxx) maka barang harus di daftar pada daftar aktiva secara terpisah.</li>
+  </ol>
+  <li>Gaji Karyawan Tidak langsung: Fungsinya untuk  menarik gaji karyawan tidak langsung ke pembukuan dan berada pada akun gaji  yang masih harus dibayar dan gaji (By.Umum)</li>
+  <li>Gaji Karyawan Langsung: Fungsinya: memeriksa  gaji yang sudah dibiayakan dari transaksi BKM ataupun panen dibandingkan dengan  data payroll, jika ada yang kelebihan pembebanan maka secara otomatis program  akan mengurangi, jika kekurangan pembebanan maka program secara otomatis akan  menambah kekurangannya. Sehingga gaji yang masih harus dibayar dengan biaya  sama dengan gaji pada payroll.</li>
+  <li>Alokasi Traksi: Fungsinya: </li>
+  <ol>
+    <li>Menghitung biaya Bengkel</li>
+    <li>Membebankan biaya bengkel ke kendaraan</li>
+    <li>Menghitung biaya kendaraan dari gaji, biaya  bengkel, pembebanan dari kas dan mengalokasikannya ke pekerjaan sesuai dengan  lokasi dan kegiatan kendaraan selama 1 bulan.</li>
+    <li>Untuk pekerjaan kendaraan di unit lain yang  bukan unit pemilik traksi, maka owl akan membuat jurnal hutang/piutang afiliasi  pada pekerjaan di masing-masing unit, sehingga tidak perlu menjurnal manual di  kedua-belah pihak.</li>
+  </ol>
+</ol>
+<p>&nbsp;</p>
+</body>
+</html>

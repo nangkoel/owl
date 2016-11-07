@@ -1,0 +1,333 @@
+
+                <table width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+                            <td colspan=10 align=center>Laporan Pengiriman Barang Selain CPO/PK</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td colspan=10  align=center>Tanggal &nbsp: 28-08-2014<br ></td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td><br></td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td colspan=7 align=right>Dicetak Oleh :<br ></td>
+                            <td colspan=3 align=right> siwi.monofida<br ></td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td colspan=7 align=right>Tanggal Cetak :<br ></td>
+                            <td colspan=3 align=right> 29-08-2014<br ></td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td colspan=7 align=right>Jam Cetak :<br ></td>
+                            <td colspan=3 align=right> 09:20:03<br ></td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+                            <td colspan=10>Product : Janjang Kosong<br ></td>
+			</tr>
+                </table>
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>No.Kendaraan</b></td>
+			<td align=center><b>Driver</b></td>
+			<td align=center><b>Penerima</b></td>
+			<td align=center><b>Brutto</b></td>
+			<td align=center><b>Tarra</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>1</td>          
+		<td>B010425</td>
+		<td align=center>06:31:00</td>
+		<td align=center>06:38:06</td>
+		<td>DT64H</td>
+		<td>LEVIS</td>
+		<td>DIVISI 5</td>
+		<td>3660</td>
+		<td>5490</td>
+		<td>1830</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>2</td>          
+		<td>B010426</td>
+		<td align=center>06:37:17</td>
+		<td align=center>07:08:11</td>
+		<td>H13</td>
+		<td>PUR</td>
+		<td>DIVISI 3</td>
+		<td>7520</td>
+		<td>14910</td>
+		<td>7390</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>3</td>          
+		<td>B010428</td>
+		<td align=center>07:24:02</td>
+		<td align=center>07:51:53</td>
+		<td>H13</td>
+		<td>PUR</td>
+		<td>DIVISI 3</td>
+		<td>7500</td>
+		<td>14610</td>
+		<td>7110</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>4</td>          
+		<td>B010430</td>
+		<td align=center>07:35:54</td>
+		<td align=center>07:57:29</td>
+		<td>N57</td>
+		<td>FENCE</td>
+		<td>DIVISI 2</td>
+		<td>7680</td>
+		<td>16050</td>
+		<td>8370</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>5</td>          
+		<td>B010434</td>
+		<td align=center>07:51:16</td>
+		<td align=center>08:01:42</td>
+		<td>DT48H</td>
+		<td>YUSAK</td>
+		<td>DIVISI 1</td>
+		<td>7130</td>
+		<td>13080</td>
+		<td>5950</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>6</td>          
+		<td>B010435</td>
+		<td align=center>07:54:16</td>
+		<td align=center>08:04:34</td>
+		<td>H19</td>
+		<td>SUNAR</td>
+		<td>DIVISI 3</td>
+		<td>7600</td>
+		<td>13680</td>
+		<td>6080</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>7</td>          
+		<td>B010437</td>
+		<td align=center>07:56:06</td>
+		<td align=center>08:08:13</td>
+		<td>DT74H</td>
+		<td>IRFAN</td>
+		<td>DIVISI 4</td>
+		<td>7090</td>
+		<td>11520</td>
+		<td>4430</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>8</td>          
+		<td>B010439</td>
+		<td align=center>08:00:35</td>
+		<td align=center>08:10:21</td>
+		<td>DT49H</td>
+		<td>SACRIN</td>
+		<td>DIVISI 2</td>
+		<td>7060</td>
+		<td>13040</td>
+		<td>5980</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>9</td>          
+		<td>B010440</td>
+		<td align=center>08:06:13</td>
+		<td align=center>08:18:51</td>
+		<td>DT14H</td>
+		<td>FREDY</td>
+		<td>DIVISI 1</td>
+		<td>3470</td>
+		<td>7670</td>
+		<td>4200</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>10</td>          
+		<td>B010441</td>
+		<td align=center>08:09:28</td>
+		<td align=center>08:22:16</td>
+		<td>H13</td>
+		<td>PUR</td>
+		<td>DIVISI 3</td>
+		<td>7500</td>
+		<td>13400</td>
+		<td>5900</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>11</td>          
+		<td>B010442</td>
+		<td align=center>08:13:51</td>
+		<td align=center>08:29:35</td>
+		<td>H19</td>
+		<td>SUNAR</td>
+		<td>DIVISI 1</td>
+		<td>7600</td>
+		<td>13860</td>
+		<td>6260</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>12</td>          
+		<td>B010452</td>
+		<td align=center>09:10:43</td>
+		<td align=center>09:21:12</td>
+		<td>DT41H</td>
+		<td>RUDIN</td>
+		<td>DIVISI 4</td>
+		<td>7070</td>
+		<td>12620</td>
+		<td>5550</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>13</td>          
+		<td>B010486</td>
+		<td align=center>12:34:58</td>
+		<td align=center>13:29:07</td>
+		<td>DT02H</td>
+		<td>RUDI</td>
+		<td>DIVISI 1</td>
+		<td>6930</td>
+		<td>12460</td>
+		<td>5530</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>14</td>          
+		<td>B010500</td>
+		<td align=center>13:40:56</td>
+		<td align=center>13:55:15</td>
+		<td>N56</td>
+		<td>BAHAR</td>
+		<td>DIVISI 3</td>
+		<td>7700</td>
+		<td>15630</td>
+		<td>7930</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>15</td>          
+		<td>B010502</td>
+		<td align=center>13:45:08</td>
+		<td align=center>13:59:10</td>
+		<td>DT45H</td>
+		<td>SARMIN</td>
+		<td>DIVISI 4</td>
+		<td>6990</td>
+		<td>13030</td>
+		<td>6040</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>16</td>          
+		<td>B010506</td>
+		<td align=center>13:50:52</td>
+		<td align=center>14:04:05</td>
+		<td>H16</td>
+		<td>FERDI</td>
+		<td>DIVISI 2</td>
+		<td>7500</td>
+		<td>14280</td>
+		<td>6780</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>17</td>          
+		<td>B010508</td>
+		<td align=center>13:52:47</td>
+		<td align=center>14:08:23</td>
+		<td>N55</td>
+		<td>SUMARNO</td>
+		<td>DIVISI 2</td>
+		<td>7640</td>
+		<td>13990</td>
+		<td>6350</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>18</td>          
+		<td>B010529</td>
+		<td align=center>15:02:46</td>
+		<td align=center>15:49:27</td>
+		<td>H15</td>
+		<td>UDIN</td>
+		<td>DIVISI 1</td>
+		<td>7530</td>
+		<td>14690</td>
+		<td>7160</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>19</td>          
+		<td>B010534</td>
+		<td align=center>15:21:18</td>
+		<td align=center>15:52:34</td>
+		<td>H19</td>
+		<td>SUNAR</td>
+		<td>DIVISI 1</td>
+		<td>7780</td>
+		<td>14220</td>
+		<td>6440</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>20</td>          
+		<td>B010535</td>
+		<td align=center>15:22:28</td>
+		<td align=center>15:59:27</td>
+		<td>DT48H</td>
+		<td>YUSAK</td>
+		<td>DIVISI 1</td>
+		<td>7110</td>
+		<td>13550</td>
+		<td>6440</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>21</td>          
+		<td>B010545</td>
+		<td align=center>15:56:48</td>
+		<td align=center>16:41:05</td>
+		<td>N57</td>
+		<td>FENCE</td>
+		<td>DIVISI 1</td>
+		<td>7640</td>
+		<td>15660</td>
+		<td>8020</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>22</td>          
+		<td>B010570</td>
+		<td align=center>17:30:59</td>
+		<td align=center>18:09:21</td>
+		<td>DT46H</td>
+		<td>KASIM</td>
+		<td>DIVISI 4</td>
+		<td>7120</td>
+		<td>12870</td>
+		<td>5750</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=7 align=right><b>TOTAL :</b></td>
+			<!--<td>0</td>-->
+			<td>154820</td>
+			<td>290310</td>
+			<td>135490</td>
+			</tr>			
+		</table>

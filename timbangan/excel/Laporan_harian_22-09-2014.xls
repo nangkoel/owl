@@ -1,0 +1,96 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=14 align=center>
+			LAPORAN PENERIMAAN ROCK PHOSPATE PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=14  align=center>
+			Tanggal	&nbsp &nbsp: 22-09-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Suppllier</b></td>
+			<td align=center><b>Afd</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+                                                            <td align=center><b>Potongan</b></td>
+                                                            <td align=center><b>Normal</b></td>
+			<td align=center><b>BJR</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B013978</td>
+		<td></td>
+		<td align=center></td>
+		<td>HASAN</td>
+		<td>DN8623VB</td>
+		<td align=center>10:25:33</td>
+		<td align=center>14:08:28</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>11000</td>
+		<td>3550</td>
+		<td>7450</td>
+                                        <td>0</td>
+                                         <td>7450</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B013980</td>
+		<td></td>
+		<td align=center></td>
+		<td>ANDI</td>
+		<td>DN8829F</td>
+		<td align=center>10:27:55</td>
+		<td align=center>14:16:53</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>9830</td>
+		<td>3440</td>
+		<td>6390</td>
+                                        <td>0</td>
+                                         <td>6390</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>B013979</td>
+		<td></td>
+		<td align=center></td>
+		<td>STEVEN</td>
+		<td>DN8701F</td>
+		<td align=center>10:27:10</td>
+		<td align=center>14:18:00</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>10710</td>
+		<td>3300</td>
+		<td>7410</td>
+                                        <td>0</td>
+                                         <td>7410</td><td bgcolor=red>0</td>		
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>0</td>
+			<td>31540</td>
+			<td>10290</td>
+			<td>21250</td>
+                                                            <td>0</td>
+                                                            <td>21250</td>    
+			<td>0.00</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:23-09-2014 13:01:21</font>

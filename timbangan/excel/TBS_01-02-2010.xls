@@ -1,0 +1,1008 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=16 align=center>
+			LAPORAN PENERIMAAN TBS EKSTERNAL PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=16  align=center>
+			Tanggal	&nbsp &nbsp: 01-02-2010<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Unit/Estate</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam I</b></td>
+			<td align=center><b>Tahun Tanam II</b></td>
+			<td align=center><b>Tahun Tanam III</b></td>
+			<td align=center><b>Jml.JJG I</b></td>
+			<td align=center><b>Jml.JJG II</b></td>
+			<td align=center><b>Jml.JJG III</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01129.</td>
+		<td>B004073</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>MUNIB</td>
+		<td>DA 9412 LB</td>
+		<td align=center>07:23:05</td>
+		<td align=center>07:35:57</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1421</td>
+		<td></td>
+		<td></td>
+		<td>11690</td>
+		<td>4420</td>
+		<td>7270</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>33/TBS/KUD-TD.</td>
+		<td>A004072</td>
+		<td>KUD. TRI DAYA</td>
+		<td>SOLEH</td>
+		<td>DA 9733 AV</td>
+		<td align=center>07:33:37</td>
+		<td align=center>07:41:01</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>400</td>
+		<td></td>
+		<td></td>
+		<td>12090</td>
+		<td>4330</td>
+		<td>7760</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00298</td>
+		<td>A004073</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>PALIMAN</td>
+		<td>KH 9292 A</td>
+		<td align=center>07:37:47</td>
+		<td align=center>07:46:36</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1208</td>
+		<td></td>
+		<td></td>
+		<td>8340</td>
+		<td>4060</td>
+		<td>4280</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>060/AFD-I</td>
+		<td>B004076</td>
+		<td>PT. SURYA INTI SAWIT KAHURIPAN</td>
+		<td>SUTRIS</td>
+		<td>AG 9526 R</td>
+		<td align=center>07:33:34</td>
+		<td align=center>08:06:10</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>2010</td>
+		<td></td>
+		<td></td>
+		<td>10410</td>
+		<td>3200</td>
+		<td>7210</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01131</td>
+		<td>A004079</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>SUPARNO</td>
+		<td>DA 2005 BD</td>
+		<td align=center>08:07:41</td>
+		<td align=center>08:15:52</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1410</td>
+		<td></td>
+		<td></td>
+		<td>10900</td>
+		<td>4260</td>
+		<td>6640</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00834</td>
+		<td>B004081</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>SUMIN</td>
+		<td>DA 9660 AV</td>
+		<td align=center>07:59:35</td>
+		<td align=center>08:16:48</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1543</td>
+		<td></td>
+		<td></td>
+		<td>9410</td>
+		<td>4000</td>
+		<td>5410</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01128</td>
+		<td>A004078</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>HERI</td>
+		<td>DA 9757 TN</td>
+		<td align=center>08:05:55</td>
+		<td align=center>08:17:42</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1550</td>
+		<td></td>
+		<td></td>
+		<td>11630</td>
+		<td>4050</td>
+		<td>7580</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01127</td>
+		<td>A004077</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>WARDI</td>
+		<td>DA 9355 AQ</td>
+		<td align=center>08:01:27</td>
+		<td align=center>08:25:22</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1425</td>
+		<td></td>
+		<td></td>
+		<td>11780</td>
+		<td>4190</td>
+		<td>7590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00299</td>
+		<td>A004081</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>GUNARTO</td>
+		<td>B 9514 QW</td>
+		<td align=center>09:35:04</td>
+		<td align=center>09:43:46</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1194</td>
+		<td></td>
+		<td></td>
+		<td>8510</td>
+		<td>3800</td>
+		<td>4710</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>26/SOIAN.2010.</td>
+		<td>A004082</td>
+		<td>SOPIAN</td>
+		<td>HARJONO</td>
+		<td>H 1622 HC</td>
+		<td align=center>09:37:02</td>
+		<td align=center>11:03:18</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>400</td>
+		<td></td>
+		<td></td>
+		<td>12350</td>
+		<td>3700</td>
+		<td>8650</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00233</td>
+		<td>B004089</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>USMAN</td>
+		<td>AB 8238 WB</td>
+		<td align=center>11:20:20</td>
+		<td align=center>11:29:28</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1472</td>
+		<td></td>
+		<td></td>
+		<td>7890</td>
+		<td>3900</td>
+		<td>3990</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00231</td>
+		<td>B004097</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>IYUS</td>
+		<td>DA 9789  TD</td>
+		<td align=center>12:23:42</td>
+		<td align=center>12:32:49</td	>
+		<td align=center>2007</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1513</td>
+		<td></td>
+		<td></td>
+		<td>9420</td>
+		<td>4250</td>
+		<td>5170</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0020/DEDY.P.</td>
+		<td>B004100</td>
+		<td>DEDY PERMANA</td>
+		<td>AHYAR</td>
+		<td>T 8239 L</td>
+		<td align=center>13:07:50</td>
+		<td align=center>13:40:07</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>5300</td>
+		<td></td>
+		<td></td>
+		<td>12240</td>
+		<td>3600</td>
+		<td>8640</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00266</td>
+		<td>B004101</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>WARDI</td>
+		<td>KH 8615 AH</td>
+		<td align=center>13:19:42</td>
+		<td align=center>13:58:31</td	>
+		<td align=center>2007</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1799</td>
+		<td></td>
+		<td></td>
+		<td>8910</td>
+		<td>3670</td>
+		<td>5240</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>19.DEDI.P</td>
+		<td>A004099</td>
+		<td>DEDY PERMANA</td>
+		<td>H . YANI</td>
+		<td>KH 8909 F</td>
+		<td align=center>13:17:34</td>
+		<td align=center>14:00:28</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>533</td>
+		<td></td>
+		<td></td>
+		<td>12230</td>
+		<td>3640</td>
+		<td>8590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00406</td>
+		<td>B004106</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>SUPRIYADI</td>
+		<td>DA 2734 AK</td>
+		<td align=center>13:53:56</td>
+		<td align=center>14:02:26</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1256</td>
+		<td></td>
+		<td></td>
+		<td>10800</td>
+		<td>4040</td>
+		<td>6760</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00232</td>
+		<td>A004103</td>
+		<td>PT. KALIMANTAN RIA SEJAHTERA</td>
+		<td>AGUS</td>
+		<td>KH 9689 FA</td>
+		<td align=center>13:51:09</td>
+		<td align=center>14:13:14</td	>
+		<td align=center>2007</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>390</td>
+		<td></td>
+		<td></td>
+		<td>7820</td>
+		<td>3710</td>
+		<td>4110</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>001;MSK;2010</td>
+		<td>A004108</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>SUPIAN</td>
+		<td>KH 8630 FB</td>
+		<td align=center>14:22:05</td>
+		<td align=center>14:32:10</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1622</td>
+		<td></td>
+		<td></td>
+		<td>13290</td>
+		<td>4140</td>
+		<td>9150</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01/KUD-TD</td>
+		<td>A004107</td>
+		<td>KUD. TRI DAYA</td>
+		<td>JAIS</td>
+		<td>KH 8749 FA</td>
+		<td align=center>14:20:04</td>
+		<td align=center>14:49:30</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>12170</td>
+		<td>3760</td>
+		<td>8410</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>001.MSK.2010</td>
+		<td>A004105</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>BUDI . U</td>
+		<td>KH 8302 F</td>
+		<td align=center>13:58:47</td>
+		<td align=center>15:16:23</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1944</td>
+		<td></td>
+		<td></td>
+		<td>12440</td>
+		<td>3400</td>
+		<td>9040</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>001/afd-IV</td>
+		<td>B004116</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>pendi</td>
+		<td>KH 9048 FA</td>
+		<td align=center>15:00:06</td>
+		<td align=center>15:28:25</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1019</td>
+		<td></td>
+		<td></td>
+		<td>11870</td>
+		<td>4120</td>
+		<td>7750</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>91.SANTO R</td>
+		<td>A004121</td>
+		<td>SANTO R</td>
+		<td>DADANG</td>
+		<td>G 1412 KC</td>
+		<td align=center>15:51:00</td>
+		<td align=center>16:03:28</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>600</td>
+		<td></td>
+		<td></td>
+		<td>11400</td>
+		<td>4070</td>
+		<td>7330</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00407</td>
+		<td>B004126</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>HERIYANTO</td>
+		<td>DA 9639 AJ</td>
+		<td align=center>15:55:08</td>
+		<td align=center>16:07:48</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1348</td>
+		<td></td>
+		<td></td>
+		<td>9980</td>
+		<td>4000</td>
+		<td>5980</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00902</td>
+		<td>A004119</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>WARNI</td>
+		<td>L 9202 UV</td>
+		<td align=center>15:46:48</td>
+		<td align=center>16:57:31</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1300</td>
+		<td></td>
+		<td></td>
+		<td>12280</td>
+		<td>3960</td>
+		<td>8320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>02.MSK.2010</td>
+		<td>A004127</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>DEDIK</td>
+		<td>KH 9004 FA</td>
+		<td align=center>16:36:26</td>
+		<td align=center>16:59:24</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1269</td>
+		<td></td>
+		<td></td>
+		<td>11480</td>
+		<td>4220</td>
+		<td>7260</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>002.MSK;2010</td>
+		<td>A004124</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>H. KUSNI</td>
+		<td>AG 8363 UV</td>
+		<td align=center>16:16:18</td>
+		<td align=center>17:01:39</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>2082</td>
+		<td></td>
+		<td></td>
+		<td>12150</td>
+		<td>3430</td>
+		<td>8720</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01.WYKI.2010</td>
+		<td>A004126</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>JAIMAN</td>
+		<td>K 1632 UA</td>
+		<td align=center>16:32:01</td>
+		<td align=center>17:08:43</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>417</td>
+		<td></td>
+		<td></td>
+		<td>11310</td>
+		<td>3290</td>
+		<td>8020</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>05;WYKI;2010</td>
+		<td>A004129</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>SUPENO</td>
+		<td>KT 8553 CF</td>
+		<td align=center>16:43:49</td>
+		<td align=center>17:38:06</td	>
+		<td align=center>2003</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>343</td>
+		<td></td>
+		<td></td>
+		<td>12900</td>
+		<td>3710</td>
+		<td>9190</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>06;WYKI;2010</td>
+		<td>A004131</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>DIDI</td>
+		<td>KH 8880 FA</td>
+		<td align=center>16:49:25</td>
+		<td align=center>17:40:11</td	>
+		<td align=center>2003</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>984</td>
+		<td></td>
+		<td></td>
+		<td>12300</td>
+		<td>3520</td>
+		<td>8780</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>32;SOPIAN</td>
+		<td>A004135</td>
+		<td>SOPIAN</td>
+		<td>BUL HASAN</td>
+		<td>KH 9226 FB</td>
+		<td align=center>17:14:09</td>
+		<td align=center>17:43:49</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>530</td>
+		<td></td>
+		<td></td>
+		<td>12680</td>
+		<td>4160</td>
+		<td>8520</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>04;WYKI;2010.</td>
+		<td>A004133</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>SUGI</td>
+		<td>KH 8669 FG</td>
+		<td align=center>16:53:40</td>
+		<td align=center>17:47:37</td	>
+		<td align=center>2003</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1201</td>
+		<td></td>
+		<td></td>
+		<td>12290</td>
+		<td>3680</td>
+		<td>8610</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00017</td>
+		<td>A004143</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>JUNAEDY</td>
+		<td>L 9203 UV</td>
+		<td align=center>18:08:37</td>
+		<td align=center>18:38:54</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1857</td>
+		<td></td>
+		<td></td>
+		<td>12450</td>
+		<td>4490</td>
+		<td>7960</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>02/TBS-KUD</td>
+		<td>A004144</td>
+		<td>KUD. TRI DAYA</td>
+		<td>DAMAN</td>
+		<td>DA 9744 AU</td>
+		<td align=center>18:10:55</td>
+		<td align=center>18:40:30</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>456</td>
+		<td></td>
+		<td></td>
+		<td>12230</td>
+		<td>4310</td>
+		<td>7920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01;WYKI.2010..</td>
+		<td>A004149</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>KAMTO</td>
+		<td>AD 1644 TA</td>
+		<td align=center>18:22:23</td>
+		<td align=center>18:52:31</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1434</td>
+		<td></td>
+		<td></td>
+		<td>11590</td>
+		<td>3570</td>
+		<td>8020</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>02;WYKI.2010..</td>
+		<td>A004150</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>DIMAN</td>
+		<td>E 8752 PD</td>
+		<td align=center>18:24:27</td>
+		<td align=center>19:20:23</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1339</td>
+		<td></td>
+		<td></td>
+		<td>11580</td>
+		<td>3470</td>
+		<td>8110</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>33./SOPIAN/1/II/2010</td>
+		<td>B004168</td>
+		<td>SOPIAN</td>
+		<td>HARYONO</td>
+		<td>KH 8114 A</td>
+		<td align=center>19:23:39</td>
+		<td align=center>19:35:24</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>400</td>
+		<td></td>
+		<td></td>
+		<td>11740</td>
+		<td>4180</td>
+		<td>7560</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>003/AFD-II</td>
+		<td>B004164</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>TUGIMAN</td>
+		<td>DA 9747 BG</td>
+		<td align=center>19:14:17</td>
+		<td align=center>19:36:46</td	>
+		<td align=center>2004</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1907</td>
+		<td></td>
+		<td></td>
+		<td>13210</td>
+		<td>4280</td>
+		<td>8930</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>04./SOPIAN/1/II/2010</td>
+		<td>B004169</td>
+		<td>SOPIAN</td>
+		<td>WITO</td>
+		<td>KH 8457 AA</td>
+		<td align=center>19:25:08</td>
+		<td align=center>19:42:35</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>12630</td>
+		<td>4350</td>
+		<td>8280</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0033/TBS/2010.</td>
+		<td>B004165</td>
+		<td>SOPIAN</td>
+		<td>JAKA</td>
+		<td>N 9301 UA</td>
+		<td align=center>19:16:06</td>
+		<td align=center>19:53:47</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>500</td>
+		<td></td>
+		<td></td>
+		<td>11110</td>
+		<td>3170</td>
+		<td>7940</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1/BUMERI/2010.</td>
+		<td>A004160</td>
+		<td>H. MAHOL</td>
+		<td>SUDIN</td>
+		<td>KH 9654 F</td>
+		<td align=center>19:12:06</td>
+		<td align=center>19:56:52</td	>
+		<td align=center>1997</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>600</td>
+		<td></td>
+		<td></td>
+		<td>10430</td>
+		<td>3790</td>
+		<td>6640</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01790/KDP/2010</td>
+		<td>B004173</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>JOKO</td>
+		<td>DA 9839 TR</td>
+		<td align=center>20:12:58</td>
+		<td align=center>20:19:59</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1450</td>
+		<td></td>
+		<td></td>
+		<td>11580</td>
+		<td>4440</td>
+		<td>7140</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01789/KDP/2010</td>
+		<td>B004174</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>ARSANI</td>
+		<td>DA 9914 D</td>
+		<td align=center>20:15:09</td>
+		<td align=center>20:21:56</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1380</td>
+		<td></td>
+		<td></td>
+		<td>12060</td>
+		<td>4490</td>
+		<td>7570</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01/TBS/BAYU/02/2010</td>
+		<td>A004169</td>
+		<td>PT. WANAYASA KAHURIPAN INDONESIA</td>
+		<td>EKO</td>
+		<td>R 1643 NB</td>
+		<td align=center>20:20:34</td>
+		<td align=center>20:35:06</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>2710</td>
+		<td></td>
+		<td></td>
+		<td>14120</td>
+		<td>4410</td>
+		<td>9710</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01/SOPIAN/II/2010</td>
+		<td>A004170</td>
+		<td>SOPIAN</td>
+		<td>ARI</td>
+		<td>KH 9547 F</td>
+		<td align=center>20:22:27</td>
+		<td align=center>20:37:08</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>100</td>
+		<td></td>
+		<td></td>
+		<td>4120</td>
+		<td>2360</td>
+		<td>1760</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1/MSK/LTG/II/12010</td>
+		<td>A004164</td>
+		<td>PT. MUKTI SAWIT KAHURIPAN.</td>
+		<td>HERMAN</td>
+		<td>DA 9604 PA</td>
+		<td align=center>19:40:22</td>
+		<td align=center>20:38:55</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>214</td>
+		<td></td>
+		<td></td>
+		<td>11320</td>
+		<td>3770</td>
+		<td>7550</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00016/KDP/02/2010</td>
+		<td>A004171</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>JOHAN</td>
+		<td>KH 8593 AA</td>
+		<td align=center>20:26:53</td>
+		<td align=center>20:40:59</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1749</td>
+		<td></td>
+		<td></td>
+		<td>10690</td>
+		<td>4370</td>
+		<td>6320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>06/SOPIAN/1/II/2010</td>
+		<td>B004171</td>
+		<td>SOPIAN</td>
+		<td>BUDI</td>
+		<td>DA 9827 BB</td>
+		<td align=center>20:08:03</td>
+		<td align=center>20:43:18</td	>
+		<td align=center>1996</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>12390</td>
+		<td>4150</td>
+		<td>8240</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>01788</td>
+		<td>A004173</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>RAPII</td>
+		<td>DA 9155 AQ</td>
+		<td align=center>20:31:10</td>
+		<td align=center>20:45:32</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1610</td>
+		<td></td>
+		<td></td>
+		<td>12250</td>
+		<td>4180</td>
+		<td>8070</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00015/KDP/02/2010</td>
+		<td>A004172</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>PIADI</td>
+		<td>DA 9255 TQ</td>
+		<td align=center>20:29:23</td>
+		<td align=center>20:48:16</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1730</td>
+		<td></td>
+		<td></td>
+		<td>10870</td>
+		<td>4120</td>
+		<td>6750</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>00545</td>
+		<td>A004177</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>supianur</td>
+		<td>DA 9119 PB</td>
+		<td align=center>21:00:06</td>
+		<td align=center>21:08:36</td	>
+		<td align=center>2005</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1677</td>
+		<td></td>
+		<td></td>
+		<td>11330</td>
+		<td>4040</td>
+		<td>7290</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1630</td>
+		<td>A004178</td>
+		<td>PT. KARYA DEWI PUTRA</td>
+		<td>SUKIMAN</td>
+		<td>AD 1338 LE</td>
+		<td align=center>21:13:04</td>
+		<td align=center>22:13:50</td	>
+		<td align=center>2006</td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>1750</td>
+		<td></td>
+		<td></td>
+		<td>10040</td>
+		<td>3300</td>
+		<td>6740</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=13 align=right><b>TOTAL:</b></td>
+			<!--<td>63696</td>-->
+			<td>572700</td>
+			<td>199520</td>
+			<td>373180</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:25-11-2010 01:28:12</font>

@@ -1,0 +1,36 @@
+
+.emplList tr{
+	background-color:#EFFFFE;
+	height:20px;
+}
+.labl{
+	font-weight:600;
+	text-align:right;
+}
+.passp{
+	width:120px;
+}
+.frame{
+	 border:#D5D6DE solid 2px;
+}
+img:hover{
+	cursor:pointer;
+}
+.listbg:hover{
+	background-color:#C3DAF9;
+
+}
+
+.detailEmpl{
+	 background-color: #EFFFFE;
+	 border:#555D71 solid 8px;
+}
+.imgdetail{
+	 border:#E0DFE3 solid 2px;
+	 background-color:#FFFFFF;
+	 height:120px;
+}
+
+
+
+

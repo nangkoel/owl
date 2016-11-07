@@ -1,0 +1,2020 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=15 align=center>
+			LAPORAN PENERIMAAN TBS INTERNAL PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=13  align=center>
+			Tanggal	&nbsp &nbsp: 12-07-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Unit/Estate</b></td>
+			<td align=center><b>Afd</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+                                                            <td align=center><b>Potongan</b></td>
+                                                            <td align=center><b>Normal</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020262/H06E03/07/2014</td>
+		<td>B007714</td>
+		<td>H06E</td>
+		<td align=center>H06E03</td>
+		<td>IRFAN</td>
+		<td>DT74H</td>
+		<td align=center>07:31:57</td>
+		<td align=center>07:36:14</td	>
+		<td align=center></td>
+		<td>579</td>
+		<td>15100</td>
+		<td>7040</td>
+		<td>8060</td>
+                                        <td>0</td>
+                                        <td>8060</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019437/H01E03/07/2014</td>
+		<td>B007719</td>
+		<td>H01E</td>
+		<td align=center>H01E03</td>
+		<td>FREDY</td>
+		<td>DT14H</td>
+		<td align=center>07:48:27</td>
+		<td align=center>07:52:36</td	>
+		<td align=center></td>
+		<td>246</td>
+		<td>7120</td>
+		<td>3470</td>
+		<td>3650</td>
+                                        <td>61</td>
+                                        <td>3589</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021320/H04E03/07/2014</td>
+		<td>B007721</td>
+		<td>H04E</td>
+		<td align=center>H04E03</td>
+		<td>TAMRIN</td>
+		<td>DT42H</td>
+		<td align=center>07:53:57</td>
+		<td align=center>07:57:36</td	>
+		<td align=center></td>
+		<td>448</td>
+		<td>15430</td>
+		<td>6960</td>
+		<td>8470</td>
+                                        <td>0</td>
+                                        <td>8470</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003060/H03E01/07/2014</td>
+		<td>B007723</td>
+		<td>H03E</td>
+		<td align=center>H03E01</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>07:55:25</td>
+		<td align=center>07:59:31</td	>
+		<td align=center></td>
+		<td>320</td>
+		<td>15110</td>
+		<td>6880</td>
+		<td>8230</td>
+                                        <td>0</td>
+                                        <td>8230</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001101/H05E01/07/2014</td>
+		<td>B007722</td>
+		<td>H05E</td>
+		<td align=center>H05E01</td>
+		<td>KETUT SUKRA</td>
+		<td>H60</td>
+		<td align=center>07:54:43</td>
+		<td align=center>08:01:00</td	>
+		<td align=center></td>
+		<td>220</td>
+		<td>8750</td>
+		<td>3820</td>
+		<td>4930</td>
+                                        <td>228</td>
+                                        <td>4702</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025566/H02E03/07/2014</td>
+		<td>B007726</td>
+		<td>H02E</td>
+		<td align=center>H02E03</td>
+		<td>ABAS</td>
+		<td>H18</td>
+		<td align=center>08:03:44</td>
+		<td align=center>08:07:53</td	>
+		<td align=center></td>
+		<td>453</td>
+		<td>16140</td>
+		<td>7590</td>
+		<td>8550</td>
+                                        <td>59</td>
+                                        <td>8491</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019389/H01E02/07/2014</td>
+		<td>B007727</td>
+		<td>H01E</td>
+		<td align=center>H01E02</td>
+		<td>SURYADI</td>
+		<td>H14</td>
+		<td align=center>08:04:33</td>
+		<td align=center>08:11:58</td	>
+		<td align=center></td>
+		<td>352</td>
+		<td>16120</td>
+		<td>7650</td>
+		<td>8470</td>
+                                        <td>280</td>
+                                        <td>8190</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019523/H01E05/07/2014</td>
+		<td>B007732</td>
+		<td>H01E</td>
+		<td align=center>H01E05</td>
+		<td>SYACHRIN</td>
+		<td>DT49H</td>
+		<td align=center>08:20:26</td>
+		<td align=center>08:24:40</td	>
+		<td align=center></td>
+		<td>446</td>
+		<td>15650</td>
+		<td>7040</td>
+		<td>8610</td>
+                                        <td>186</td>
+                                        <td>8424</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021006/H04E02/07/2014</td>
+		<td>B007733</td>
+		<td>H04E</td>
+		<td align=center>H04E02</td>
+		<td>FIKI</td>
+		<td>DT41H</td>
+		<td align=center>08:22:53</td>
+		<td align=center>08:25:53</td	>
+		<td align=center></td>
+		<td>436</td>
+		<td>14530</td>
+		<td>6960</td>
+		<td>7570</td>
+                                        <td>0</td>
+                                        <td>7570</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001100/H05E01/07/2014</td>
+		<td>B007735</td>
+		<td>H05E</td>
+		<td align=center>H05E01</td>
+		<td>RUSDIN</td>
+		<td>DT66H</td>
+		<td align=center>08:29:06</td>
+		<td align=center>08:32:11</td	>
+		<td align=center></td>
+		<td>244</td>
+		<td>6640</td>
+		<td>3590</td>
+		<td>3050</td>
+                                        <td>0</td>
+                                        <td>3050</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020175/H06E02/07/2014</td>
+		<td>B007740</td>
+		<td>H06E</td>
+		<td align=center>H06E02</td>
+		<td>HAMZAH</td>
+		<td>DT47H</td>
+		<td align=center>08:47:52</td>
+		<td align=center>08:50:27</td	>
+		<td align=center></td>
+		<td>400</td>
+		<td>16130</td>
+		<td>7450</td>
+		<td>8680</td>
+                                        <td>0</td>
+                                        <td>8680</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003354/H03E05/07/2014</td>
+		<td>B007743</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BASRI</td>
+		<td>H65</td>
+		<td align=center>08:52:35</td>
+		<td align=center>08:57:10</td	>
+		<td align=center></td>
+		<td>250</td>
+		<td>9240</td>
+		<td>3810</td>
+		<td>5430</td>
+                                        <td>0</td>
+                                        <td>5430</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021014/H04E04/07/2014</td>
+		<td>B007745</td>
+		<td>H04E</td>
+		<td align=center>H04E04</td>
+		<td>MERE</td>
+		<td>DT40H</td>
+		<td align=center>08:54:45</td>
+		<td align=center>09:00:39</td	>
+		<td align=center></td>
+		<td>426</td>
+		<td>13930</td>
+		<td>6820</td>
+		<td>7110</td>
+                                        <td>0</td>
+                                        <td>7110</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021015/H04E04/07/2014</td>
+		<td>B007747</td>
+		<td>H04E</td>
+		<td align=center>H04E04</td>
+		<td>SARMIN</td>
+		<td>DT45H</td>
+		<td align=center>09:09:30</td>
+		<td align=center>09:12:46</td	>
+		<td align=center></td>
+		<td>449</td>
+		<td>14190</td>
+		<td>7050</td>
+		<td>7140</td>
+                                        <td>0</td>
+                                        <td>7140</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1200693/H12E01/07/2014</td>
+		<td>B007751</td>
+		<td>H12E</td>
+		<td align=center>H12E01</td>
+		<td>UDIN</td>
+		<td>H62</td>
+		<td align=center>09:31:50</td>
+		<td align=center>09:36:47</td	>
+		<td align=center></td>
+		<td>700</td>
+		<td>8770</td>
+		<td>3700</td>
+		<td>5070</td>
+                                        <td>139</td>
+                                        <td>4931</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020183/H06E01/07/2014</td>
+		<td>B007752</td>
+		<td>H06E</td>
+		<td align=center>H06E01</td>
+		<td>LUKMAN</td>
+		<td>DT44H</td>
+		<td align=center>09:33:47</td>
+		<td align=center>09:40:25</td	>
+		<td align=center></td>
+		<td>500</td>
+		<td>14410</td>
+		<td>7100</td>
+		<td>7310</td>
+                                        <td>0</td>
+                                        <td>7310</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025567/H02E03/07/2014</td>
+		<td>B007753</td>
+		<td>H02E</td>
+		<td align=center>H02E03</td>
+		<td>ABAS</td>
+		<td>H18</td>
+		<td align=center>09:35:21</td>
+		<td align=center>09:42:06</td	>
+		<td align=center></td>
+		<td>423</td>
+		<td>15820</td>
+		<td>7590</td>
+		<td>8230</td>
+                                        <td>0</td>
+                                        <td>8230</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001067/H05E02/07/2014</td>
+		<td>B007755</td>
+		<td>H05E</td>
+		<td align=center>H05E02</td>
+		<td>ALEX</td>
+		<td>DT65H</td>
+		<td align=center>09:45:30</td>
+		<td align=center>09:52:02</td	>
+		<td align=center></td>
+		<td>270</td>
+		<td>8980</td>
+		<td>3630</td>
+		<td>5350</td>
+                                        <td>131</td>
+                                        <td>5219</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003355/H03E05/07/2014</td>
+		<td>B007756</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BASRI</td>
+		<td>H65</td>
+		<td align=center>09:46:23</td>
+		<td align=center>09:53:10</td	>
+		<td align=center></td>
+		<td>250</td>
+		<td>8790</td>
+		<td>3810</td>
+		<td>4980</td>
+                                        <td>0</td>
+                                        <td>4980</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025044/H02E04/07/2014</td>
+		<td>B007757</td>
+		<td>H02E</td>
+		<td align=center>H02E04</td>
+		<td>UNDING</td>
+		<td>N58</td>
+		<td align=center>09:47:24</td>
+		<td align=center>09:55:04</td	>
+		<td align=center></td>
+		<td>430</td>
+		<td>15660</td>
+		<td>7660</td>
+		<td>8000</td>
+                                        <td>0</td>
+                                        <td>8000</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3002251/H03E02/07/2014</td>
+		<td>B007761</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>09:50:51</td>
+		<td align=center>09:58:48</td	>
+		<td align=center></td>
+		<td>300</td>
+		<td>8790</td>
+		<td>3730</td>
+		<td>5060</td>
+                                        <td>112</td>
+                                        <td>4948</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003061/H03E01/07/2014</td>
+		<td>B007765</td>
+		<td>H03E</td>
+		<td align=center>H03E01</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>10:05:25</td>
+		<td align=center>10:11:19</td	>
+		<td align=center></td>
+		<td>316</td>
+		<td>14510</td>
+		<td>6880</td>
+		<td>7630</td>
+                                        <td>0</td>
+                                        <td>7630</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019154/H01E01/07/2014</td>
+		<td>B007769</td>
+		<td>H01E</td>
+		<td align=center>H01E01</td>
+		<td>YUSAK</td>
+		<td>DT48H</td>
+		<td align=center>10:08:08</td>
+		<td align=center>10:12:37</td	>
+		<td align=center></td>
+		<td>418</td>
+		<td>15340</td>
+		<td>7100</td>
+		<td>8240</td>
+                                        <td>0</td>
+                                        <td>8240</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1100352/H11E01/07/2014</td>
+		<td>B007772</td>
+		<td>H11E</td>
+		<td align=center>H11E01</td>
+		<td>YUS</td>
+		<td>H17</td>
+		<td align=center>10:14:48</td>
+		<td align=center>10:18:56</td	>
+		<td align=center></td>
+		<td>442</td>
+		<td>15670</td>
+		<td>7750</td>
+		<td>7920</td>
+                                        <td>0</td>
+                                        <td>7920</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003318/H03E04/07/2014</td>
+		<td>B007774</td>
+		<td>H03E</td>
+		<td align=center>H03E04</td>
+		<td>SUNAR</td>
+		<td>H19</td>
+		<td align=center>10:22:13</td>
+		<td align=center>10:26:46</td	>
+		<td align=center></td>
+		<td>447</td>
+		<td>15490</td>
+		<td>7780</td>
+		<td>7710</td>
+                                        <td>0</td>
+                                        <td>7710</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003811/H03E05/07/2014</td>
+		<td>B007778</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BERTO</td>
+		<td>FORD23</td>
+		<td align=center>10:30:07</td>
+		<td align=center>10:35:50</td	>
+		<td align=center></td>
+		<td>315</td>
+		<td>10060</td>
+		<td>5220</td>
+		<td>4840</td>
+                                        <td>0</td>
+                                        <td>4840</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003813/H03E05/07/2014</td>
+		<td>B007779</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BASRI</td>
+		<td>H65</td>
+		<td align=center>10:38:03</td>
+		<td align=center>10:41:05</td	>
+		<td align=center></td>
+		<td>245</td>
+		<td>8810</td>
+		<td>3800</td>
+		<td>5010</td>
+                                        <td>0</td>
+                                        <td>5010</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003768/H03E06/07/2014</td>
+		<td>B007781</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>10:52:53</td>
+		<td align=center>10:56:07</td	>
+		<td align=center></td>
+		<td>461</td>
+		<td>15050</td>
+		<td>6870</td>
+		<td>8180</td>
+                                        <td>0</td>
+                                        <td>8180</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003098/H03E02/07/2014</td>
+		<td>B007784</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>11:03:53</td>
+		<td align=center>11:06:41</td	>
+		<td align=center></td>
+		<td>311</td>
+		<td>8620</td>
+		<td>3730</td>
+		<td>4890</td>
+                                        <td>0</td>
+                                        <td>4890</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019334/H01E04/07/2014</td>
+		<td>B007786</td>
+		<td>H01E</td>
+		<td align=center>H01E04</td>
+		<td>IRFAI</td>
+		<td>DT78H</td>
+		<td align=center>11:10:15</td>
+		<td align=center>11:14:20</td	>
+		<td align=center></td>
+		<td>390</td>
+		<td>14800</td>
+		<td>6900</td>
+		<td>7900</td>
+                                        <td>0</td>
+                                        <td>7900</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021307/H04E03/07/2014</td>
+		<td>B007788</td>
+		<td>H04E</td>
+		<td align=center>H04E03</td>
+		<td>TAMRIN</td>
+		<td>DT42H</td>
+		<td align=center>11:32:17</td>
+		<td align=center>11:35:08</td	>
+		<td align=center></td>
+		<td>466</td>
+		<td>15320</td>
+		<td>6990</td>
+		<td>8330</td>
+                                        <td>0</td>
+                                        <td>8330</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001102/H05E01/07/2014</td>
+		<td>B007789</td>
+		<td>H05E</td>
+		<td align=center>H05E01</td>
+		<td>KETUT SUKRA</td>
+		<td>H60</td>
+		<td align=center>11:33:30</td>
+		<td align=center>11:36:39</td	>
+		<td align=center></td>
+		<td>242</td>
+		<td>9190</td>
+		<td>3810</td>
+		<td>5380</td>
+                                        <td>0</td>
+                                        <td>5380</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019438/H01E03/07/2014</td>
+		<td>B007790</td>
+		<td>H01E</td>
+		<td align=center>H01E03</td>
+		<td>SUKKI</td>
+		<td>H12</td>
+		<td align=center>11:34:17</td>
+		<td align=center>11:38:12</td	>
+		<td align=center></td>
+		<td>426</td>
+		<td>15470</td>
+		<td>7520</td>
+		<td>7950</td>
+                                        <td>0</td>
+                                        <td>7950</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025043/H02E04/07/2014</td>
+		<td>B007791</td>
+		<td>H02E</td>
+		<td align=center>H02E04</td>
+		<td>UNDING</td>
+		<td>N58</td>
+		<td align=center>11:40:16</td>
+		<td align=center>11:43:27</td	>
+		<td align=center></td>
+		<td>450</td>
+		<td>16000</td>
+		<td>7650</td>
+		<td>8350</td>
+                                        <td>0</td>
+                                        <td>8350</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003769/H03E06/07/2014</td>
+		<td>B007792</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>11:41:26</td>
+		<td align=center>11:45:05</td	>
+		<td align=center></td>
+		<td>489</td>
+		<td>15370</td>
+		<td>6870</td>
+		<td>8500</td>
+                                        <td>0</td>
+                                        <td>8500</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1200589/H12E02/07/2014</td>
+		<td>B007793</td>
+		<td>H12E</td>
+		<td align=center>H12E02</td>
+		<td>PARHAN</td>
+		<td>H59</td>
+		<td align=center>11:42:21</td>
+		<td align=center>11:46:35</td	>
+		<td align=center></td>
+		<td>959</td>
+		<td>8690</td>
+		<td>3750</td>
+		<td>4940</td>
+                                        <td>0</td>
+                                        <td>4940</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025492/H02E05/07/2014</td>
+		<td>B007794</td>
+		<td>H02E</td>
+		<td align=center>H02E05</td>
+		<td>PENCE</td>
+		<td>N57</td>
+		<td align=center>11:49:24</td>
+		<td align=center>11:54:31</td	>
+		<td align=center></td>
+		<td>390</td>
+		<td>15640</td>
+		<td>7680</td>
+		<td>7960</td>
+                                        <td>0</td>
+                                        <td>7960</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020176/H06E02/07/2014</td>
+		<td>B007796</td>
+		<td>H06E</td>
+		<td align=center>H06E02</td>
+		<td>HAMSA</td>
+		<td>DT47H</td>
+		<td align=center>11:52:27</td>
+		<td align=center>11:56:18</td	>
+		<td align=center></td>
+		<td>533</td>
+		<td>15390</td>
+		<td>7510</td>
+		<td>7880</td>
+                                        <td>0</td>
+                                        <td>7880</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020263/H06E03/07/2014</td>
+		<td>B007797</td>
+		<td>H06E</td>
+		<td align=center>H06E03</td>
+		<td>IRFAN</td>
+		<td>DT74H</td>
+		<td align=center>11:59:28</td>
+		<td align=center>12:02:10</td	>
+		<td align=center></td>
+		<td>755</td>
+		<td>14660</td>
+		<td>7020</td>
+		<td>7640</td>
+                                        <td>0</td>
+                                        <td>7640</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1100353/H11E01/07/2014</td>
+		<td>B007798</td>
+		<td>H11E</td>
+		<td align=center>H11E01</td>
+		<td>YUSMAR</td>
+		<td>H17</td>
+		<td align=center>12:11:57</td>
+		<td align=center>12:15:13</td	>
+		<td align=center></td>
+		<td>497</td>
+		<td>15680</td>
+		<td>7740</td>
+		<td>7940</td>
+                                        <td>0</td>
+                                        <td>7940</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025555/H02E01/07/2014</td>
+		<td>B007799</td>
+		<td>H02E</td>
+		<td align=center>H02E01</td>
+		<td>FERDY</td>
+		<td>H16</td>
+		<td align=center>12:29:18</td>
+		<td align=center>12:32:22</td	>
+		<td align=center></td>
+		<td>412</td>
+		<td>15350</td>
+		<td>7470</td>
+		<td>7880</td>
+                                        <td>0</td>
+                                        <td>7880</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003770/H03E06/07/2014</td>
+		<td>B007800</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>12:37:19</td>
+		<td align=center>12:41:24</td	>
+		<td align=center></td>
+		<td>565</td>
+		<td>15270</td>
+		<td>6870</td>
+		<td>8400</td>
+                                        <td>0</td>
+                                        <td>8400</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019439/H01E03/07/2014</td>
+		<td>B007803</td>
+		<td>H01E</td>
+		<td align=center>H01E03</td>
+		<td>SUKKI</td>
+		<td>H12</td>
+		<td align=center>12:44:19</td>
+		<td align=center>12:48:10</td	>
+		<td align=center></td>
+		<td>429</td>
+		<td>15270</td>
+		<td>7510</td>
+		<td>7760</td>
+                                        <td>0</td>
+                                        <td>7760</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025036/H02E02/07/2014</td>
+		<td>B007807</td>
+		<td>H02E</td>
+		<td align=center>H02E02</td>
+		<td>ABAS</td>
+		<td>H18</td>
+		<td align=center>12:56:28</td>
+		<td align=center>13:00:25</td	>
+		<td align=center></td>
+		<td>450</td>
+		<td>15380</td>
+		<td>7610</td>
+		<td>7770</td>
+                                        <td>0</td>
+                                        <td>7770</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001103/H05E01/07/2014</td>
+		<td>B007808</td>
+		<td>H05E</td>
+		<td align=center>H05E01</td>
+		<td>LEVIS</td>
+		<td>DT64H</td>
+		<td align=center>13:07:03</td>
+		<td align=center>13:11:21</td	>
+		<td align=center></td>
+		<td>250</td>
+		<td>8790</td>
+		<td>3670</td>
+		<td>5120</td>
+                                        <td>0</td>
+                                        <td>5120</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003605/H03E03/07/2014</td>
+		<td>B007809</td>
+		<td>H03E</td>
+		<td align=center>H03E03</td>
+		<td>BAHAR</td>
+		<td>N56</td>
+		<td align=center>13:15:03</td>
+		<td align=center>13:18:24</td	>
+		<td align=center></td>
+		<td>494</td>
+		<td>15930</td>
+		<td>7690</td>
+		<td>8240</td>
+                                        <td>0</td>
+                                        <td>8240</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025045/H02E04/07/2014</td>
+		<td>B007812</td>
+		<td>H02E</td>
+		<td align=center>H02E04</td>
+		<td>UNDING</td>
+		<td>N58</td>
+		<td align=center>13:23:43</td>
+		<td align=center>13:26:37</td	>
+		<td align=center></td>
+		<td>430</td>
+		<td>16270</td>
+		<td>7700</td>
+		<td>8570</td>
+                                        <td>0</td>
+                                        <td>8570</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021342/H04E05/07/2014</td>
+		<td>B007813</td>
+		<td>H04E</td>
+		<td align=center>H04E05</td>
+		<td>SARMIN</td>
+		<td>DT45H</td>
+		<td align=center>13:29:51</td>
+		<td align=center>13:32:58</td	>
+		<td align=center></td>
+		<td>438</td>
+		<td>14860</td>
+		<td>7040</td>
+		<td>7820</td>
+                                        <td>0</td>
+                                        <td>7820</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001069/H05E02/07/2014</td>
+		<td>B007814</td>
+		<td>H05E</td>
+		<td align=center>H05E02</td>
+		<td>ALEX</td>
+		<td>DT65H</td>
+		<td align=center>13:31:25</td>
+		<td align=center>13:35:34</td	>
+		<td align=center></td>
+		<td>300</td>
+		<td>9020</td>
+		<td>3620</td>
+		<td>5400</td>
+                                        <td>0</td>
+                                        <td>5400</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021016/H04E04/07/2014</td>
+		<td>B007806</td>
+		<td>H04E</td>
+		<td align=center>H04E04</td>
+		<td>MERE</td>
+		<td>DT40H</td>
+		<td align=center>12:55:11</td>
+		<td align=center>13:40:45</td	>
+		<td align=center></td>
+		<td>411</td>
+		<td>14550</td>
+		<td>6890</td>
+		<td>7660</td>
+                                        <td>0</td>
+                                        <td>7660</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025579/H02E01/07/2014</td>
+		<td>B007817</td>
+		<td>H02E</td>
+		<td align=center>H02E01</td>
+		<td>FERDY</td>
+		<td>H16</td>
+		<td align=center>13:38:38</td>
+		<td align=center>13:43:27</td	>
+		<td align=center></td>
+		<td>418</td>
+		<td>15390</td>
+		<td>7470</td>
+		<td>7920</td>
+                                        <td>0</td>
+                                        <td>7920</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025569/H02E05/07/2014</td>
+		<td>B007819</td>
+		<td>H02E</td>
+		<td align=center>H02E05</td>
+		<td>FENCE</td>
+		<td>N57</td>
+		<td align=center>13:49:29</td>
+		<td align=center>13:54:17</td	>
+		<td align=center></td>
+		<td>421</td>
+		<td>16080</td>
+		<td>7680</td>
+		<td>8400</td>
+                                        <td>0</td>
+                                        <td>8400</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020184/H06E01/07/2014</td>
+		<td>B007822</td>
+		<td>H06E</td>
+		<td align=center>H06E01</td>
+		<td>LUKMAN</td>
+		<td>DT44H</td>
+		<td align=center>13:52:05</td>
+		<td align=center>13:57:11</td	>
+		<td align=center></td>
+		<td>505</td>
+		<td>14230</td>
+		<td>7080</td>
+		<td>7150</td>
+                                        <td>0</td>
+                                        <td>7150</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025041/H02E03/07/2014</td>
+		<td>B007823</td>
+		<td>H02E</td>
+		<td align=center>H02E03</td>
+		<td>PUR</td>
+		<td>H13</td>
+		<td align=center>13:59:20</td>
+		<td align=center>14:02:10</td	>
+		<td align=center></td>
+		<td>220</td>
+		<td>13820</td>
+		<td>7450</td>
+		<td>6370</td>
+                                        <td>0</td>
+                                        <td>6370</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019335/H01E04/07/2014</td>
+		<td>B007825</td>
+		<td>H01E</td>
+		<td align=center>H01E04</td>
+		<td>SANTOSO</td>
+		<td>DT78H</td>
+		<td align=center>14:05:02</td>
+		<td align=center>14:07:30</td	>
+		<td align=center></td>
+		<td>417</td>
+		<td>15220</td>
+		<td>6890</td>
+		<td>8330</td>
+                                        <td>0</td>
+                                        <td>8330</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019390/H01E02/07/2014</td>
+		<td>B007820</td>
+		<td>H01E</td>
+		<td align=center>H01E02</td>
+		<td>SUNAR</td>
+		<td>H19</td>
+		<td align=center>13:50:18</td>
+		<td align=center>14:08:44</td	>
+		<td align=center></td>
+		<td>370</td>
+		<td>15550</td>
+		<td>7760</td>
+		<td>7790</td>
+                                        <td>0</td>
+                                        <td>7790</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1200694/H12E01/07/2014</td>
+		<td>B007826</td>
+		<td>H12E</td>
+		<td align=center>H12E01</td>
+		<td>UDIN</td>
+		<td>H15</td>
+		<td align=center>14:10:32</td>
+		<td align=center>14:14:16</td	>
+		<td align=center></td>
+		<td>1369</td>
+		<td>16590</td>
+		<td>7430</td>
+		<td>9160</td>
+                                        <td>0</td>
+                                        <td>9160</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021007/H04E02/07/2014</td>
+		<td>B007827</td>
+		<td>H04E</td>
+		<td align=center>H04E02</td>
+		<td>FIKI</td>
+		<td>DT41H</td>
+		<td align=center>14:16:02</td>
+		<td align=center>14:19:00</td	>
+		<td align=center></td>
+		<td>410</td>
+		<td>14850</td>
+		<td>6970</td>
+		<td>7880</td>
+                                        <td>0</td>
+                                        <td>7880</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019391/H01E02/07/2014</td>
+		<td>B007829</td>
+		<td>H01E</td>
+		<td align=center>H01E02</td>
+		<td>SURYADI</td>
+		<td>H14</td>
+		<td align=center>14:18:06</td>
+		<td align=center>14:22:06</td	>
+		<td align=center></td>
+		<td>492</td>
+		<td>15940</td>
+		<td>7620</td>
+		<td>8320</td>
+                                        <td>0</td>
+                                        <td>8320</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001068/H05E02/07/2014</td>
+		<td>B007832</td>
+		<td>H05E</td>
+		<td align=center>H05E02</td>
+		<td>SUARDI</td>
+		<td>DT63H</td>
+		<td align=center>14:25:47</td>
+		<td align=center>14:31:12</td	>
+		<td align=center></td>
+		<td>272</td>
+		<td>8760</td>
+		<td>3680</td>
+		<td>5080</td>
+                                        <td>0</td>
+                                        <td>5080</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019524/H01E05/07/2014</td>
+		<td>B007836</td>
+		<td>H01E</td>
+		<td align=center>H01E05</td>
+		<td>IRFAI</td>
+		<td>DT49H</td>
+		<td align=center>14:28:14</td>
+		<td align=center>14:32:33</td	>
+		<td align=center></td>
+		<td>446</td>
+		<td>15250</td>
+		<td>7030</td>
+		<td>8220</td>
+                                        <td>0</td>
+                                        <td>8220</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021308/H04E03/07/2014</td>
+		<td>B007837</td>
+		<td>H04E</td>
+		<td align=center>H04E03</td>
+		<td>TAMRIN</td>
+		<td>DT42H</td>
+		<td align=center>14:28:52</td>
+		<td align=center>14:33:54</td	>
+		<td align=center></td>
+		<td>437</td>
+		<td>14870</td>
+		<td>6980</td>
+		<td>7890</td>
+                                        <td>0</td>
+                                        <td>7890</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019155/H01E01/07/2014</td>
+		<td>B007838</td>
+		<td>H01E</td>
+		<td align=center>H01E01</td>
+		<td>RUDI</td>
+		<td>DT02H</td>
+		<td align=center>14:35:45</td>
+		<td align=center>14:39:41</td	>
+		<td align=center></td>
+		<td>400</td>
+		<td>14700</td>
+		<td>6860</td>
+		<td>7840</td>
+                                        <td>0</td>
+                                        <td>7840</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019440/H01E03/07/2014</td>
+		<td>B007839</td>
+		<td>H01E</td>
+		<td align=center>H01E03</td>
+		<td>SUKKI</td>
+		<td>H12</td>
+		<td align=center>14:36:31</td>
+		<td align=center>14:41:31</td	>
+		<td align=center></td>
+		<td>431</td>
+		<td>15660</td>
+		<td>7510</td>
+		<td>8150</td>
+                                        <td>0</td>
+                                        <td>8150</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003099/H03E02/07/2014</td>
+		<td>B007840</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>14:37:34</td>
+		<td align=center>14:44:31</td	>
+		<td align=center></td>
+		<td>288</td>
+		<td>9120</td>
+		<td>3730</td>
+		<td>5390</td>
+                                        <td>0</td>
+                                        <td>5390</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001111/H05E03/07/2014</td>
+		<td>B007841</td>
+		<td>H05E</td>
+		<td align=center>H05E03</td>
+		<td>ASPAR</td>
+		<td>H63</td>
+		<td align=center>14:38:34</td>
+		<td align=center>14:45:51</td	>
+		<td align=center></td>
+		<td>1350</td>
+		<td>9000</td>
+		<td>3770</td>
+		<td>5230</td>
+                                        <td>0</td>
+                                        <td>5230</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003606/H03E03/07/2014</td>
+		<td>B007843</td>
+		<td>H03E</td>
+		<td align=center>H03E03</td>
+		<td>BAHAR</td>
+		<td>N56</td>
+		<td align=center>14:50:38</td>
+		<td align=center>14:57:35</td	>
+		<td align=center></td>
+		<td>472</td>
+		<td>15450</td>
+		<td>7690</td>
+		<td>7760</td>
+                                        <td>0</td>
+                                        <td>7760</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003771/H03E06/07/2014</td>
+		<td>B007845</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>14:51:57</td>
+		<td align=center>14:58:58</td	>
+		<td align=center></td>
+		<td>444</td>
+		<td>14590</td>
+		<td>6900</td>
+		<td>7690</td>
+                                        <td>0</td>
+                                        <td>7690</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003319/H03E04/07/2014</td>
+		<td>B007848</td>
+		<td>H03E</td>
+		<td align=center>H03E04</td>
+		<td>SUNAR</td>
+		<td>H19</td>
+		<td align=center>14:55:48</td>
+		<td align=center>15:00:18</td	>
+		<td align=center></td>
+		<td>447</td>
+		<td>15680</td>
+		<td>7760</td>
+		<td>7920</td>
+                                        <td>0</td>
+                                        <td>7920</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025580/H02E01/07/2014</td>
+		<td>B007849</td>
+		<td>H02E</td>
+		<td align=center>H02E01</td>
+		<td>FERDI</td>
+		<td>H16</td>
+		<td align=center>14:56:30</td>
+		<td align=center>15:01:50</td	>
+		<td align=center></td>
+		<td>416</td>
+		<td>15640</td>
+		<td>7460</td>
+		<td>8180</td>
+                                        <td>0</td>
+                                        <td>8180</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025040/H02E03/07/2014</td>
+		<td>B007850</td>
+		<td>H02E</td>
+		<td align=center>H02E03</td>
+		<td>PUR</td>
+		<td>H13</td>
+		<td align=center>15:04:46</td>
+		<td align=center>15:08:09</td	>
+		<td align=center></td>
+		<td>450</td>
+		<td>15700</td>
+		<td>7440</td>
+		<td>8260</td>
+                                        <td>0</td>
+                                        <td>8260</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1100354/H11E01/07/2014</td>
+		<td>B007851</td>
+		<td>H11E</td>
+		<td align=center>H11E01</td>
+		<td>YUS</td>
+		<td>H17</td>
+		<td align=center>15:09:52</td>
+		<td align=center>15:12:58</td	>
+		<td align=center></td>
+		<td>400</td>
+		<td>15740</td>
+		<td>7820</td>
+		<td>7920</td>
+                                        <td>0</td>
+                                        <td>7920</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025584/H02E02/07/2014</td>
+		<td>B007853</td>
+		<td>H02E</td>
+		<td align=center>H02E02</td>
+		<td>ABAS</td>
+		<td>H18</td>
+		<td align=center>15:16:34</td>
+		<td align=center>15:19:48</td	>
+		<td align=center></td>
+		<td>400</td>
+		<td>15370</td>
+		<td>7570</td>
+		<td>7800</td>
+                                        <td>0</td>
+                                        <td>7800</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003494/H03E07/07/2014</td>
+		<td>B007854</td>
+		<td>H03E</td>
+		<td align=center>H03E07</td>
+		<td>PUR</td>
+		<td>H64</td>
+		<td align=center>15:17:35</td>
+		<td align=center>15:23:33</td	>
+		<td align=center></td>
+		<td>348</td>
+		<td>9070</td>
+		<td>3860</td>
+		<td>5210</td>
+                                        <td>0</td>
+                                        <td>5210</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025047/H02E05/07/2014</td>
+		<td>B007855</td>
+		<td>H02E</td>
+		<td align=center>H02E05</td>
+		<td>FENCE</td>
+		<td>N57</td>
+		<td align=center>15:18:31</td>
+		<td align=center>15:27:17</td	>
+		<td align=center></td>
+		<td>444</td>
+		<td>16240</td>
+		<td>7670</td>
+		<td>8570</td>
+                                        <td>0</td>
+                                        <td>8570</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003100/H03E02/07/2014</td>
+		<td>B007856</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>15:29:10</td>
+		<td align=center>15:32:14</td	>
+		<td align=center></td>
+		<td>276</td>
+		<td>8750</td>
+		<td>3720</td>
+		<td>5030</td>
+                                        <td>0</td>
+                                        <td>5030</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020177/H06E02/07/2014</td>
+		<td>B007857</td>
+		<td>H06E</td>
+		<td align=center>H06E02</td>
+		<td>HAMSA</td>
+		<td>DT47H</td>
+		<td align=center>15:29:58</td>
+		<td align=center>15:33:46</td	>
+		<td align=center></td>
+		<td>467</td>
+		<td>15510</td>
+		<td>7410</td>
+		<td>8100</td>
+                                        <td>0</td>
+                                        <td>8100</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019336/H01E04/07/2014</td>
+		<td>B007859</td>
+		<td>H01E</td>
+		<td align=center>H01E04</td>
+		<td>SANTOSO</td>
+		<td>DT78H</td>
+		<td align=center>15:47:39</td>
+		<td align=center>15:50:22</td	>
+		<td align=center></td>
+		<td>417</td>
+		<td>15030</td>
+		<td>6890</td>
+		<td>8140</td>
+                                        <td>0</td>
+                                        <td>8140</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003320/H03E04/07/2014</td>
+		<td>B007860</td>
+		<td>H03E</td>
+		<td align=center>H03E04</td>
+		<td>SUNAR</td>
+		<td>H19</td>
+		<td align=center>15:53:51</td>
+		<td align=center>15:58:19</td	>
+		<td align=center></td>
+		<td>439</td>
+		<td>15920</td>
+		<td>7760</td>
+		<td>8160</td>
+                                        <td>0</td>
+                                        <td>8160</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003607/H03E03/07/2014</td>
+		<td>B007861</td>
+		<td>H03E</td>
+		<td align=center>H03E03</td>
+		<td>BAHAR</td>
+		<td>N56</td>
+		<td align=center>15:54:46</td>
+		<td align=center>16:02:32</td	>
+		<td align=center></td>
+		<td>457</td>
+		<td>14870</td>
+		<td>7740</td>
+		<td>7130</td>
+                                        <td>0</td>
+                                        <td>7130</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003814/H03E05/07/2014</td>
+		<td>B007864</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BERTO</td>
+		<td>FORD23</td>
+		<td align=center>15:57:19</td>
+		<td align=center>16:03:56</td	>
+		<td align=center></td>
+		<td>300</td>
+		<td>10650</td>
+		<td>5190</td>
+		<td>5460</td>
+                                        <td>0</td>
+                                        <td>5460</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003815/H03E05/07/2014</td>
+		<td>B007865</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BASRI</td>
+		<td>H65</td>
+		<td align=center>16:00:35</td>
+		<td align=center>16:05:39</td	>
+		<td align=center></td>
+		<td>260</td>
+		<td>8640</td>
+		<td>3800</td>
+		<td>4840</td>
+                                        <td>0</td>
+                                        <td>4840</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001104/H05E01/07/2014</td>
+		<td>B007866</td>
+		<td>H05E</td>
+		<td align=center>H05E01</td>
+		<td>RUSDIN</td>
+		<td>DT66H</td>
+		<td align=center>16:01:31</td>
+		<td align=center>16:07:09</td	>
+		<td align=center></td>
+		<td>250</td>
+		<td>8810</td>
+		<td>3620</td>
+		<td>5190</td>
+                                        <td>0</td>
+                                        <td>5190</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>6020264/H06E03/07/2014</td>
+		<td>B007867</td>
+		<td>H06E</td>
+		<td align=center>H06E03</td>
+		<td>IRFAN</td>
+		<td>DT74H</td>
+		<td align=center>16:09:01</td>
+		<td align=center>16:12:47</td	>
+		<td align=center></td>
+		<td>601</td>
+		<td>14840</td>
+		<td>7080</td>
+		<td>7760</td>
+                                        <td>0</td>
+                                        <td>7760</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021008/H04E02/07/2014</td>
+		<td>B007868</td>
+		<td>H04E</td>
+		<td align=center>H04E02</td>
+		<td>FIIKI</td>
+		<td>DT41H</td>
+		<td align=center>16:10:00</td>
+		<td align=center>16:14:09</td	>
+		<td align=center></td>
+		<td>441</td>
+		<td>15020</td>
+		<td>6970</td>
+		<td>8050</td>
+                                        <td>0</td>
+                                        <td>8050</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021346/H04E01/07/2014</td>
+		<td>B007870</td>
+		<td>H04E</td>
+		<td align=center>H04E01</td>
+		<td>KASIM</td>
+		<td>DT46H</td>
+		<td align=center>16:11:54</td>
+		<td align=center>16:15:33</td	>
+		<td align=center></td>
+		<td>434</td>
+		<td>14740</td>
+		<td>7140</td>
+		<td>7600</td>
+                                        <td>0</td>
+                                        <td>7600</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019392/H01E02/07/2014</td>
+		<td>B007869</td>
+		<td>H01E</td>
+		<td align=center>H01E02</td>
+		<td>SURYADI</td>
+		<td>H14</td>
+		<td align=center>16:11:05</td>
+		<td align=center>16:17:16</td	>
+		<td align=center></td>
+		<td>415</td>
+		<td>15920</td>
+		<td>7610</td>
+		<td>8310</td>
+                                        <td>0</td>
+                                        <td>8310</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1200590/H12E02/07/2014</td>
+		<td>B007871</td>
+		<td>H12E</td>
+		<td align=center>H12E02</td>
+		<td>PARHAN</td>
+		<td>H59</td>
+		<td align=center>16:19:20</td>
+		<td align=center>16:24:01</td	>
+		<td align=center></td>
+		<td>1083</td>
+		<td>8640</td>
+		<td>3710</td>
+		<td>4930</td>
+                                        <td>0</td>
+                                        <td>4930</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025565/H02E03/07/2014</td>
+		<td>B007872</td>
+		<td>H02E</td>
+		<td align=center>H02E03</td>
+		<td>PUR</td>
+		<td>H13</td>
+		<td align=center>16:22:46</td>
+		<td align=center>16:25:56</td	>
+		<td align=center></td>
+		<td>451</td>
+		<td>15460</td>
+		<td>7440</td>
+		<td>8020</td>
+                                        <td>0</td>
+                                        <td>8020</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003062/H03E01/07/2014</td>
+		<td>B007873</td>
+		<td>H03E</td>
+		<td align=center>H03E01</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>16:27:59</td>
+		<td align=center>16:32:26</td	>
+		<td align=center></td>
+		<td>360</td>
+		<td>14740</td>
+		<td>6880</td>
+		<td>7860</td>
+                                        <td>0</td>
+                                        <td>7860</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025581/H02E01/07/2014</td>
+		<td>B007874</td>
+		<td>H02E</td>
+		<td align=center>H02E01</td>
+		<td>FERDY</td>
+		<td>H16</td>
+		<td align=center>16:29:20</td>
+		<td align=center>16:33:51</td	>
+		<td align=center></td>
+		<td>404</td>
+		<td>15270</td>
+		<td>7460</td>
+		<td>7810</td>
+                                        <td>0</td>
+                                        <td>7810</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003101/H03E02/07/2014</td>
+		<td>B007875</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>16:30:16</td>
+		<td align=center>16:36:41</td	>
+		<td align=center></td>
+		<td>269</td>
+		<td>8910</td>
+		<td>3720</td>
+		<td>5190</td>
+                                        <td>0</td>
+                                        <td>5190</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019525/H01E05/07/2014</td>
+		<td>B007878</td>
+		<td>H01E</td>
+		<td align=center>H01E05</td>
+		<td>IRFAI</td>
+		<td>DT49H</td>
+		<td align=center>16:38:39</td>
+		<td align=center>16:41:24</td	>
+		<td align=center></td>
+		<td>447</td>
+		<td>15270</td>
+		<td>7020</td>
+		<td>8250</td>
+                                        <td>0</td>
+                                        <td>8250</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025046/H02E04/07/2014</td>
+		<td>B007880</td>
+		<td>H02E</td>
+		<td align=center>H02E04</td>
+		<td>UNDING</td>
+		<td>N58</td>
+		<td align=center>16:43:04</td>
+		<td align=center>16:46:19</td	>
+		<td align=center></td>
+		<td>420</td>
+		<td>15710</td>
+		<td>7630</td>
+		<td>8080</td>
+                                        <td>0</td>
+                                        <td>8080</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003608/H03E03/07/2014</td>
+		<td>B007881</td>
+		<td>H03E</td>
+		<td align=center>H03E03</td>
+		<td>BAHAR</td>
+		<td>N56</td>
+		<td align=center>16:49:34</td>
+		<td align=center>16:53:32</td	>
+		<td align=center></td>
+		<td>300</td>
+		<td>15270</td>
+		<td>7740</td>
+		<td>7530</td>
+                                        <td>0</td>
+                                        <td>7530</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003816/H03E05/07/2014</td>
+		<td>B007882</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BASRI</td>
+		<td>H65</td>
+		<td align=center>16:59:28</td>
+		<td align=center>17:04:36</td	>
+		<td align=center></td>
+		<td>320</td>
+		<td>8860</td>
+		<td>3790</td>
+		<td>5070</td>
+                                        <td>0</td>
+                                        <td>5070</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019157/H01E01/07/2014</td>
+		<td>B007883</td>
+		<td>H01E</td>
+		<td align=center>H01E01</td>
+		<td>YUSAK</td>
+		<td>DT48H</td>
+		<td align=center>17:02:33</td>
+		<td align=center>17:06:07</td	>
+		<td align=center></td>
+		<td>421</td>
+		<td>15860</td>
+		<td>7140</td>
+		<td>8720</td>
+                                        <td>0</td>
+                                        <td>8720</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003772/H03E06/07/2014</td>
+		<td>B007884</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>PUR</td>
+		<td>DT11H</td>
+		<td align=center>17:03:23</td>
+		<td align=center>17:07:59</td	>
+		<td align=center></td>
+		<td>513</td>
+		<td>15350</td>
+		<td>7170</td>
+		<td>8180</td>
+                                        <td>0</td>
+                                        <td>8180</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003321/H03E04/07/2014</td>
+		<td>B007885</td>
+		<td>H03E</td>
+		<td align=center>H03E04</td>
+		<td>SUNAR</td>
+		<td>H19</td>
+		<td align=center>17:10:48</td>
+		<td align=center>17:16:50</td	>
+		<td align=center></td>
+		<td>452</td>
+		<td>16310</td>
+		<td>7810</td>
+		<td>8500</td>
+                                        <td>0</td>
+                                        <td>8500</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003495/H03E07/07/2014</td>
+		<td>B007886</td>
+		<td>H03E</td>
+		<td align=center>H03E07</td>
+		<td>PUR</td>
+		<td>H64</td>
+		<td align=center>17:16:26</td>
+		<td align=center>17:19:48</td	>
+		<td align=center></td>
+		<td>312</td>
+		<td>8940</td>
+		<td>3860</td>
+		<td>5080</td>
+                                        <td>0</td>
+                                        <td>5080</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003102/H03E02/07/2014</td>
+		<td>B007888</td>
+		<td>H03E</td>
+		<td align=center>H03E02</td>
+		<td>GAFAR</td>
+		<td>H61</td>
+		<td align=center>17:18:37</td>
+		<td align=center>17:23:29</td	>
+		<td align=center></td>
+		<td>270</td>
+		<td>8920</td>
+		<td>3730</td>
+		<td>5190</td>
+                                        <td>0</td>
+                                        <td>5190</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003812/H03E05/07/2014</td>
+		<td>B007889</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>ARFAN</td>
+		<td>FORD29</td>
+		<td align=center>17:21:34</td>
+		<td align=center>17:26:27</td	>
+		<td align=center></td>
+		<td>150</td>
+		<td>9590</td>
+		<td>5730</td>
+		<td>3860</td>
+                                        <td>0</td>
+                                        <td>3860</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003802/H03E05/07/2014</td>
+		<td>B007890</td>
+		<td>H03E</td>
+		<td align=center>H03E05</td>
+		<td>BERTO</td>
+		<td>FORD23</td>
+		<td align=center>17:25:25</td>
+		<td align=center>17:30:20</td	>
+		<td align=center></td>
+		<td>262</td>
+		<td>10190</td>
+		<td>5190</td>
+		<td>5000</td>
+                                        <td>0</td>
+                                        <td>5000</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>3003773/H03E06/07/2014</td>
+		<td>B007891</td>
+		<td>H03E</td>
+		<td align=center>H03E06</td>
+		<td>KAMARUDIN</td>
+		<td>DT05H</td>
+		<td align=center>17:29:12</td>
+		<td align=center>17:33:11</td	>
+		<td align=center></td>
+		<td>467</td>
+		<td>14450</td>
+		<td>6890</td>
+		<td>7560</td>
+                                        <td>0</td>
+                                        <td>7560</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>5001071/H05E02/07/2014</td>
+		<td>B007892</td>
+		<td>H05E</td>
+		<td align=center>H05E02</td>
+		<td>ALEX</td>
+		<td>DT65H</td>
+		<td align=center>17:32:20</td>
+		<td align=center>17:35:54</td	>
+		<td align=center></td>
+		<td>337</td>
+		<td>8910</td>
+		<td>3610</td>
+		<td>5300</td>
+                                        <td>0</td>
+                                        <td>5300</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>1100355/H11E01/07/2014</td>
+		<td>B007893</td>
+		<td>H11E</td>
+		<td align=center>H11E01</td>
+		<td>yusmar</td>
+		<td>H17</td>
+		<td align=center>17:37:44</td>
+		<td align=center>17:41:08</td	>
+		<td align=center></td>
+		<td>500</td>
+		<td>14560</td>
+		<td>7760</td>
+		<td>6800</td>
+                                        <td>0</td>
+                                        <td>6800</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0025585/H02E02/07/2014</td>
+		<td>B007894</td>
+		<td>H02E</td>
+		<td align=center>H02E02</td>
+		<td>ABAS</td>
+		<td>H18</td>
+		<td align=center>17:44:21</td>
+		<td align=center>17:47:34</td	>
+		<td align=center></td>
+		<td>439</td>
+		<td>16260</td>
+		<td>7570</td>
+		<td>8690</td>
+                                        <td>0</td>
+                                        <td>8690</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0019156/H01E01/07/2014</td>
+		<td>B007895</td>
+		<td>H01E</td>
+		<td align=center>H01E01</td>
+		<td>RUDI</td>
+		<td>DT02H</td>
+		<td align=center>17:58:29</td>
+		<td align=center>18:13:55</td	>
+		<td align=center></td>
+		<td>402</td>
+		<td>14700</td>
+		<td>6840</td>
+		<td>7860</td>
+                                        <td>0</td>
+                                        <td>7860</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021032/H04E05/07/2014</td>
+		<td>B007896</td>
+		<td>H04E</td>
+		<td align=center>H04E05</td>
+		<td>SARMIN</td>
+		<td>DT45H</td>
+		<td align=center>18:49:28</td>
+		<td align=center>18:52:31</td	>
+		<td align=center></td>
+		<td>394</td>
+		<td>14920</td>
+		<td>7100</td>
+		<td>7820</td>
+                                        <td>0</td>
+                                        <td>7820</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>4021309/H04E03/07/2014</td>
+		<td>B007897</td>
+		<td>H04E</td>
+		<td align=center>H04E03</td>
+		<td>TAMRIN</td>
+		<td>DT42H</td>
+		<td align=center>19:01:13</td>
+		<td align=center>19:06:52</td	>
+		<td align=center></td>
+		<td>443</td>
+		<td>15830</td>
+		<td>6970</td>
+		<td>8860</td>
+                                        <td>0</td>
+                                        <td>8860</td>    
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+                    <td align=center colspan=9 align=right><b>TOTAL:</b></td>
+                    <td>47113</td>
+                    <td>1485880</td>
+                    <td>699760</td>
+                    <td>786120</td>
+                    <td>1196</td>
+                    <td>784924</td>                        
+                    </tr>			
+		</table>
+
+<font size=2>Printed:05-08-2014 13:35:54</font>

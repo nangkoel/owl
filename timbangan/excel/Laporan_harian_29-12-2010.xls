@@ -1,0 +1,134 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=14 align=center>
+			LAPORAN PENERIMAAN Fresh Fruit Bunch (TBS) PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=14  align=center>
+			Tanggal	&nbsp &nbsp: 29-12-2010<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Suppllier</b></td>
+			<td align=center><b>Divisi</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			<td align=center><b>BJR</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000860</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td align=center></td>
+		<td>HERMAN</td>
+		<td>BK9711BI</td>
+		<td align=center>07:33:12</td>
+		<td align=center>08:04:36</td	>
+		<td align=center></td>
+		<td>1046</td>
+		<td>10920</td>
+		<td>3380</td>
+		<td>7540</td><td>7.208413001912</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000862</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>lil</td>
+		<td>BG8100AI</td>
+		<td align=center>07:54:20</td>
+		<td align=center>08:18:53</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>9770</td>
+		<td>3400</td>
+		<td>6370</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000864</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>jimi</td>
+		<td>BG4479FB</td>
+		<td align=center>07:56:43</td>
+		<td align=center>08:21:51</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>11650</td>
+		<td>4070</td>
+		<td>7580</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000867</td>
+		<td>DIDIK.K</td>
+		<td align=center></td>
+		<td>dulah</td>
+		<td>BG8694F</td>
+		<td align=center>08:01:24</td>
+		<td align=center>08:43:09</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>9930</td>
+		<td>2950</td>
+		<td>6980</td><td bgcolor=red>0</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>210/SOGE01/12/2010</td>
+		<td>A000879</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>marwan</td>
+		<td>BG9933MB</td>
+		<td align=center>09:14:47</td>
+		<td align=center>09:23:39</td	>
+		<td align=center></td>
+		<td>37</td>
+		<td>2260</td>
+		<td>980</td>
+		<td>1280</td><td>34.594594594595</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000877</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td align=center></td>
+		<td>joyo</td>
+		<td>BE9312EU</td>
+		<td align=center>08:59:58</td>
+		<td align=center>09:25:46</td	>
+		<td align=center></td>
+		<td>1336</td>
+		<td>11260</td>
+		<td>3410</td>
+		<td>7850</td><td>5.875748502994</td>		
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>2419</td>
+			<td>55790</td>
+			<td>18190</td>
+			<td>37600</td>
+			<td>15.543613063249</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:29-12-2010 11:52:09</font>

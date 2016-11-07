@@ -1,0 +1,15 @@
+.legend{
+	width:350px;
+
+}
+
+#mode{
+	font-weight:bolder;
+}
+
+.maincontent{
+    background-image:url('/../images/chart2.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	overflow-y:inherit;
+}

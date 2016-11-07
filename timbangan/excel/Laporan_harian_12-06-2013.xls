@@ -1,0 +1,96 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=14 align=center>
+			LAPORAN PENERIMAAN Fresh Fruit Bunch (TBS) PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=14  align=center>
+			Tanggal	&nbsp &nbsp: 12-06-2013<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Suppllier</b></td>
+			<td align=center><b>Divisi</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+                                                            <td align=center><b>Potongan</b></td>
+                                                            <td align=center><b>Normal</b></td>
+			<td align=center><b>BJR</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0000159//06/2013</td>
+		<td>A000003</td>
+		<td>KAME</td>
+		<td align=center></td>
+		<td>saiman</td>
+		<td>BL8627R</td>
+		<td align=center>20:06:41</td>
+		<td align=center>20:23:29</td	>
+		<td align=center></td>
+		<td>1527</td>
+		<td>8680</td>
+		<td>3870</td>
+		<td>4810</td>
+                                        <td>129</td>
+                                         <td>4681</td><td>3,07</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>0000066//06/2013</td>
+		<td>A000002</td>
+		<td>TJME</td>
+		<td align=center></td>
+		<td>winarto</td>
+		<td>BL8629R</td>
+		<td align=center>19:12:17</td>
+		<td align=center>22:06:14</td	>
+		<td align=center></td>
+		<td>1189</td>
+		<td>11240</td>
+		<td>1560</td>
+		<td>9680</td>
+                                        <td>151</td>
+                                         <td>9529</td><td>8,01</td>		
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000004</td>
+		<td>TRUK NAFASINDO</td>
+		<td align=center></td>
+		<td>roy</td>
+		<td>BK8229LG</td>
+		<td align=center>21:59:35</td>
+		<td align=center>22:17:21</td	>
+		<td align=center></td>
+		<td>10</td>
+		<td>1560</td>
+		<td>1070</td>
+		<td>490</td>
+                                        <td>44</td>
+                                         <td>446</td><td>44,60</td>		
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>2726</td>
+			<td>21480</td>
+			<td>6500</td>
+			<td>14980</td>
+                                                            <td>324</td>
+                                                            <td>14656</td>    
+			<td>5.38</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:20-06-2013 08:29:15</font>

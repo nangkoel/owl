@@ -1,0 +1,116 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=13 align=center>
+			LAPORAN PENERIMAAN Fresh Fruit Bunch (TBS) PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=13  align=center>
+			Tanggal	&nbsp &nbsp: 23-12-2010<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Unit/Estate</b></td>
+			<td align=center><b>Divisi</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>151/SOGE02/12/2010</td>
+		<td>A000202</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>reza</td>
+		<td>BG8746MJ</td>
+		<td align=center>18:04:09</td>
+		<td align=center>18:17:07</td	>
+		<td align=center></td>
+		<td>170</td>
+		<td>8580</td>
+		<td>3880</td>
+		<td>4700</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>207/SOGE01/12/2010</td>
+		<td>A000201</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>junet</td>
+		<td>TRB01</td>
+		<td align=center>18:02:06</td>
+		<td align=center>18:18:52</td	>
+		<td align=center>1984</td>
+		<td>46</td>
+		<td>6970</td>
+		<td>5290</td>
+		<td>1680</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>371/SKSE03/12/2010</td>
+		<td>A000200</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>ahyudin</td>
+		<td>B9294QB</td>
+		<td align=center>17:59:46</td>
+		<td align=center>18:24:58</td	>
+		<td align=center></td>
+		<td>418</td>
+		<td>7350</td>
+		<td>3160</td>
+		<td>4190</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>318/WKNE01/12/2010</td>
+		<td>A000203</td>
+		<td>WKNE</td>
+		<td align=center>WKNE01</td>
+		<td>muhtar</td>
+		<td>BG9202K</td>
+		<td align=center>18:34:19</td>
+		<td align=center>19:16:42</td	>
+		<td align=center></td>
+		<td>360</td>
+		<td>10240</td>
+		<td>3240</td>
+		<td>7000</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>345/SKSE02/12/2010</td>
+		<td>A000204</td>
+		<td>SKSE</td>
+		<td align=center>SKSE02</td>
+		<td>SAMANI</td>
+		<td>BG8790F</td>
+		<td align=center>19:57:12</td>
+		<td align=center>20:03:25</td	>
+		<td align=center></td>
+		<td>121</td>
+		<td>6260</td>
+		<td>3670</td>
+		<td>2590</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>1115</td>
+			<td>39400</td>
+			<td>19240</td>
+			<td>20160</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:23-12-2010 23:12:50</font>

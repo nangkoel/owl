@@ -1,0 +1,25 @@
+ 
+                <table class=sortable cellspacing=1 border=1 width=80%>
+                <thead>
+                <tr  >
+                <td align=center bgcolor='#DFDFDF'>No.</td>
+                <td align=center bgcolor='#DFDFDF'>Tanggal</td>
+                <td align=center bgcolor='#DFDFDF'>Nama</td>
+                <td align=center bgcolor='#DFDFDF'>Keperluan</td>
+                <td align=center bgcolor='#DFDFDF'>Jenis Ijin</td>  
+                <td align=center bgcolor='#DFDFDF'>Persetujuan</td>    
+                <td align=center bgcolor='#DFDFDF'>Status Persetujuan</td>
+                <td align=center bgcolor='#DFDFDF'>Dari  Jam</td>
+                <td align=center bgcolor='#DFDFDF'>Tanggal Sampai  Jam</td>
+                </tr>  
+                </thead><tbody>
+                <tr class=rowcontent>
+                <td>1</td>
+                <td>2014-04-30</td>
+                <td>ROYANDI, A.MD</td>
+                <td>ANTAR ISTRI PULANG KAMPUNG</td>
+                <td>CUTI</td>
+                <td>SERI SIRITHORN</td>
+                <td>Ajukan</td>
+                <td>2014-05-07 00:00:00</td>
+                <td>2014-05-14 00:00:00</td></tbody></table>

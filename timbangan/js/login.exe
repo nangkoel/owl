@@ -1,0 +1,62 @@
+function login()
+{
+	uname   =document.getElementById('name').value;
+	password=document.getElementById('pwd').value;
+
+	if (uname == '' || password == '') {
+		alert('User Name dan Password Harus Diisi');
+		document.getElementById('name').focus();
+	}
+	else {
+			param = 'uname=' + uname + '&password=' + password;
+			post_response_text('slave_login.php', param, respog);
+	   }
+
+	function respog(){
+		if (con.readyState == 4) {
+			if (con.status == 200) {
+				busy_off();
+				if (!isSaveResponse(con.responseText)) {
+					alert('ERROR TRANSACTION,\n' + con.responseText);
+				}
+				else {
+					if (con.responseText.lastIndexOf('Wrong') > -1) {
+						document.getElementById('msg').innerHTML = con.responseText;
+					}
+					else {
+						//alert(con.responseText);
+						window.location = 'master.php';
+
+					}
+				}
+			}
+			else {
+				busy_off();
+				error_catch(con.status);
+			}
+			resetf();//clear from
+		}
+	}
+}
+
+function resetf()//clear from
+{
+	document.getElementById('name').value='';
+	document.getElementById('pwd').value='';
+}
+
+function enter(e)
+{
+  key=getKey(e);
+  if(key==13)
+    {
+		login();
+	    return true;
+	}
+  else
+   	{
+		return tanpa_kutip_dan_sepasi(e);
+	}
+}
+//disable right click====================================
+//document.oncontextmenu=new Function('return false')

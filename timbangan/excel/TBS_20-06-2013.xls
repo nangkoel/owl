@@ -1,0 +1,400 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=16 align=center>
+			LAPORAN PENERIMAAN TBS EKSTERNAL PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=16  align=center>
+			Tanggal	&nbsp &nbsp: 20-06-2013 s/d 2013-06-21 <br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Pengirim</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam I</b></td>
+			<td align=center><b>Tahun Tanam II</b></td>
+			<td align=center><b>Tahun Tanam III</b></td>
+			<td align=center><b>Jml.JJG I</b></td>
+			<td align=center><b>Jml.JJG II</b></td>
+			<td align=center><b>Jml.JJG III</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+                                                            <td align=center><b>Potongan</b></td>
+                                                            <td align=center><b>Normal</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000002</td>
+		<td>NGUDI LUWIH,CV</td>
+		<td>arik</td>
+		<td>BL8542RZ</td>
+		<td align=center>10:02:28</td>
+		<td align=center>10:29:38</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>400</td>
+		<td></td>
+		<td></td>
+		<td>10560</td>
+		<td>3670</td>
+		<td>6890</td>
+                                        <td>222</td>
+                                        <td>6668</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000003</td>
+		<td>DIAN RIZPODA,PT</td>
+		<td>sugianto</td>
+		<td>BK8625CG</td>
+		<td align=center>10:05:07</td>
+		<td align=center>10:36:03</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>10520</td>
+		<td>3700</td>
+		<td>6820</td>
+                                        <td>146</td>
+                                        <td>6674</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000004</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>suratman</td>
+		<td>BL8734TB</td>
+		<td align=center>10:07:12</td>
+		<td align=center>10:46:47</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>550</td>
+		<td></td>
+		<td></td>
+		<td>11800</td>
+		<td>3500</td>
+		<td>8300</td>
+                                        <td>259</td>
+                                        <td>8041</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000007</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>gendon</td>
+		<td>BL9941A</td>
+		<td align=center>10:44:00</td>
+		<td align=center>11:24:48</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>600</td>
+		<td></td>
+		<td></td>
+		<td>11830</td>
+		<td>3850</td>
+		<td>7980</td>
+                                        <td>334</td>
+                                        <td>7646</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000006</td>
+		<td>PRIMA LASIMA BERSAUDARA,PT</td>
+		<td>asrul</td>
+		<td>BL8612EZ</td>
+		<td align=center>10:42:05</td>
+		<td align=center>11:26:27</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>450</td>
+		<td></td>
+		<td></td>
+		<td>11130</td>
+		<td>3390</td>
+		<td>7740</td>
+                                        <td>165</td>
+                                        <td>7575</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000005</td>
+		<td>RIMBA PRIMA TANI,CV</td>
+		<td>manik</td>
+		<td>BL8660R</td>
+		<td align=center>10:39:34</td>
+		<td align=center>11:28:00</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>410</td>
+		<td></td>
+		<td></td>
+		<td>11450</td>
+		<td>3850</td>
+		<td>7600</td>
+                                        <td>316</td>
+                                        <td>7284</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000010</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>firman</td>
+		<td>BL8706R</td>
+		<td align=center>11:16:20</td>
+		<td align=center>11:36:22</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>600</td>
+		<td></td>
+		<td></td>
+		<td>12450</td>
+		<td>3850</td>
+		<td>8600</td>
+                                        <td>269</td>
+                                        <td>8331</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000011</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>jamin</td>
+		<td>BL8165RZ</td>
+		<td align=center>11:18:20</td>
+		<td align=center>11:53:44</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>500</td>
+		<td></td>
+		<td></td>
+		<td>10610</td>
+		<td>3420</td>
+		<td>7190</td>
+                                        <td>226</td>
+                                        <td>6964</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000046</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>mujahid</td>
+		<td>BL8644R</td>
+		<td align=center>15:44:37</td>
+		<td align=center>16:13:42</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>480</td>
+		<td></td>
+		<td></td>
+		<td>10110</td>
+		<td>3520</td>
+		<td>6590</td>
+                                        <td>208</td>
+                                        <td>6382</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000047</td>
+		<td>PRIMA LASIMA BERSAUDARA,PT</td>
+		<td>roy</td>
+		<td>BK8229LG</td>
+		<td align=center>15:46:21</td>
+		<td align=center>16:15:41</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>430</td>
+		<td></td>
+		<td></td>
+		<td>10040</td>
+		<td>3530</td>
+		<td>6510</td>
+                                        <td>175</td>
+                                        <td>6335</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000062</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>surtman</td>
+		<td>BL8219RZ</td>
+		<td align=center>16:52:58</td>
+		<td align=center>17:17:19</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>410</td>
+		<td></td>
+		<td></td>
+		<td>11690</td>
+		<td>3810</td>
+		<td>7880</td>
+                                        <td>246</td>
+                                        <td>7634</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000061</td>
+		<td>DIAN RIZPODA,PT</td>
+		<td>ambareta</td>
+		<td>B9144DF</td>
+		<td align=center>16:51:03</td>
+		<td align=center>17:20:59</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>430</td>
+		<td></td>
+		<td></td>
+		<td>9340</td>
+		<td>3530</td>
+		<td>5810</td>
+                                        <td>126</td>
+                                        <td>5684</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000065</td>
+		<td>TANI SUKSES BERSAMA,UD</td>
+		<td>anto</td>
+		<td>BL8661R</td>
+		<td align=center>16:58:29</td>
+		<td align=center>17:50:41</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>600</td>
+		<td></td>
+		<td></td>
+		<td>12570</td>
+		<td>3840</td>
+		<td>8730</td>
+                                        <td>273</td>
+                                        <td>8457</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000070</td>
+		<td>DIAN RIZPODA,PT</td>
+		<td>tugino</td>
+		<td>BL8634R</td>
+		<td align=center>17:33:01</td>
+		<td align=center>18:01:26</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>430</td>
+		<td></td>
+		<td></td>
+		<td>11320</td>
+		<td>3540</td>
+		<td>7780</td>
+                                        <td>208</td>
+                                        <td>7572</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000069</td>
+		<td>TANI SEJAHTERA,KEL</td>
+		<td>rabusin</td>
+		<td>BL8204RZ</td>
+		<td align=center>17:31:24</td>
+		<td align=center>18:11:21</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>570</td>
+		<td></td>
+		<td></td>
+		<td>11990</td>
+		<td>3630</td>
+		<td>8360</td>
+                                        <td>261</td>
+                                        <td>8099</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000075</td>
+		<td>AGRO SEJAHTERA,PT</td>
+		<td>masdin</td>
+		<td>BK9750BA</td>
+		<td align=center>17:46:21</td>
+		<td align=center>18:18:55</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>400</td>
+		<td></td>
+		<td></td>
+		<td>9660</td>
+		<td>3110</td>
+		<td>6550</td>
+                                        <td>141</td>
+                                        <td>6409</td>    
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000074</td>
+		<td>PRIMA LASIMA BERSAUDARA,PT</td>
+		<td>purba</td>
+		<td>BK9031DI</td>
+		<td align=center>17:45:12</td>
+		<td align=center>18:23:05</td	>
+		<td align=center></td>
+		<td align=center></td>
+		<td align=center></td>
+		<td>430</td>
+		<td></td>
+		<td></td>
+		<td>9680</td>
+		<td>3450</td>
+		<td>6230</td>
+                                        <td>135</td>
+                                        <td>6095</td>    
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=13 align=right><b>TOTAL:</b></td>
+			<!--<td>8140</td>-->
+			<td>186750</td>
+			<td>61190</td>
+			<td>125560</td>
+                                                            <td>3710</td>
+                                                            <td>121850</td>    
+			</tr>			
+		</table>
+
+<font size=2>Printed:21-06-2013 22:27:03</font>

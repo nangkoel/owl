@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Auto Upload Data</title>
+
+<script language=JavaScript1.2 src=js/generic.js></script>
+<script language=JavaScript1.2 src=js/test.js></script>
+<style>
+body {
+	/*background-color: #E8F4F4;*/
+	margin:0 auto;
+	padding:0 0 0 0;
+	width:500px;
+}
+.bgOk{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#CCC;
+	background-color: #275370;
+}
+.css_tbody{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#333;
+	background-color: #76B1FF;
+}
+</style>
+</head>
+
+<body bgcolor="#E8F4F4" onload="getData()">
+<div id="progress" style="display:none;">Loading</div>
+
+<table cellspacing="1" border="0" width="500">
+		<thead class="bgOk" bgcolor="#06AEFF">
+		<tr>
+		<td>No. Wb</td>
+		<td>Tanggal</td>
+		<td>No. Kendaraan</td>
+		<td>Netto</td>
+		<td>Message</td>
+		</tr>
+                    
+        </thead><tbody id="content" class="css_tbody">
+            <tr>
+                    <td></td>
+					<td></td>
+                    <td></td>
+                    <td></td>
+                    <td id=pesanku></td>
+                    </tr>
+        </tbody>
+		</table>
+        <div style="display:none">
+        <table cellspacing="1" border="0">
+        <thead>
+        </thead>
+        <tbody id="isiData">
+        </tbody>
+        </table>
+        </div>
+        
+</body>
+
+</html>

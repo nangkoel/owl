@@ -1,0 +1,230 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=8 align=center>
+			LAPORAN TOTAL PENGELUARAN BARANG PER TANGGAL (Inti Sawit(PK) ke Komaligon)
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=8  align=center>
+			Tanggal	&nbsp &nbsp: 26-07-2014<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>BUYER</b></td>
+			<td align=center><b>CTRNO</b></td>			
+			<td align=center><b>DO</b></td>
+			<td align=center><b>TRANSPORTER</b></td>			
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010162</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>MUJIONO</td>		
+		<td>ANTON</td>
+		<td>DN8691F</td>
+		<td align=center>07:19:50</td>
+		<td align=center>07:57:15</td	>
+		<td>3360</td>
+		<td>11050</td>
+		<td>7690</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010163</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ABD RAHIM ISMAIL</td>		
+		<td>ETENG</td>
+		<td>DD8874XL</td>
+		<td align=center>07:26:23</td>
+		<td align=center>08:10:23</td	>
+		<td>3550</td>
+		<td>9850</td>
+		<td>6300</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010164</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>H.SURIANI</td>		
+		<td>AMIR</td>
+		<td>DN8695F</td>
+		<td align=center>08:00:21</td>
+		<td align=center>08:51:58</td	>
+		<td>3480</td>
+		<td>10450</td>
+		<td>6970</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010165</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DJAMALUDIN U MANTO</td>		
+		<td>SAMSUL</td>
+		<td>DN8637FY</td>
+		<td align=center>08:01:02</td>
+		<td align=center>08:59:40</td	>
+		<td>3130</td>
+		<td>9090</td>
+		<td>5960</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010166</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>NIRMA</td>		
+		<td>ANDI</td>
+		<td>DN8829F</td>
+		<td align=center>08:42:43</td>
+		<td align=center>10:10:13</td	>
+		<td>3440</td>
+		<td>11200</td>
+		<td>7760</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010167</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>SALMAN U.MANTO</td>		
+		<td>MANG</td>
+		<td>DN8653DB</td>
+		<td align=center>08:55:01</td>
+		<td align=center>10:13:57</td	>
+		<td>3210</td>
+		<td>10320</td>
+		<td>7110</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010168</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JEFRY B. SAERANG</td>		
+		<td>JEFRY</td>
+		<td>DN8609FY</td>
+		<td align=center>09:27:12</td>
+		<td align=center>10:54:45</td	>
+		<td>2950</td>
+		<td>9060</td>
+		<td>6110</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010169</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>IDRUS ABU BAKAR</td>		
+		<td>HADI</td>
+		<td>DN8622F</td>
+		<td align=center>09:27:58</td>
+		<td align=center>10:56:19</td	>
+		<td>2870</td>
+		<td>9040</td>
+		<td>6170</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010170</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ASPIA OLEH</td>		
+		<td>HASAN A ADAM</td>
+		<td>DN8623VB</td>
+		<td align=center>10:18:18</td>
+		<td align=center>11:55:45</td	>
+		<td>3610</td>
+		<td>11790</td>
+		<td>8180</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010171</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>NONCE PANTOW</td>		
+		<td>EVERLY</td>
+		<td>DM8106F</td>
+		<td align=center>10:19:57</td>
+		<td align=center>11:57:41</td	>
+		<td>3570</td>
+		<td>11820</td>
+		<td>8250</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010173</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>DIKSON WAROUW</td>		
+		<td>DIKSON</td>
+		<td>DB8315AY</td>
+		<td align=center>10:21:05</td>
+		<td align=center>11:59:51</td	>
+		<td>3020</td>
+		<td>8730</td>
+		<td>5710</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010172</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>JAMALUDIN</td>		
+		<td>DEFRI</td>
+		<td>DB8258AP</td>
+		<td align=center>10:20:22</td>
+		<td align=center>13:38:48</td	>
+		<td>3640</td>
+		<td>12190</td>
+		<td>8550</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>B010174</td>
+		<td>DUMP TRUK HIP</td>
+		<td>MUTASI_PK_HIP</td>
+		<td>SIPB_MUTASI_PK_HIP</td>	
+		<td>ELKI SUTENO</td>		
+		<td>ELKI</td>
+		<td>DN8858AL</td>
+		<td align=center>11:25:22</td>
+		<td align=center>14:10:36</td	>
+		<td>3520</td>
+		<td>11960</td>
+		<td>8440</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<!--<td>0</td>-->
+			<td>43350</td>
+			<td>136550</td>
+			<td>93200</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:26-07-2014 13:11:52</font>

@@ -1,0 +1,152 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=8 align=center>
+			LAPORAN TOTAL PENGELUARAN BARANG PER TANGGAL (Crude Palm Oil (CPO))
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=8  align=center>
+			Tanggal	&nbsp &nbsp: 12-04-2011<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016165</td>
+		<td>NANA</td>
+		<td>BG8071FM</td>
+		<td align=center>07:34:21</td>
+		<td align=center>08:45:38</td	>
+		<td>6910</td>
+		<td>21980</td>
+		<td>15070</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016163</td>
+		<td>JAJAK</td>
+		<td>B9979SQ</td>
+		<td align=center>07:22:50</td>
+		<td align=center>08:47:44</td	>
+		<td>6150</td>
+		<td>19740</td>
+		<td>13590</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016168</td>
+		<td>DAYAT</td>
+		<td>B9743NQ</td>
+		<td align=center>07:39:25</td>
+		<td align=center>08:51:42</td	>
+		<td>6060</td>
+		<td>18880</td>
+		<td>12820</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016169</td>
+		<td>LUKMAN</td>
+		<td>B9947OB</td>
+		<td align=center>07:40:34</td>
+		<td align=center>08:56:28</td	>
+		<td>6210</td>
+		<td>19760</td>
+		<td>13550</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016170</td>
+		<td>SOLIHIN</td>
+		<td>B9534GB</td>
+		<td align=center>07:41:54</td>
+		<td align=center>09:02:45</td	>
+		<td>6310</td>
+		<td>19370</td>
+		<td>13060</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016171</td>
+		<td>LILIK</td>
+		<td>B9946OB</td>
+		<td align=center>07:43:07</td>
+		<td align=center>09:09:15</td	>
+		<td>6240</td>
+		<td>19770</td>
+		<td>13530</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016180</td>
+		<td>SURO</td>
+		<td>B9249PJ</td>
+		<td align=center>08:08:35</td>
+		<td align=center>09:17:11</td	>
+		<td>6170</td>
+		<td>19750</td>
+		<td>13580</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016183</td>
+		<td>KAKAI</td>
+		<td>BG8069FM</td>
+		<td align=center>08:22:04</td>
+		<td align=center>09:22:24</td	>
+		<td>7130</td>
+		<td>22110</td>
+		<td>14980</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016182</td>
+		<td>JOHAN PAWIRA</td>
+		<td>BG8374MO</td>
+		<td align=center>08:11:37</td>
+		<td align=center>09:37:07</td	>
+		<td>7590</td>
+		<td>25240</td>
+		<td>17650</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016181</td>
+		<td>RIDWAN  A  R</td>
+		<td>BG4072MM</td>
+		<td align=center>08:10:13</td>
+		<td align=center>09:47:58</td	>
+		<td>7490</td>
+		<td>25980</td>
+		<td>18490</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A016184</td>
+		<td>HADI WIJAYA</td>
+		<td>B9855WV</td>
+		<td align=center>08:23:48</td>
+		<td align=center>09:50:01</td	>
+		<td>7560</td>
+		<td>25540</td>
+		<td>17980</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=5 align=right><b>TOTAL:</b></td>
+			<!--<td>0</td>-->
+			<td>73820</td>
+			<td>238120</td>
+			<td>164300</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:18-03-2012 00:15:43</font>

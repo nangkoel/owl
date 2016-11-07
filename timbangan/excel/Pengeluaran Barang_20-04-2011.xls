@@ -1,0 +1,108 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=8 align=center>
+			LAPORAN TOTAL PENGELUARAN BARANG PER TANGGAL (Crude Palm Oil (CPO))
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=8  align=center>
+			Tanggal	&nbsp &nbsp: 20-04-2011<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017362</td>
+		<td>SURO</td>
+		<td>B9249PJ</td>
+		<td align=center>08:47:03</td>
+		<td align=center>09:59:49</td	>
+		<td>6180</td>
+		<td>19850</td>
+		<td>13670</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017346</td>
+		<td>KAKAI</td>
+		<td>BG8069FM</td>
+		<td align=center>07:50:36</td>
+		<td align=center>10:06:22</td	>
+		<td>7140</td>
+		<td>22130</td>
+		<td>14990</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017364</td>
+		<td>IAN</td>
+		<td>BG8071FM</td>
+		<td align=center>08:49:31</td>
+		<td align=center>10:08:34</td	>
+		<td>6960</td>
+		<td>21990</td>
+		<td>15030</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017365</td>
+		<td>HAIRUDIN</td>
+		<td>B9947OB</td>
+		<td align=center>08:50:51</td>
+		<td align=center>10:10:50</td	>
+		<td>6230</td>
+		<td>19810</td>
+		<td>13580</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017367</td>
+		<td>RIDWAN A R</td>
+		<td>BG4072MM</td>
+		<td align=center>08:59:58</td>
+		<td align=center>10:19:55</td	>
+		<td>7470</td>
+		<td>25990</td>
+		<td>18520</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017368</td>
+		<td>AGUS TRIONO</td>
+		<td>B9854WV</td>
+		<td align=center>09:01:22</td>
+		<td align=center>10:25:38</td	>
+		<td>7530</td>
+		<td>25050</td>
+		<td>17520</td>
+		</tr>
+		
+	  <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td>A017375</td>
+		<td>NAJAMUDIN</td>
+		<td>BD8036AN</td>
+		<td align=center>09:49:38</td>
+		<td align=center>10:36:55</td	>
+		<td>7750</td>
+		<td>25220</td>
+		<td>17470</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=5 align=right><b>TOTAL:</b></td>
+			<!--<td>0</td>-->
+			<td>49260</td>
+			<td>160040</td>
+			<td>110780</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:18-03-2012 00:27:08</font>

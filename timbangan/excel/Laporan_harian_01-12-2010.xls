@@ -1,0 +1,2436 @@
+
+		<table cellspacing=0px border=1px style='border-color:#000000;' width=700px>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:14px;'>
+			<td colspan=13 align=center>
+			LAPORAN PENERIMAAN Fresh Fruit Bunch (TBS) PER TANGGAL
+			</td>
+			</tr>
+			<tr  style='font-family:tahoma,Arial Narrow;font-size:12px;'>
+			<td colspan=13  align=center>
+			Tanggal	&nbsp &nbsp: 01-12-2010<br >
+			</td>
+			</tr>
+			<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ededed'>
+			<td align=center><b>No.SPB</b></td>
+			<td align=center><b>No.Tiket</b></td>
+			<td align=center><b>Suppllier</b></td>
+			<td align=center><b>Divisi</b></td>
+			<td align=center><b>Supir</b></td>
+			<td align=center><b>NOPOL</b></td>
+			<td align=center><b>Jam Masuk</b></td>
+			<td align=center><b>Jam Keluar</b></td>
+			<td align=center><b>Tahun Tanam</b></td>
+			<td align=center><b>Jml.JJG</b></td>
+			<td align=center><b>1st Weigh</b></td>
+			<td align=center><b>2nd Weigh</b></td>
+			<td align=center><b>Netto</b></td>
+			</tr>
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000017</td>
+		<td>PT. R. 6. B</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG4708DB</td>
+		<td align=center>09:00:47</td>
+		<td align=center>09:24:01</td	>
+		<td align=center>1999</td>
+		<td>694</td>
+		<td>11040</td>
+		<td>3630</td>
+		<td>7410</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000019</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG8897MI</td>
+		<td align=center>09:20:55</td>
+		<td align=center>09:31:31</td	>
+		<td align=center>2004</td>
+		<td>960</td>
+		<td>10470</td>
+		<td>3880</td>
+		<td>6590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000016</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG4971MD</td>
+		<td align=center>08:58:27</td>
+		<td align=center>09:33:35</td	>
+		<td align=center>1999</td>
+		<td>1140</td>
+		<td>10360</td>
+		<td>3340</td>
+		<td>7020</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000018</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG8680AI</td>
+		<td align=center>09:02:41</td>
+		<td align=center>09:36:24</td	>
+		<td align=center>1999</td>
+		<td>577</td>
+		<td>11760</td>
+		<td>3320</td>
+		<td>8440</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000020</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG8898MI</td>
+		<td align=center>09:43:06</td>
+		<td align=center>09:51:05</td	>
+		<td align=center></td>
+		<td>807</td>
+		<td>9880</td>
+		<td>3830</td>
+		<td>6050</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>183/SOGE01/12/2010</td>
+		<td>A000022</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td></td>
+		<td>BG9933MB</td>
+		<td align=center>10:04:08</td>
+		<td align=center>10:14:55</td	>
+		<td align=center>1984</td>
+		<td>43</td>
+		<td>2220</td>
+		<td>960</td>
+		<td>1260</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000024</td>
+		<td>YON ARMED</td>
+		<td align=center></td>
+		<td></td>
+		<td>BE9632BF</td>
+		<td align=center>10:20:04</td>
+		<td align=center>10:26:39</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>7590</td>
+		<td>3800</td>
+		<td>3790</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000025</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td></td>
+		<td>BG8673F</td>
+		<td align=center>10:23:24</td>
+		<td align=center>10:29:21</td	>
+		<td align=center>1984</td>
+		<td>157</td>
+		<td>7970</td>
+		<td>3970</td>
+		<td>4000</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000026</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td></td>
+		<td>BG8108F</td>
+		<td align=center>10:24:42</td>
+		<td align=center>10:30:35</td	>
+		<td align=center>1984</td>
+		<td>135</td>
+		<td>7690</td>
+		<td>3530</td>
+		<td>4160</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>134/SENE08/12/2010</td>
+		<td>A000023</td>
+		<td>SENE</td>
+		<td align=center>SENE08</td>
+		<td>APEN</td>
+		<td>BG4474AN</td>
+		<td align=center>10:06:26</td>
+		<td align=center>10:31:57</td	>
+		<td align=center>1985</td>
+		<td>180</td>
+		<td>8360</td>
+		<td>3220</td>
+		<td>5140</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000021</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td></td>
+		<td>BE9783AH</td>
+		<td align=center>09:53:39</td>
+		<td align=center>10:33:26</td	>
+		<td align=center>1991</td>
+		<td>399</td>
+		<td>10140</td>
+		<td>3280</td>
+		<td>6860</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000027</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td></td>
+		<td>BG8138UA</td>
+		<td align=center>10:35:49</td>
+		<td align=center>10:45:16</td	>
+		<td align=center></td>
+		<td>156</td>
+		<td>7820</td>
+		<td>3870</td>
+		<td>3950</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>101/SENE05/12/2010</td>
+		<td>A000029</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td></td>
+		<td>BG8794F</td>
+		<td align=center>10:55:44</td>
+		<td align=center>11:00:41</td	>
+		<td align=center>1985</td>
+		<td>215</td>
+		<td>7620</td>
+		<td>3620</td>
+		<td>4000</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>142/SOGE02/12/2010</td>
+		<td>A000033</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>UDIN</td>
+		<td>BG8507UA</td>
+		<td align=center>11:10:50</td>
+		<td align=center>11:17:00</td	>
+		<td align=center>1985</td>
+		<td>115</td>
+		<td>7060</td>
+		<td>4050</td>
+		<td>3010</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>183/SOGE01/12/2010</td>
+		<td>A000035</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MARWAN</td>
+		<td>BG9933MB</td>
+		<td align=center>11:15:25</td>
+		<td align=center>11:28:21</td	>
+		<td align=center>1984</td>
+		<td>47</td>
+		<td>2440</td>
+		<td>960</td>
+		<td>1480</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>141/SOGE02/12/2010</td>
+		<td>A000036</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>PEDI</td>
+		<td>BG8991D</td>
+		<td align=center>11:19:01</td>
+		<td align=center>11:30:15</td	>
+		<td align=center>1987</td>
+		<td>150</td>
+		<td>7350</td>
+		<td>3680</td>
+		<td>3670</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>144/SOGE02/12/2010</td>
+		<td>A000032</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>ARYANI</td>
+		<td>BG4197MA</td>
+		<td align=center>11:08:49</td>
+		<td align=center>12:00:21</td	>
+		<td align=center>1985</td>
+		<td>175</td>
+		<td>8870</td>
+		<td>3140</td>
+		<td>5730</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000030</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td align=center></td>
+		<td></td>
+		<td>BE4637BE</td>
+		<td align=center>10:57:28</td>
+		<td align=center>12:02:35</td	>
+		<td align=center>2005</td>
+		<td>1186</td>
+		<td>11920</td>
+		<td>3600</td>
+		<td>8320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000031</td>
+		<td>PTP.WANAKARYA.MK</td>
+		<td align=center></td>
+		<td></td>
+		<td>BG4367EB</td>
+		<td align=center>11:07:18</td>
+		<td align=center>12:04:39</td	>
+		<td align=center>2005</td>
+		<td>1260</td>
+		<td>10900</td>
+		<td>3210</td>
+		<td>7690</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>193/SOGE04/12/2010</td>
+		<td>A000037</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>yusi</td>
+		<td>BG8850UA</td>
+		<td align=center>11:32:52</td>
+		<td align=center>12:06:18</td	>
+		<td align=center>1985</td>
+		<td>163</td>
+		<td>8130</td>
+		<td>3940</td>
+		<td>4190</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>140/SOGE03/12/2010</td>
+		<td>A000038</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>saher</td>
+		<td>BG8796F</td>
+		<td align=center>11:34:24</td>
+		<td align=center>12:07:36</td	>
+		<td align=center>1985</td>
+		<td>95</td>
+		<td>5810</td>
+		<td>3650</td>
+		<td>2160</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>140/SOGE03/12/2010</td>
+		<td>A000039</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>MULDIN</td>
+		<td>BG8008XL</td>
+		<td align=center>11:42:45</td>
+		<td align=center>12:09:06</td	>
+		<td align=center></td>
+		<td>152</td>
+		<td>8240</td>
+		<td>3900</td>
+		<td>4340</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000040</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>AGUS W</td>
+		<td>BG8792F</td>
+		<td align=center>11:44:03</td>
+		<td align=center>12:10:43</td	>
+		<td align=center>1986</td>
+		<td>175</td>
+		<td>8040</td>
+		<td>3580</td>
+		<td>4460</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000041</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>LENDRA</td>
+		<td>BG8199F</td>
+		<td align=center>11:45:07</td>
+		<td align=center>12:11:56</td	>
+		<td align=center>1984</td>
+		<td>120</td>
+		<td>7040</td>
+		<td>3540</td>
+		<td>3500</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>147/SOGE02/12/2010</td>
+		<td>A000044</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>juli</td>
+		<td>BG8505UA</td>
+		<td align=center>11:56:56</td>
+		<td align=center>12:13:26</td	>
+		<td align=center>1990</td>
+		<td>169</td>
+		<td>7430</td>
+		<td>3930</td>
+		<td>3500</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>101/SENE05/12/2010</td>
+		<td>A000045</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>SLIM</td>
+		<td>BG8649UD</td>
+		<td align=center>11:59:02</td>
+		<td align=center>12:14:56</td	>
+		<td align=center></td>
+		<td>210</td>
+		<td>8630</td>
+		<td>3810</td>
+		<td>4820</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000042</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>DIDIK</td>
+		<td>BG4840FB</td>
+		<td align=center>11:46:29</td>
+		<td align=center>12:16:27</td	>
+		<td align=center></td>
+		<td>195</td>
+		<td>8690</td>
+		<td>3220</td>
+		<td>5470</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>254/SKNE07/12/2010</td>
+		<td>A000043</td>
+		<td>SKNE</td>
+		<td align=center>SKNE07</td>
+		<td>KUSNADI</td>
+		<td>BG8077D</td>
+		<td align=center>11:54:40</td>
+		<td align=center>12:18:28</td	>
+		<td align=center>2003</td>
+		<td>389</td>
+		<td>7680</td>
+		<td>3090</td>
+		<td>4590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000034</td>
+		<td>IS.EFENDI HARAHAP</td>
+		<td align=center></td>
+		<td>EKA</td>
+		<td>BE4276W</td>
+		<td align=center>11:13:38</td>
+		<td align=center>12:20:35</td	>
+		<td align=center>1990</td>
+		<td>602</td>
+		<td>12570</td>
+		<td>3180</td>
+		<td>9390</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>018/SOGE01/12/2010</td>
+		<td>A000047</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MUTAMAT</td>
+		<td>BG8673F</td>
+		<td align=center>12:36:05</td>
+		<td align=center>13:01:49</td	>
+		<td align=center>1984</td>
+		<td>167</td>
+		<td>8090</td>
+		<td>3970</td>
+		<td>4120</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>137/SOGE03/12/2010</td>
+		<td>A000048</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>OMJALI</td>
+		<td>BG8009XL</td>
+		<td align=center>12:39:30</td>
+		<td align=center>13:03:12</td	>
+		<td align=center>1985</td>
+		<td>169</td>
+		<td>8720</td>
+		<td>3890</td>
+		<td>4830</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>019/SOGE04/12/2010</td>
+		<td>A000050</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>MISNI</td>
+		<td>BG8148MQ</td>
+		<td align=center>12:43:30</td>
+		<td align=center>13:04:32</td	>
+		<td align=center></td>
+		<td>146</td>
+		<td>7780</td>
+		<td>3880</td>
+		<td>3900</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>018/SOGE01/12/2010</td>
+		<td>A000049</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MARWAN</td>
+		<td>BG9933MB</td>
+		<td align=center>12:41:40</td>
+		<td align=center>13:05:44</td	>
+		<td align=center>1984</td>
+		<td>40</td>
+		<td>2130</td>
+		<td>960</td>
+		<td>1170</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>018/SOGE01/12/2010</td>
+		<td>A000051</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>AGUS W</td>
+		<td>BG8672F</td>
+		<td align=center>12:45:03</td>
+		<td align=center>13:06:56</td	>
+		<td align=center>1984</td>
+		<td>152</td>
+		<td>8100</td>
+		<td>4040</td>
+		<td>4060</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>193/SOGE02/12/2010</td>
+		<td>A000054</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>ALI</td>
+		<td>BG8109UB</td>
+		<td align=center>12:52:22</td>
+		<td align=center>13:08:18</td	>
+		<td align=center>1989</td>
+		<td>145</td>
+		<td>6750</td>
+		<td>3500</td>
+		<td>3250</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000055</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>UDIN</td>
+		<td>BG8108F</td>
+		<td align=center>12:53:44</td>
+		<td align=center>13:09:38</td	>
+		<td align=center>1984</td>
+		<td>130</td>
+		<td>7500</td>
+		<td>3520</td>
+		<td>3980</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000056</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>SUNARDI</td>
+		<td>BG8793F</td>
+		<td align=center>12:55:38</td>
+		<td align=center>13:11:01</td	>
+		<td align=center></td>
+		<td>187</td>
+		<td>8420</td>
+		<td>3640</td>
+		<td>4780</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>010/SENE05/12/2010</td>
+		<td>A000052</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>IRAWAN</td>
+		<td>BG4078FB</td>
+		<td align=center>12:46:31</td>
+		<td align=center>13:12:26</td	>
+		<td align=center>1986</td>
+		<td>200</td>
+		<td>8300</td>
+		<td>3090</td>
+		<td>5210</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>461/SKSE04/12/2010</td>
+		<td>A000046</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>BURTIWI</td>
+		<td>BG8005JA</td>
+		<td align=center>12:33:34</td>
+		<td align=center>13:13:42</td	>
+		<td align=center></td>
+		<td>513</td>
+		<td>10740</td>
+		<td>3390</td>
+		<td>7350</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>013/SENE08/12/2010</td>
+		<td>A000053</td>
+		<td>SENE</td>
+		<td align=center>SENE08</td>
+		<td>JOHAN</td>
+		<td>BH8720AI</td>
+		<td align=center>12:48:36</td>
+		<td align=center>13:15:17</td	>
+		<td align=center>1984</td>
+		<td>220</td>
+		<td>7360</td>
+		<td>3250</td>
+		<td>4110</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>339/SKSE02/12/2010</td>
+		<td>A000059</td>
+		<td>SKSE</td>
+		<td align=center>SKSE02</td>
+		<td>ASDI</td>
+		<td>BG4794FB</td>
+		<td align=center>13:00:45</td>
+		<td align=center>13:41:04</td	>
+		<td align=center></td>
+		<td>448</td>
+		<td>9250</td>
+		<td>3200</td>
+		<td>6050</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>249/SKNE08/12/2010</td>
+		<td>A000057</td>
+		<td>SKNE</td>
+		<td align=center>SKNE08</td>
+		<td>RIDWAN</td>
+		<td>BG8043FM</td>
+		<td align=center>12:57:35</td>
+		<td align=center>13:42:45</td	>
+		<td align=center>2002</td>
+		<td>610</td>
+		<td>9190</td>
+		<td>3380</td>
+		<td>5810</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>124/SKSE01/12/2010</td>
+		<td>A000058</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>SUGITOK</td>
+		<td>BG4446AP</td>
+		<td align=center>12:59:25</td>
+		<td align=center>13:44:07</td	>
+		<td align=center>1999</td>
+		<td>535</td>
+		<td>8280</td>
+		<td>3010</td>
+		<td>5270</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>140/SOGE03/12/2010</td>
+		<td>A000062</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>FAUJI</td>
+		<td>BG8350UE</td>
+		<td align=center>13:23:17</td>
+		<td align=center>13:45:49</td	>
+		<td align=center>1985</td>
+		<td>170</td>
+		<td>8170</td>
+		<td>3910</td>
+		<td>4260</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000060</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>SAHROJI</td>
+		<td>B9725D</td>
+		<td align=center>13:19:11</td>
+		<td align=center>13:47:30</td	>
+		<td align=center></td>
+		<td>333</td>
+		<td>9700</td>
+		<td>3320</td>
+		<td>6380</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000061</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>SLAMET</td>
+		<td>BG8709F</td>
+		<td align=center>13:21:09</td>
+		<td align=center>13:48:57</td	>
+		<td align=center>1993</td>
+		<td>356</td>
+		<td>10190</td>
+		<td>3590</td>
+		<td>6600</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000067</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td>DENI</td>
+		<td>BG8895MI</td>
+		<td align=center>13:29:53</td>
+		<td align=center>13:50:26</td	>
+		<td align=center></td>
+		<td>694</td>
+		<td>10420</td>
+		<td>3810</td>
+		<td>6610</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/SK/SKSE03/12/2010</td>
+		<td>A000068</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>ZAMRUDIN</td>
+		<td>BG8542FM</td>
+		<td align=center>13:32:11</td>
+		<td align=center>13:52:17</td	>
+		<td align=center></td>
+		<td>380</td>
+		<td>8260</td>
+		<td>3750</td>
+		<td>4510</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>149/SOGE02/12/2010</td>
+		<td>A000069</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>UDIN</td>
+		<td>BG8507UA</td>
+		<td align=center>13:34:01</td>
+		<td align=center>13:53:34</td	>
+		<td align=center>1985</td>
+		<td>150</td>
+		<td>8140</td>
+		<td>3980</td>
+		<td>4160</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000073</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>LENDRA</td>
+		<td>BG8199F</td>
+		<td align=center>13:39:52</td>
+		<td align=center>13:54:51</td	>
+		<td align=center>1984</td>
+		<td>123</td>
+		<td>7710</td>
+		<td>3530</td>
+		<td>4180</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>374/SKSE03/12/2010</td>
+		<td>A000063</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>YANTO</td>
+		<td>BG4794MK</td>
+		<td align=center>13:24:33</td>
+		<td align=center>13:55:56</td	>
+		<td align=center></td>
+		<td>530</td>
+		<td>11430</td>
+		<td>3360</td>
+		<td>8070</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>317/SKNE07/12/2010</td>
+		<td>A000064</td>
+		<td>SKNE</td>
+		<td align=center>SKNE07</td>
+		<td>SAHRUDIN</td>
+		<td>BG9086Y</td>
+		<td align=center>13:25:54</td>
+		<td align=center>13:57:15</td	>
+		<td align=center>2004</td>
+		<td>650</td>
+		<td>8760</td>
+		<td>3210</td>
+		<td>5550</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>465/SKSE04/12/2010</td>
+		<td>A000066</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>KADIR</td>
+		<td>BG8586UA</td>
+		<td align=center>13:28:44</td>
+		<td align=center>13:58:32</td	>
+		<td align=center></td>
+		<td>465</td>
+		<td>9440</td>
+		<td>3190</td>
+		<td>6250</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>300/SKNE05/12/2010</td>
+		<td>A000070</td>
+		<td>SKNE</td>
+		<td align=center>SKNE05</td>
+		<td>MIL</td>
+		<td>BG9950LF</td>
+		<td align=center>13:35:46</td>
+		<td align=center>13:59:47</td	>
+		<td align=center></td>
+		<td>445</td>
+		<td>9880</td>
+		<td>3400</td>
+		<td>6480</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>369/SKNE06/12/2010</td>
+		<td>A000071</td>
+		<td>SKNE</td>
+		<td align=center>SKNE06</td>
+		<td>SUGITOK</td>
+		<td>BG4814FB</td>
+		<td align=center>13:37:01</td>
+		<td align=center>14:01:50</td	>
+		<td align=center>2001</td>
+		<td>432</td>
+		<td>7580</td>
+		<td>3190</td>
+		<td>4390</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>339/SKSE02/12/2010</td>
+		<td>A000072</td>
+		<td>SKSE</td>
+		<td align=center>SKSE02</td>
+		<td>NARIM</td>
+		<td>BG8763AJ</td>
+		<td align=center>13:38:25</td>
+		<td align=center>14:36:31</td	>
+		<td align=center></td>
+		<td>253</td>
+		<td>9230</td>
+		<td>3320</td>
+		<td>5910</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>147/SOGE02/12/2010</td>
+		<td>A000078</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>PEDI</td>
+		<td>BG8991D</td>
+		<td align=center>14:13:24</td>
+		<td align=center>14:38:10</td	>
+		<td align=center>1986</td>
+		<td>160</td>
+		<td>7310</td>
+		<td>3680</td>
+		<td>3630</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>144/SENE07/12/2010</td>
+		<td>A000074</td>
+		<td>SENE</td>
+		<td align=center>SENE07</td>
+		<td>AGUS</td>
+		<td>BG8968D</td>
+		<td align=center>14:05:12</td>
+		<td align=center>14:39:34</td	>
+		<td align=center>1986</td>
+		<td>232</td>
+		<td>7950</td>
+		<td>3100</td>
+		<td>4850</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>371/SKSE01/12/2010</td>
+		<td>A000082</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>EVAN</td>
+		<td>BG8405F</td>
+		<td align=center>14:19:03</td>
+		<td align=center>14:41:31</td	>
+		<td align=center>1999</td>
+		<td>465</td>
+		<td>8390</td>
+		<td>3520</td>
+		<td>4870</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>144/SENE07/12/2010</td>
+		<td>A000081</td>
+		<td>SENE</td>
+		<td align=center>SENE07</td>
+		<td>AMRIL</td>
+		<td>BG8348F</td>
+		<td align=center>14:17:42</td>
+		<td align=center>14:42:53</td	>
+		<td align=center>1986</td>
+		<td>250</td>
+		<td>8230</td>
+		<td>3270</td>
+		<td>4960</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>374/SKSE03/12/2010</td>
+		<td>A000076</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>HERI</td>
+		<td>BG8605AJ</td>
+		<td align=center>14:08:27</td>
+		<td align=center>14:44:21</td	>
+		<td align=center>2000</td>
+		<td>550</td>
+		<td>10740</td>
+		<td>3500</td>
+		<td>7240</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>188/SOGE01/12/2010</td>
+		<td>A000084</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MUTAMAT</td>
+		<td>BG8673F</td>
+		<td align=center>14:25:26</td>
+		<td align=center>14:47:07</td	>
+		<td align=center>1984</td>
+		<td>174</td>
+		<td>8710</td>
+		<td>4000</td>
+		<td>4710</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>193/SOGE01/12/2010</td>
+		<td>A000086</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>UDIN</td>
+		<td>BG8108F</td>
+		<td align=center>14:28:14</td>
+		<td align=center>14:48:43</td	>
+		<td align=center>1984</td>
+		<td>125</td>
+		<td>7850</td>
+		<td>3530</td>
+		<td>4320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000077</td>
+		<td>AFD 1</td>
+		<td align=center>WKNE02</td>
+		<td>PARTONO</td>
+		<td>BE4489W</td>
+		<td align=center>14:12:03</td>
+		<td align=center>14:50:09</td	>
+		<td align=center>1996</td>
+		<td>362</td>
+		<td>9550</td>
+		<td>3270</td>
+		<td>6280</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>461/SKSE04/12/2010</td>
+		<td>A000079</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>MUBASRI</td>
+		<td>BG8497AJ</td>
+		<td align=center>14:14:58</td>
+		<td align=center>14:51:39</td	>
+		<td align=center></td>
+		<td>428</td>
+		<td>10890</td>
+		<td>3210</td>
+		<td>7680</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>414/SKSE03/12/2010</td>
+		<td>A000080</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>BAMBANG</td>
+		<td>BG8881F</td>
+		<td align=center>14:16:13</td>
+		<td align=center>14:53:11</td	>
+		<td align=center></td>
+		<td>520</td>
+		<td>10530</td>
+		<td>3210</td>
+		<td>7320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>369/SKNE06/12/2010</td>
+		<td>A000075</td>
+		<td>SKNE</td>
+		<td align=center>SKNE06</td>
+		<td>AGUS</td>
+		<td>BG8118FS</td>
+		<td align=center>14:06:47</td>
+		<td align=center>14:54:39</td	>
+		<td align=center>2002</td>
+		<td>735</td>
+		<td>11770</td>
+		<td>3590</td>
+		<td>8180</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>177/SOGE01/12/2010</td>
+		<td>A000087</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>SUMARNA</td>
+		<td>BG8345LN</td>
+		<td align=center>14:29:36</td>
+		<td align=center>14:56:02</td	>
+		<td align=center>1984</td>
+		<td>140</td>
+		<td>6030</td>
+		<td>3280</td>
+		<td>2750</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000083</td>
+		<td>AFD 1</td>
+		<td align=center>WKNE02</td>
+		<td>IMAM</td>
+		<td>BG8404YA</td>
+		<td align=center>14:24:13</td>
+		<td align=center>14:57:22</td	>
+		<td align=center>1996</td>
+		<td>384</td>
+		<td>10450</td>
+		<td>3350</td>
+		<td>7100</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SOGE01/12/2010</td>
+		<td>A000088</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MARWAN</td>
+		<td>BG9933MB</td>
+		<td align=center>14:31:15</td>
+		<td align=center>14:58:38</td	>
+		<td align=center></td>
+		<td>48</td>
+		<td>2420</td>
+		<td>950</td>
+		<td>1470</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>133/SENE08/12/2010</td>
+		<td>A000089</td>
+		<td>SENE</td>
+		<td align=center>SENE08</td>
+		<td>KUNDUS</td>
+		<td>BG8197FM</td>
+		<td align=center>14:32:24</td>
+		<td align=center>14:59:49</td	>
+		<td align=center>1985</td>
+		<td>193</td>
+		<td>8850</td>
+		<td>3260</td>
+		<td>5590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE04/12/2010</td>
+		<td>A000085</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>YANTO</td>
+		<td>BG4908FB</td>
+		<td align=center>14:26:53</td>
+		<td align=center>15:01:12</td	>
+		<td align=center>1985</td>
+		<td>256</td>
+		<td>10770</td>
+		<td>3320</td>
+		<td>7450</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>465/SKSE04/12/2010</td>
+		<td>A000090</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>YADI</td>
+		<td>BG8480FM</td>
+		<td align=center>14:33:54</td>
+		<td align=center>15:02:46</td	>
+		<td align=center></td>
+		<td>401</td>
+		<td>10410</td>
+		<td>2910</td>
+		<td>7500</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>152/SOGE03/12/2010</td>
+		<td>A000092</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>SAHER</td>
+		<td>BG8796F</td>
+		<td align=center>15:04:54</td>
+		<td align=center>15:33:14</td	>
+		<td align=center>1985</td>
+		<td>160</td>
+		<td>7560</td>
+		<td>3640</td>
+		<td>3920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>188/SOGE01/12/2010</td>
+		<td>A000095</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>ABU</td>
+		<td>BG8990D</td>
+		<td align=center>15:09:15</td>
+		<td align=center>15:34:39</td	>
+		<td align=center>1984</td>
+		<td>137</td>
+		<td>7770</td>
+		<td>3680</td>
+		<td>4090</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>200/SOGE01/12/2010</td>
+		<td>A000097</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>LENDRA</td>
+		<td>BG8199F</td>
+		<td align=center>15:11:41</td>
+		<td align=center>15:35:59</td	>
+		<td align=center>1984</td>
+		<td>124</td>
+		<td>7770</td>
+		<td>3530</td>
+		<td>4240</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>177/SOGE01/12/2010</td>
+		<td>A000101</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>AGUS</td>
+		<td>BG8672F</td>
+		<td align=center>15:18:15</td>
+		<td align=center>15:37:20</td	>
+		<td align=center>1984</td>
+		<td>156</td>
+		<td>8730</td>
+		<td>4030</td>
+		<td>4700</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>369/SKSE01/12/2010</td>
+		<td>A000091</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>PITRA</td>
+		<td>BG8146AO</td>
+		<td align=center>14:35:21</td>
+		<td align=center>15:38:39</td	>
+		<td align=center></td>
+		<td>431</td>
+		<td>10760</td>
+		<td>3270</td>
+		<td>7490</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>101/SENE05/12/2010</td>
+		<td>A000096</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>FERI</td>
+		<td>BG4130AP</td>
+		<td align=center>15:10:37</td>
+		<td align=center>15:40:04</td	>
+		<td align=center>1985</td>
+		<td>200</td>
+		<td>8260</td>
+		<td>3080</td>
+		<td>5180</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000094</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>HUMAIDI</td>
+		<td>BG9632C</td>
+		<td align=center>15:07:46</td>
+		<td align=center>15:42:00</td	>
+		<td align=center>1993</td>
+		<td>339</td>
+		<td>9580</td>
+		<td>3280</td>
+		<td>6300</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE01/12/2010</td>
+		<td>A000100</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center>WKNE01</td>
+		<td>USMAN</td>
+		<td>BE9274EQ</td>
+		<td align=center>15:16:56</td>
+		<td align=center>15:54:41</td	>
+		<td align=center>1999</td>
+		<td>303</td>
+		<td>9650</td>
+		<td>3250</td>
+		<td>6400</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000102</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center>WKNE02</td>
+		<td>WAHYU</td>
+		<td>BE4780AS</td>
+		<td align=center>15:20:31</td>
+		<td align=center>15:56:46</td	>
+		<td align=center>1996</td>
+		<td>298</td>
+		<td>8310</td>
+		<td>3230</td>
+		<td>5080</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>370/SKSE01/12/2010</td>
+		<td>A000093</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>AJIS</td>
+		<td>BG4653FB</td>
+		<td align=center>15:06:06</td>
+		<td align=center>15:59:47</td	>
+		<td align=center>1997</td>
+		<td>468</td>
+		<td>11550</td>
+		<td>3470</td>
+		<td>8080</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000099</td>
+		<td>KUD I</td>
+		<td align=center>WKNE02</td>
+		<td>SUTRIS</td>
+		<td>H1583VW</td>
+		<td align=center>15:15:47</td>
+		<td align=center>17:09:26</td	>
+		<td align=center>1996</td>
+		<td>332</td>
+		<td>9420</td>
+		<td>3220</td>
+		<td>6200</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE03/12/2010</td>
+		<td>A000105</td>
+		<td>KUD I</td>
+		<td align=center>WKNE03</td>
+		<td>TRIONO</td>
+		<td>D8504CH</td>
+		<td align=center>15:25:07</td>
+		<td align=center>17:11:21</td	>
+		<td align=center>1997</td>
+		<td>652</td>
+		<td>8740</td>
+		<td>3490</td>
+		<td>5250</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE01/12/2010</td>
+		<td>A000104</td>
+		<td>KUD I</td>
+		<td align=center>WKNE01</td>
+		<td>COKRO</td>
+		<td>BE9097WA</td>
+		<td align=center>15:23:06</td>
+		<td align=center>17:12:53</td	>
+		<td align=center>1995</td>
+		<td>350</td>
+		<td>10280</td>
+		<td>3420</td>
+		<td>6860</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000106</td>
+		<td>KUD I</td>
+		<td align=center>WKNE02</td>
+		<td>PANGAT</td>
+		<td>Z8627DB</td>
+		<td align=center>15:26:20</td>
+		<td align=center>17:14:49</td	>
+		<td align=center>1996</td>
+		<td>312</td>
+		<td>9160</td>
+		<td>3240</td>
+		<td>5920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE01/12/2010</td>
+		<td>A000103</td>
+		<td>KUD I</td>
+		<td align=center>WKNE01</td>
+		<td>MUHTAR</td>
+		<td>BG9202K</td>
+		<td align=center>15:21:44</td>
+		<td align=center>17:16:21</td	>
+		<td align=center>1995</td>
+		<td>315</td>
+		<td>9710</td>
+		<td>3270</td>
+		<td>6440</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000110</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>LIMI</td>
+		<td>BG8910FM</td>
+		<td align=center>15:32:17</td>
+		<td align=center>17:18:28</td	>
+		<td align=center>1996</td>
+		<td>376</td>
+		<td>9220</td>
+		<td>3380</td>
+		<td>5840</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>/WK/WKNE02/12/2010</td>
+		<td>A000107</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center>WKNE02</td>
+		<td>SUPENA</td>
+		<td>BE9079W</td>
+		<td align=center>15:27:43</td>
+		<td align=center>17:20:24</td	>
+		<td align=center>1996</td>
+		<td>322</td>
+		<td>9520</td>
+		<td>3310</td>
+		<td>6210</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>249/SKNE08/12/2010</td>
+		<td>A000109</td>
+		<td>SKNE</td>
+		<td align=center>SKNE08</td>
+		<td>IJAL</td>
+		<td>BG8163V</td>
+		<td align=center>15:31:00</td>
+		<td align=center>17:22:09</td	>
+		<td align=center>2004</td>
+		<td>625</td>
+		<td>8720</td>
+		<td>3160</td>
+		<td>5560</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000108</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>EKA</td>
+		<td>BG8101Y</td>
+		<td align=center>15:29:13</td>
+		<td align=center>17:24:18</td	>
+		<td align=center>1990</td>
+		<td>443</td>
+		<td>10520</td>
+		<td>3630</td>
+		<td>6890</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>124/MRKE01/12/2010</td>
+		<td>A000098</td>
+		<td>MRKE</td>
+		<td align=center>MRKE01</td>
+		<td>BAMBANG</td>
+		<td>BG8369F</td>
+		<td align=center>15:13:46</td>
+		<td align=center>17:26:06</td	>
+		<td align=center>2007</td>
+		<td>1838</td>
+		<td>9260</td>
+		<td>3310</td>
+		<td>5950</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE02/12/2010</td>
+		<td>A000111</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>UDIN</td>
+		<td>BG8507UA</td>
+		<td align=center>17:30:09</td>
+		<td align=center>20:07:27</td	>
+		<td align=center></td>
+		<td>170</td>
+		<td>7780</td>
+		<td>4000</td>
+		<td>3780</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>317/SKNE07/12/2010</td>
+		<td>A000113</td>
+		<td>SKNE</td>
+		<td align=center>SKNE07</td>
+		<td>ADI</td>
+		<td>BE4637AW</td>
+		<td align=center>17:34:38</td>
+		<td align=center>20:09:15</td	>
+		<td align=center>2002</td>
+		<td>611</td>
+		<td>8550</td>
+		<td>3220</td>
+		<td>5330</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>462/SKSE04/12/2010</td>
+		<td>A000114</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>sur</td>
+		<td>BG4891FB</td>
+		<td align=center>17:50:01</td>
+		<td align=center>20:11:01</td	>
+		<td align=center>1998</td>
+		<td>450</td>
+		<td>9640</td>
+		<td>3150</td>
+		<td>6490</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>351/SKSE01/12/2010</td>
+		<td>A000115</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>hendri</td>
+		<td>BG8790F</td>
+		<td align=center>18:42:55</td>
+		<td align=center>20:12:32</td	>
+		<td align=center>1999</td>
+		<td>356</td>
+		<td>9430</td>
+		<td>3660</td>
+		<td>5770</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>343/SKSE01/12/2010</td>
+		<td>A000116</td>
+		<td>SKSE</td>
+		<td align=center>SKSE01</td>
+		<td>SANTO</td>
+		<td>BG8544FM</td>
+		<td align=center>18:45:06</td>
+		<td align=center>20:14:01</td	>
+		<td align=center>1999</td>
+		<td>476</td>
+		<td>10890</td>
+		<td>3780</td>
+		<td>7110</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000117</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>AGUS</td>
+		<td>BG8792F</td>
+		<td align=center>18:46:36</td>
+		<td align=center>20:16:02</td	>
+		<td align=center></td>
+		<td>197</td>
+		<td>9060</td>
+		<td>3580</td>
+		<td>5480</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000119</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>AJIS</td>
+		<td>BG4604FB</td>
+		<td align=center>18:51:05</td>
+		<td align=center>20:17:35</td	>
+		<td align=center>1995</td>
+		<td>324</td>
+		<td>8470</td>
+		<td>3370</td>
+		<td>5100</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>134/SENE08/12/2010</td>
+		<td>A000118</td>
+		<td>SENE</td>
+		<td align=center>SENE08</td>
+		<td>AFEN</td>
+		<td>BG4474AN</td>
+		<td align=center>18:48:37</td>
+		<td align=center>20:19:38</td	>
+		<td align=center>1985</td>
+		<td>191</td>
+		<td>7290</td>
+		<td>3240</td>
+		<td>4050</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000120</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>KIRUN</td>
+		<td>BG9011FL</td>
+		<td align=center>18:53:07</td>
+		<td align=center>20:21:28</td	>
+		<td align=center>1991</td>
+		<td>235</td>
+		<td>8100</td>
+		<td>3220</td>
+		<td>4880</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>192/SENE06/12/2010</td>
+		<td>A000125</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>SUNARDI</td>
+		<td>BG8793F</td>
+		<td align=center>19:09:07</td>
+		<td align=center>20:23:13</td	>
+		<td align=center></td>
+		<td>176</td>
+		<td>8020</td>
+		<td>3620</td>
+		<td>4400</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>025/WKNE01/12/2010</td>
+		<td>A000122</td>
+		<td>AFD 6</td>
+		<td align=center>WKNE01</td>
+		<td>RASIT</td>
+		<td>BE9671WA</td>
+		<td align=center>19:00:09</td>
+		<td align=center>20:24:43</td	>
+		<td align=center>1995</td>
+		<td>305</td>
+		<td>9910</td>
+		<td>3600</td>
+		<td>6310</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>147/SOGE02/12/2010</td>
+		<td>A000128</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>FEDI</td>
+		<td>BG8991D</td>
+		<td align=center>19:15:13</td>
+		<td align=center>20:26:11</td	>
+		<td align=center></td>
+		<td>155</td>
+		<td>7120</td>
+		<td>3680</td>
+		<td>3440</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>023/WKNE01/12/2010</td>
+		<td>A000121</td>
+		<td>AFD 2</td>
+		<td align=center>WKNE01</td>
+		<td>BAHARUDIN</td>
+		<td>BE4503WA</td>
+		<td align=center>18:55:11</td>
+		<td align=center>20:28:01</td	>
+		<td align=center>1995</td>
+		<td>355</td>
+		<td>9990</td>
+		<td>3340</td>
+		<td>6650</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000123</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>BAHRIN</td>
+		<td>BG4856MH</td>
+		<td align=center>19:02:08</td>
+		<td align=center>20:30:18</td	>
+		<td align=center>1993</td>
+		<td>277</td>
+		<td>9170</td>
+		<td>3400</td>
+		<td>5770</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000126</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>DIDIK</td>
+		<td>BG4840FB</td>
+		<td align=center>19:10:46</td>
+		<td align=center>20:33:18</td	>
+		<td align=center></td>
+		<td>193</td>
+		<td>8700</td>
+		<td>3220</td>
+		<td>5480</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>311/SKSE03/12/2010</td>
+		<td>A000129</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>YANTO</td>
+		<td>BG4794MK</td>
+		<td align=center>19:16:53</td>
+		<td align=center>20:35:10</td	>
+		<td align=center></td>
+		<td>370</td>
+		<td>8410</td>
+		<td>3410</td>
+		<td>5000</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>030/WKNE01/12/2010</td>
+		<td>A000124</td>
+		<td>KUD I</td>
+		<td align=center>WKNE01</td>
+		<td>SUDAR</td>
+		<td>BG8667MQ</td>
+		<td align=center>19:07:19</td>
+		<td align=center>20:36:49</td	>
+		<td align=center>1994</td>
+		<td>321</td>
+		<td>9880</td>
+		<td>3420</td>
+		<td>6460</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>126/SOGE01/12/2010</td>
+		<td>A000130</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>kudus</td>
+		<td>BG8795F</td>
+		<td align=center>19:34:22</td>
+		<td align=center>20:38:38</td	>
+		<td align=center></td>
+		<td>225</td>
+		<td>8270</td>
+		<td>3640</td>
+		<td>4630</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE04/12/2010</td>
+		<td>A000132</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>ali</td>
+		<td>BG8109UB</td>
+		<td align=center>19:38:08</td>
+		<td align=center>20:40:23</td	>
+		<td align=center></td>
+		<td>75</td>
+		<td>5450</td>
+		<td>3500</td>
+		<td>1950</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>183/SOGE01/12/2010</td>
+		<td>A000133</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>saparudin</td>
+		<td>BG8108F</td>
+		<td align=center>19:39:40</td>
+		<td align=center>20:42:14</td	>
+		<td align=center>1984</td>
+		<td>165</td>
+		<td>8480</td>
+		<td>3520</td>
+		<td>4960</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>101/SENE05/12/2010</td>
+		<td>A000134</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>heriyadi</td>
+		<td>BG8794F</td>
+		<td align=center>19:41:37</td>
+		<td align=center>20:44:00</td	>
+		<td align=center>1984</td>
+		<td>220</td>
+		<td>7430</td>
+		<td>3640</td>
+		<td>3790</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE02/12/2010</td>
+		<td>A000144</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>juli</td>
+		<td>BG8505UA</td>
+		<td align=center>20:01:20</td>
+		<td align=center>20:45:59</td	>
+		<td align=center>1985</td>
+		<td>155</td>
+		<td>6880</td>
+		<td>3960</td>
+		<td>2920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>140/SOGE04/12/2010</td>
+		<td>A000135</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>yuli</td>
+		<td>BG8850UA</td>
+		<td align=center>19:43:03</td>
+		<td align=center>20:47:57</td	>
+		<td align=center>1985</td>
+		<td>180</td>
+		<td>8520</td>
+		<td>3940</td>
+		<td>4580</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>152/SOGE03/12/2010</td>
+		<td>A000136</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>muidin</td>
+		<td>BG8008XL</td>
+		<td align=center>19:44:36</td>
+		<td align=center>20:56:55</td	>
+		<td align=center>1985</td>
+		<td>155</td>
+		<td>8060</td>
+		<td>3880</td>
+		<td>4180</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>016/WKNE02/12/2010</td>
+		<td>A000127</td>
+		<td>AFD 3</td>
+		<td align=center>WKNE02</td>
+		<td>ARI</td>
+		<td>BG4827FB</td>
+		<td align=center>19:13:33</td>
+		<td align=center>20:58:36</td	>
+		<td align=center>1996</td>
+		<td>344</td>
+		<td>9870</td>
+		<td>3100</td>
+		<td>6770</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE04/12/2010</td>
+		<td>A000138</td>
+		<td>SOGE</td>
+		<td align=center>SOGE04</td>
+		<td>misni</td>
+		<td>BG8148MQ</td>
+		<td align=center>19:48:07</td>
+		<td align=center>21:00:21</td	>
+		<td align=center></td>
+		<td>80</td>
+		<td>5770</td>
+		<td>3880</td>
+		<td>1890</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>024/SKNE08/12/2010</td>
+		<td>A000131</td>
+		<td>SKNE</td>
+		<td align=center>SKNE08</td>
+		<td>hailit</td>
+		<td>BG8190RS</td>
+		<td align=center>19:36:17</td>
+		<td align=center>21:02:10</td	>
+		<td align=center>2004</td>
+		<td>548</td>
+		<td>8470</td>
+		<td>2980</td>
+		<td>5490</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>177/SOGE01/12/2010</td>
+		<td>A000145</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>agus</td>
+		<td>BG8672F</td>
+		<td align=center>20:04:18</td>
+		<td align=center>21:03:42</td	>
+		<td align=center>1984</td>
+		<td>98</td>
+		<td>6700</td>
+		<td>4040</td>
+		<td>2660</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>152/SOGE01/12/2010</td>
+		<td>A000146</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>omjali</td>
+		<td>BG8009XL</td>
+		<td align=center>20:06:06</td>
+		<td align=center>21:05:21</td	>
+		<td align=center>1985</td>
+		<td>148</td>
+		<td>7850</td>
+		<td>3880</td>
+		<td>3970</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>316/SKNE05/12/2010</td>
+		<td>A000137</td>
+		<td>SKNE</td>
+		<td align=center>SKNE05</td>
+		<td>india</td>
+		<td>BG8464F</td>
+		<td align=center>19:46:47</td>
+		<td align=center>21:07:31</td	>
+		<td align=center></td>
+		<td>532</td>
+		<td>9850</td>
+		<td>3020</td>
+		<td>6830</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000141</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>eka</td>
+		<td>BG8729YA</td>
+		<td align=center>19:55:19</td>
+		<td align=center>21:09:29</td	>
+		<td align=center>1993</td>
+		<td>418</td>
+		<td>10090</td>
+		<td>3860</td>
+		<td>6230</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000140</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center></td>
+		<td>limi</td>
+		<td>BG4726MG</td>
+		<td align=center>19:51:50</td>
+		<td align=center>21:11:42</td	>
+		<td align=center></td>
+		<td>0</td>
+		<td>9780</td>
+		<td>3150</td>
+		<td>6630</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>005/WKNE03/12/2010</td>
+		<td>A000139</td>
+		<td>MUSTOPA KAMAL</td>
+		<td align=center>WKNE03</td>
+		<td>mulyono</td>
+		<td>BG8136F</td>
+		<td align=center>19:50:03</td>
+		<td align=center>21:13:33</td	>
+		<td align=center></td>
+		<td>540</td>
+		<td>9400</td>
+		<td>3100</td>
+		<td>6300</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE02/12/2010</td>
+		<td>A000143</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>ruani</td>
+		<td>BG4197MA</td>
+		<td align=center>19:59:17</td>
+		<td align=center>21:15:45</td	>
+		<td align=center>1985</td>
+		<td>195</td>
+		<td>9810</td>
+		<td>3140</td>
+		<td>6670</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000142</td>
+		<td>GM.SELAMET</td>
+		<td align=center></td>
+		<td>busroni</td>
+		<td>BG4985FB</td>
+		<td align=center>19:57:31</td>
+		<td align=center>21:17:25</td	>
+		<td align=center>1994</td>
+		<td>524</td>
+		<td>11520</td>
+		<td>3440</td>
+		<td>8080</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>191/SENE06/12/2010</td>
+		<td>A000150</td>
+		<td>SENE</td>
+		<td align=center>SENE06</td>
+		<td>rahmat</td>
+		<td>BG8138UA</td>
+		<td align=center>21:25:48</td>
+		<td align=center>22:28:50</td	>
+		<td align=center></td>
+		<td>184</td>
+		<td>8550</td>
+		<td>3890</td>
+		<td>4660</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000152</td>
+		<td>PT.OKI TANIA PRATAMA</td>
+		<td align=center></td>
+		<td>budiman</td>
+		<td>BG8897MI</td>
+		<td align=center>21:31:01</td>
+		<td align=center>22:30:42</td	>
+		<td align=center></td>
+		<td>698</td>
+		<td>9610</td>
+		<td>3860</td>
+		<td>5750</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>326/SKNE05/12/2010</td>
+		<td>A000153</td>
+		<td>SKNE</td>
+		<td align=center>SKNE05</td>
+		<td>jumadi</td>
+		<td>BG8791F</td>
+		<td align=center>21:33:40</td>
+		<td align=center>22:33:30</td	>
+		<td align=center></td>
+		<td>280</td>
+		<td>7280</td>
+		<td>3780</td>
+		<td>3500</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>018/WKNE02/12/2010</td>
+		<td>A000147</td>
+		<td>KUD II</td>
+		<td align=center>WKNE02</td>
+		<td>kandar</td>
+		<td>BG4365FB</td>
+		<td align=center>21:20:22</td>
+		<td align=center>22:35:27</td	>
+		<td align=center>1996</td>
+		<td>266</td>
+		<td>7550</td>
+		<td>3230</td>
+		<td>4320</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>000/SENE05/12/2010</td>
+		<td>A000149</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>irawan</td>
+		<td>BG4078FB</td>
+		<td align=center>21:24:01</td>
+		<td align=center>22:37:25</td	>
+		<td align=center></td>
+		<td>254</td>
+		<td>8930</td>
+		<td>3100</td>
+		<td>5830</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>441/SKSE04/12/2010</td>
+		<td>A000163</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>yadi</td>
+		<td>BG8480FM</td>
+		<td align=center>21:59:57</td>
+		<td align=center>22:39:16</td	>
+		<td align=center></td>
+		<td>232</td>
+		<td>7950</td>
+		<td>3030</td>
+		<td>4920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>414/SKSE03/12/2010</td>
+		<td>A000154</td>
+		<td>SKSE</td>
+		<td align=center>SKSE03</td>
+		<td>endang</td>
+		<td>BG8545FM</td>
+		<td align=center>21:42:21</td>
+		<td align=center>22:41:18</td	>
+		<td align=center></td>
+		<td>386</td>
+		<td>9380</td>
+		<td>3760</td>
+		<td>5620</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>300/SKNE05/12/2010</td>
+		<td>A000151</td>
+		<td>SKNE</td>
+		<td align=center>SKNE05</td>
+		<td>mil</td>
+		<td>BG9950LF</td>
+		<td align=center>21:27:27</td>
+		<td align=center>22:43:14</td	>
+		<td align=center></td>
+		<td>322</td>
+		<td>8640</td>
+		<td>3420</td>
+		<td>5220</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>461/SKSE04/12/2010</td>
+		<td>A000156</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>zamrudin</td>
+		<td>BG8542FM</td>
+		<td align=center>21:45:33</td>
+		<td align=center>22:44:48</td	>
+		<td align=center>1998</td>
+		<td>300</td>
+		<td>8760</td>
+		<td>3810</td>
+		<td>4950</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>017/WKNE02/12/2010</td>
+		<td>A000148</td>
+		<td>KUD I</td>
+		<td align=center>WKNE02</td>
+		<td>eko</td>
+		<td>Z8575DB</td>
+		<td align=center>21:22:26</td>
+		<td align=center>22:46:36</td	>
+		<td align=center>1996</td>
+		<td>288</td>
+		<td>8240</td>
+		<td>3200</td>
+		<td>5040</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>327/SKSE04/12/2010</td>
+		<td>A000159</td>
+		<td>SKSE</td>
+		<td align=center>SKSE04</td>
+		<td>udin</td>
+		<td>B9294QB</td>
+		<td align=center>21:51:38</td>
+		<td align=center>22:48:35</td	>
+		<td align=center></td>
+		<td>50</td>
+		<td>4610</td>
+		<td>3140</td>
+		<td>1470</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>07//WKNE03/12/2010</td>
+		<td>A000160</td>
+		<td>KUD I</td>
+		<td align=center>WKNE03</td>
+		<td>amrudin</td>
+		<td>BG8406F</td>
+		<td align=center>21:53:42</td>
+		<td align=center>22:50:26</td	>
+		<td align=center></td>
+		<td>671</td>
+		<td>7920</td>
+		<td>3480</td>
+		<td>4440</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>152/SOGE03/12/2010</td>
+		<td>A000162</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>fauzi</td>
+		<td>BG8350UE</td>
+		<td align=center>21:58:08</td>
+		<td align=center>22:52:11</td	>
+		<td align=center></td>
+		<td>170</td>
+		<td>8740</td>
+		<td>3890</td>
+		<td>4850</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>101/SENE05/12/2010</td>
+		<td>A000164</td>
+		<td>SENE</td>
+		<td align=center>SENE05</td>
+		<td>suilip</td>
+		<td>BG8649UD</td>
+		<td align=center>22:02:39</td>
+		<td align=center>22:53:54</td	>
+		<td align=center></td>
+		<td>198</td>
+		<td>8230</td>
+		<td>3800</td>
+		<td>4430</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>152/SOGE03/12/2010</td>
+		<td>A000165</td>
+		<td>SOGE</td>
+		<td align=center>SOGE03</td>
+		<td>saher</td>
+		<td>BG8796F</td>
+		<td align=center>22:03:59</td>
+		<td align=center>23:05:30</td	>
+		<td align=center></td>
+		<td>172</td>
+		<td>8200</td>
+		<td>3610</td>
+		<td>4590</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right></td>
+		<td>A000161</td>
+		<td>PT.BANDAR SAWIT UTAMA</td>
+		<td align=center></td>
+		<td>selamet</td>
+		<td>BG8709F</td>
+		<td align=center>21:55:55</td>
+		<td align=center>23:07:26</td	>
+		<td align=center></td>
+		<td>270</td>
+		<td>9500</td>
+		<td>3580</td>
+		<td>5920</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>183/SOGE01/12/2010</td>
+		<td>A000112</td>
+		<td>SOGE</td>
+		<td align=center>SOGE01</td>
+		<td>MARWAN</td>
+		<td>BG9933MB</td>
+		<td align=center>17:32:10</td>
+		<td align=center>23:09:21</td	>
+		<td align=center>1985</td>
+		<td>51</td>
+		<td>2390</td>
+		<td>960</td>
+		<td>1430</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>148/SOGE02/12/2010</td>
+		<td>A000158</td>
+		<td>SOGE</td>
+		<td align=center>SOGE02</td>
+		<td>fatimah</td>
+		<td>BG4617FA</td>
+		<td align=center>21:48:54</td>
+		<td align=center>23:11:02</td	>
+		<td align=center></td>
+		<td>175</td>
+		<td>7670</td>
+		<td>2990</td>
+		<td>4680</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>144/SENE08/12/2010</td>
+		<td>A000155</td>
+		<td>SENE</td>
+		<td align=center>SENE08</td>
+		<td>soleh</td>
+		<td>BG4217LF</td>
+		<td align=center>21:43:49</td>
+		<td align=center>23:12:34</td	>
+		<td align=center></td>
+		<td>267</td>
+		<td>10980</td>
+		<td>3530</td>
+		<td>7450</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>019/WKNE02/12/2010</td>
+		<td>A000157</td>
+		<td>AFD 8</td>
+		<td align=center>WKNE02</td>
+		<td>jupri</td>
+		<td>BE9170WA</td>
+		<td align=center>21:47:14</td>
+		<td align=center>23:14:10</td	>
+		<td align=center>1996</td>
+		<td>253</td>
+		<td>7390</td>
+		<td>3310</td>
+		<td>4080</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>370/SKNE06/12/2010</td>
+		<td>A000167</td>
+		<td>SKNE</td>
+		<td align=center>SKNE06</td>
+		<td>sugito</td>
+		<td>BG4814FB</td>
+		<td align=center>22:07:27</td>
+		<td align=center>23:15:58</td	>
+		<td align=center></td>
+		<td>417</td>
+		<td>8280</td>
+		<td>3170</td>
+		<td>5110</td>
+		</tr>
+		
+	    <tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#ffffff'>
+		<td align=right>339/SKSE02/12/2010</td>
+		<td>A000174</td>
+		<td>SKSE</td>
+		<td align=center>SKSE02</td>
+		<td>alex</td>
+		<td>BG9821LF</td>
+		<td align=center>22:23:06</td>
+		<td align=center>23:17:32</td	>
+		<td align=center></td>
+		<td>411</td>
+		<td>10100</td>
+		<td>3210</td>
+		<td>6890</td>
+		</tr>
+		<tr style='font-family:tahoma,Arial Narrow;font-size:11px;background-color:#efefef'>
+			<td align=center colspan=9 align=right><b>TOTAL:</b></td>
+			<td>48992</td>
+			<td>1290090</td>
+			<td>510180</td>
+			<td>779910</td>
+			</tr>			
+		</table>
+
+<font size=2>Printed:26-12-2010 00:27:58</font>
